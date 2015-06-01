@@ -1,3 +1,17 @@
+/
+//the base maps
+var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
+  layers: 0
+});
+
+var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
+  layers: 0
+});
+
+var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WmsServer?", {
+  layers: 0
+});
+
 var southWest = L.latLng(40.424402, -80.786011),
   northEast = L.latLng(45.277236, -71.502564),
   bounds = L.latLngBounds(southWest, northEast);
@@ -5,13 +19,20 @@ var southWest = L.latLng(40.424402, -80.786011),
 var map = L.map('map', {
   'zoomControl': false,
   'maxBounds': bounds,
-  'minZoom': 7
+  'minZoom': 7,
+  layers: [nationalMap]
 }).setView([42.531257, -75.171997], 7);
 
-//the base map
-var wms = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WMSServer", {
-  layers: 0
+var basemaps = {
+  "The National Map Base Layer": nationalMap,
+  "The Nationap Map + Aerial Imagery": imageryTopo,
+  "The National Map Imagery": imagery
+}
+
+L.control.layers(basemaps, null, {
+  position: 'topleft'
 }).addTo(map);
+
 
 //nice progress bar
 var progress = document.getElementById('progress');
@@ -39,15 +60,7 @@ var pointStyle = {
   fillOpacity: 0.8
 }
 
-var pointStyleSchool = {
-  radius: 5,
-  fillColor: "#073f80",
-  color: "#000",
-  weight: 1,
-  opacity: 1,
-  fillOpacity: 0.8
-}
-
+//begin filter and add data to layers
 var all = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
@@ -258,7 +271,10 @@ var geoJson = L.geoJson(NY, {
   }
 });
 cemetery.addLayer(geoJson);
+//end filter and add data to layers
 
+
+//reset button
 $("#reset").click(function() {
   if (map.hasLayer(school)) {
     map.removeLayer(school);
@@ -291,6 +307,7 @@ $("#reset").click(function() {
   $("button").find('span').removeClass('glyphicon glyphicon-ok');
 });
 
+//add and remove layers trough buttons
 $("button").click(function(event) {
   layerClicked = window[event.target.id];
   if (map.hasLayer(all)) {
@@ -303,6 +320,7 @@ $("button").click(function(event) {
   }
 });
 
+//add checkmark to each button
 $("button").click(function() {
   if ($(this).children().hasClass('glyphicon glyphicon-ok')) {
     $(this).find('span').removeClass('glyphicon glyphicon-ok');
