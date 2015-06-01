@@ -1,4 +1,4 @@
-{"name":"CO","type":"FeatureCollection"
+var CO = {"name":"CO","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8393446,40.6816197000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064297","State":"CO","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9251301,38.9000507000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064594","State":"CO","FCode":"78006","Feature":"Post Office"}}
