@@ -1,4 +1,4 @@
-{"name":"AK","type":"FeatureCollection"
+var AK = {"name":"AK","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-158.7650642,56.2541598000001]},"properties":{"FType":"740","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1657723","State":"AK"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-131.8094284,55.4694067]},"properties":{"FType":"740","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1657772","State":"AK"}}
