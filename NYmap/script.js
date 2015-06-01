@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-/
->>>>>>> master
 //the base maps
 var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
   layers: 0
