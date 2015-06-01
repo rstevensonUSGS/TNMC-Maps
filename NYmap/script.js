@@ -1,4 +1,3 @@
-/
 //the base maps
 var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
   layers: 0
@@ -69,7 +68,13 @@ var all = new L.markerClusterGroup({
 var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
-    return L.circleMarker(latlng, pointStyle).bindPopup(popupContent);
+    var customIcon = L.icon({
+            iconUrl: './src/icon/' + feature.properties.FCode + '.png',
+            iconSize: [24, 24],
+        });
+    return L.marker(latlng, {
+      icon: customIcon
+    }).bindPopup(popupContent);
   }
 });
 all.addLayer(geoJson).addTo(map);
@@ -86,7 +91,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/School.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -108,7 +113,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Ambulance.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -130,7 +135,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/College.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -152,7 +157,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Fire.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -174,7 +179,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Hospital.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -196,7 +201,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Law.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -218,7 +223,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Post.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -240,7 +245,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Prison.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
@@ -262,7 +267,7 @@ var geoJson = L.geoJson(NY, {
   pointToLayer: function(feature, latlng) {
     var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
     var customMarker = L.icon({
-      iconUrl: 'src/icon/Cemetery.png',
+      iconUrl: './src/icon/' + feature.properties.FCode + '.png',
       iconSize: [24, 24],
     });
     return L.marker(latlng, {
