@@ -65,21 +65,23 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
-    var customIcon = L.icon({
-            iconUrl: './src/icon/' + feature.properties.FCode + '.png',
-            iconSize: [24, 24],
-        });
-    return L.marker(latlng, {
-      icon: customIcon
-    }).bindPopup(popupContent);
-  }
+$.getJSON("../data/NY.json", function(data) {
+  var geoJson = L.geoJson(data, {
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
+      var customIcon = L.icon({
+        iconUrl: './src/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customIcon
+      }).bindPopup(popupContent);
+    }
+  });
+  all.addLayer(geoJson).addTo(map);
 });
-all.addLayer(geoJson).addTo(map);
 
-var school = new L.markerClusterGroup({
+/*var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
@@ -276,7 +278,7 @@ var geoJson = L.geoJson(NY, {
   }
 });
 cemetery.addLayer(geoJson);
-//end filter and add data to layers
+//end filter and add data to layers*/
 
 
 //reset button
