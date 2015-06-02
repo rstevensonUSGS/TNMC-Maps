@@ -1,7 +1,6 @@
 {"name":"NY","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5358899999999,42.00131]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720793","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4001125999999,43.5689560000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1777958","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.031516,41.2553899000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871291","State":"CT","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0740317999999,41.4162049]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1876853","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5197085,42.1570155000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1876869","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -1445,6 +1444,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8716262,42.9078438000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896690","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6881529,40.8289881000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896696","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8726358,40.7003807]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896705","State":"","FCode":"82010","Feature":"Cemetery"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7842995,40.8492671000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896717","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.359314,42.2403646000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896720","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3653224999999,42.415891]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896728","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9030172,42.9395095]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1896745","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -1834,6 +1834,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2487831999999,42.3420255]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901803","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1866667,40.8586111000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901817","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8783333,42.1527778000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901819","State":"","FCode":"82010","Feature":"Cemetery"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4389755999999,40.8714893000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901826","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.9838889,42.7166667000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901837","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5588888999999,42.2916667000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901838","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5863026,43.9706239000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1901872","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -2475,6 +2476,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2810965,43.1311744000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910681","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9880555999999,42.8988889]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910694","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1704826,44.7161712000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910725","State":"","FCode":"82010","Feature":"Cemetery"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7701325,40.8581559]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910727","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0823889,42.0131430000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910728","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3362311,40.7128772]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910765","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0472222,41.6969444000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1910768","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -2571,6 +2573,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1971971999999,42.4434046000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912070","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7030556,42.635]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912074","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5641667,42.2872222]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912090","State":"","FCode":"82010","Feature":"Cemetery"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8334677,40.8251007000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912120","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9423601,41.5103715000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912121","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4113244,42.7128479]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912136","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0991,43.0763000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1912174","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -3896,6 +3899,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6452351,44.5856155000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930478","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3083333,42.6927778]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930516","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.23,42.5438889000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930527","State":"","FCode":"82010","Feature":"Cemetery"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8820486,40.7567654000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930541","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0976656999999,44.9219894]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930543","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.7503086,42.8522810000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930553","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2493305,42.8214603000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1930561","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -4845,6 +4849,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7504499999999,40.9264700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943389","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.01831,43.0811200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943402","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4,42.61859]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943418","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0394297999999,40.6999240000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943420","State":"NJ","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7512599999999,42.9031200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943433","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.17155,44.5955700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943435","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7299,40.67386]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943454","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5003,12 +5008,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.89735,40.9303]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944678","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.76005,42.25595]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944682","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.49107,42.90018]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944687","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9562099999999,40.7431500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944701","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7318999999999,40.79139]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944702","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91531,40.76942]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944711","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.32023,44.87976]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944716","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.00269,40.60231]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944719","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.7471199999999,41.80199]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944720","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0703799999999,43.03878]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944724","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6576699999999,40.6021000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944729","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8630899999999,41.0760900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944738","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.13647,42.2068400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944747","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.16491,42.06523]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944765","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5071,6 +5078,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.93945,41.26097]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945223","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.75424,42.6523800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945228","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.9888099999999,43.0283400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945233","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.24969,40.51194]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945235","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7602199999999,42.66218]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945240","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.33203,42.6220000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945246","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.83777,40.9128200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945249","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5496,6 +5504,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.37535,43.00645]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948930","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3344999999999,42.4839200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948935","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.01197,41.2354]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948943","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8184381,40.6080018000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948985","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3081051999999,42.6700215000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948989","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.661352,42.4380173000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948998","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0244264999999,40.6081588000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1949006","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -5667,6 +5676,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7694916,42.3889654000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950562","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1409199999999,40.8187153000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950568","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.689261,42.5503088]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950575","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91579,40.8059000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950584","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6657288,40.6426245000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950586","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.07937,43.1141913000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950597","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0864205999999,43.6411888000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950602","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -5952,6 +5962,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8837219,42.7584786]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952698","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9905367,42.7952205]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952710","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6295587,40.5878964]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952711","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.94498,40.7664600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952718","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5864132999999,41.3277176]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952739","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9987517,42.3006711]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952740","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7502305,42.7330710000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952749","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6133,6 +6144,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5101301999999,40.777566]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954080","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4191125999999,42.5376933000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954081","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8163595,40.5863649]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954097","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9423116,40.7704141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954098","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5392361999999,43.0849242]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954115","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3931484,40.7193334]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954127","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0417704,41.8381714000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954144","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6233,6 +6245,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9829946,43.6920867000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954855","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1150846,43.1114915000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954869","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9965822999999,40.7565374000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954875","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1985569,40.6400875000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954882","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3344744,42.4802991]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954896","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3227747999999,42.3525586000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954906","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1686668,41.1237479000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954916","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6457,6 +6470,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3935782999999,41.7183558]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956745","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5119708999999,43.2338235]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956750","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9987379,41.8530021]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956754","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6516043,40.5945976]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956756","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.980985,42.1806381000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956765","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1225289,40.8078868000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956770","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.9780575,44.8382121000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956775","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6768,6 +6782,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0316791,43.0172828]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959201","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9953644,41.9267212]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959207","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4278383,42.0899456000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959218","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0869307999999,41.8142044000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959226","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0273837999999,42.6327967]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959228","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4281496,42.4588784000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959232","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0835706,42.6603808]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1959254","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7009,6 +7024,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9266618999999,41.2769343000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961241","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4982310999999,42.5006828000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961243","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.96501,44.1945269]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961244","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6540298,40.6080537]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961250","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9835399999999,40.73614]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961251","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5098987,43.7554440000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961261","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1281565,40.9161215]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961266","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7055,6 +7071,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8966242,40.9468789000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961678","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2011204,40.7852907000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961688","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9475077,41.0217909]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961717","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9567946,40.7542592]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961722","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5830525,43.1001477]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961731","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1982181,40.7921942]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961734","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5306682999999,40.7688118]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961772","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7269,6 +7286,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.871705,44.9356039]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963580","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5961834,42.4410132]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963582","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2054169,41.2392433000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963587","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9516594,40.7450435000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963591","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1725555,42.3968780000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963592","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9373462,40.8845067]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963594","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6625329999999,44.5330453]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963596","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7498,6 +7516,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6981987,40.8308926]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965529","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9706202,42.0889326000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965536","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6964573,42.3992928000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965538","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7846051,40.8455747]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965549","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6341659999999,43.4558271000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965565","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5558053999999,44.8178503]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965569","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1585014999999,40.8873873000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965570","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7593,6 +7612,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.551254,42.1985653]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966390","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.428952,43.8476172000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966398","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.9208520999999,42.9955365000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966399","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.415967,40.8884381]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966403","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.376131,40.8943046000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966409","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9648544,41.1952782000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966422","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1169818,42.4718966]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966444","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7810,6 +7830,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.1934371,42.2331959000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968415","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.550758,40.9070095000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968430","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5646833,42.2852395]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968431","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9528235,40.7654332000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968432","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8490950999999,42.4189230000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968434","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5878168,43.2040713000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968454","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3145694999999,42.3330119]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968471","State":"NY","FCode":"74001","Feature":"Ambulance Services"}}
@@ -8721,6 +8742,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7184045,43.2414418000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975799","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8628793999999,41.0079864000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975802","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3753356,43.5519582000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975804","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9859716,40.7132286]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975806","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0940290999999,40.7348892000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975809","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8970583,40.8703187]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975818","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0084646999999,40.7367649]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975835","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -8876,6 +8898,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0682952,40.6019116000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977067","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7006044999999,40.6744296000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977070","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9564927,40.701688]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977079","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1046162,40.6441674000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977081","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.004987,43.5147963000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977087","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.89529,42.8086000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977091","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8308322999999,40.9376345000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977093","State":"NY","FCode":"73002","Feature":"School"}}
@@ -9140,10 +9163,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8744131,40.7551778000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978917","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8305477,40.8965865000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978924","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7977617,43.1262502000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978950","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8239977,40.5862467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978954","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9450739,40.6152188]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978964","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9153992,40.6955284000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978973","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8840041,43.9718646000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978977","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8838646,40.7014751]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978983","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3786563,42.4429263000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978985","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9112883,40.8398397]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978990","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.6391167,43.1467789000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978993","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.665679,42.7153396000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978994","State":"NY","FCode":"73002","Feature":"School"}}
@@ -9725,6 +9750,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2986859,42.9841981000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983271","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0232066,40.7630706]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983280","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.074355,41.1628792000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983281","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8868608,40.8141952]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983288","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9125069999999,40.7184629000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983291","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1850899999999,41.1886400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983306","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.0881715,42.6268466000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983307","State":"NY","FCode":"73002","Feature":"School"}}
@@ -9840,6 +9866,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8610298,42.6266184]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984023","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7746064999999,41.0203608]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984027","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5818379,43.2834412]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984035","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7847853,40.8437958000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984044","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8422977,40.8987096000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984048","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3718683,40.720803]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984053","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0612383,41.1333732000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984059","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10010,6 +10037,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9452855,40.6857564000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985386","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5427999999999,40.6755360000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985388","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9055632,40.8321842]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985405","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8195056,40.8139731000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985410","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9670813,40.6151166000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985420","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9483542,40.7197282000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985452","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.830089,42.7149519000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985454","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10093,6 +10121,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9667545999999,40.7971759000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986061","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0736836999999,40.7593632000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986062","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0764305,40.7869897]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986065","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9800342999999,40.7153116000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986074","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7866577,40.5909351]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986077","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.434539,42.0823477000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986092","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.43396,43.457639]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986113","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10214,6 +10243,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.043236,41.9328996]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986935","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9595748,40.7060331000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986936","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1045548,40.8332246000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986941","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8561338,40.8151498]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986951","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.744827,42.7628416000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986960","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9780353,40.7819127000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986962","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.022886,40.6329765]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986972","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10268,6 +10298,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8654364,42.7982453000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987379","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8672263,40.8993462]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987392","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5813904999999,40.7056871]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987398","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8379054,40.8257335000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987400","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2349217999999,43.0911853000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987401","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6701684,40.5863474000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987410","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5799091,42.9058162000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987417","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10290,6 +10321,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8120079,41.1347653]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987542","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.6099603,43.1929028000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987551","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8433671,40.9635710000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987558","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9304251999999,40.7883013000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987559","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3303719,40.7395353000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987569","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5444298,40.7331945]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987570","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6740364999999,40.7277188]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987573","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10299,6 +10331,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9189883,40.8275590000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987594","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9678669,42.1668235000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987599","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8786246,40.8318288]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987601","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6343090999999,40.5947825000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987608","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6311941,43.2978041000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987611","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9175786,40.87042]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987617","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0322864,40.8700186]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987622","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10348,6 +10381,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8465829,40.9296823]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987947","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.999947,44.6637610000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987952","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.9347385,42.1296481000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987962","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2926947999999,40.9989943]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987971","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.818074,40.8229775]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987976","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4678456999999,42.4753025000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987995","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4011282,42.618476]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988004","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10373,6 +10407,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8961699,42.5436142]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988169","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.161937,40.6105279000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988202","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.98544,40.63192]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988207","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0833289,40.6475409000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988211","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9531011,40.6590448000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988212","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3020276,40.7049134000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988213","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.781177,40.7052780000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988214","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -10390,6 +10425,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3949631,40.6788927000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988329","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8843985999999,40.7512530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988336","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0012168,40.6357224000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988342","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6466903,40.6068032000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988343","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.977862,43.1377472]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988344","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8849259,40.9717547000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988349","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8184294,40.7742957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988366","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10433,6 +10469,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9311059,41.0864250000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988635","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9218786,40.8438227]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988645","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8838557999999,40.8504276]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988659","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9150984999999,40.8064745]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988668","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.633008,40.7063155000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988677","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8918863,40.9315088000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988683","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.3079532,42.4472112]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988689","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10545,6 +10582,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.79257,42.6538100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989369","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.6629334,43.0611379000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989375","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9437905,43.1599733]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989378","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9760813,40.7183218000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989380","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9191951999999,40.8192720000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989395","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9965329,40.7115816]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989400","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.895282,42.735016]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989402","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10597,6 +10635,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7887229999999,42.8590340000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989692","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.15883,40.581986]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989698","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7881394999999,41.06717]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989703","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9498508,40.7682191000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989737","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.67752,42.7443756000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989738","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9475383,42.0774929]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989755","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1954737,42.5094156000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989776","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10641,6 +10680,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6364854999999,43.079798]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990102","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2951944,40.7569709000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990123","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.6926214,43.2443328000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990124","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0355516,40.6367077]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990127","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3696208,40.7882973000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990130","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9859132999999,40.6372243000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990134","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9132695,41.5884427]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990145","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10724,6 +10764,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2606454,43.1378259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990841","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9798512,40.6265070000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990856","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8213471,42.8677389000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990866","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8853149,40.8158115000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990872","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6678735,40.7140472]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990874","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.830742,42.6247730000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990878","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.9546025,42.5385074000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990887","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10832,6 +10873,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.350444,42.5111465000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991801","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8283532,42.1009901]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991802","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7392627999999,40.9972277000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991818","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.985989,40.7132332]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991826","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9039007,40.7164024000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991842","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8396883999999,40.8841958]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991850","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9027133,40.8339231000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991859","State":"NY","FCode":"73002","Feature":"School"}}
@@ -10871,6 +10913,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4633360999999,40.7792057]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992117","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9857411,40.5982083000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992119","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9634101999999,40.627218]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992124","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0389226999999,40.6274083000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992126","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.871571,43.0286051000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992134","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7095974,41.131608]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992139","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9570671,40.7840901000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992140","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11293,6 +11336,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8708870999999,43.0587636000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995238","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7019169,40.7012800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995243","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.6579455,42.3245818]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995249","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9476827,40.7641421000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995253","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0289312,41.4475224]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995257","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9952675,40.6347288000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995258","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7248130999999,40.6348094000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995261","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11314,6 +11358,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8301314,40.7605283]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995386","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0778215999999,43.6471225000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995392","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6986368999999,40.6584177]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995394","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9969105,40.6938806000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995405","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5826653999999,43.1752695000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995409","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9804065,40.6453172000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995410","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2672295,40.7933966000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995413","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11400,6 +11445,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7386311,41.0135090000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996068","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9021233999999,40.6992499]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996069","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1508797,40.5643923000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996075","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8567975999999,40.8185498]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996091","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.897005,42.9602850000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996101","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8136423,40.7530140000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996108","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8950139999999,40.9430079000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996113","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11512,6 +11558,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3083589,42.6672218000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996989","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.1629629999999,42.5321567]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996996","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.9491604999999,43.2035774]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996997","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8908031,40.6313368]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997003","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5992704,42.5623098]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997013","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.983774,40.7454641]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997015","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8899751,40.8587972]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997024","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11629,6 +11676,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2944732,43.2241051]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997801","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5428645,40.7302106000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997812","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3755881,40.7460574]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997814","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9859696999999,40.7132099]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997823","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0375764999999,40.7502448000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997838","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6157582,41.5512962]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997856","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8922702,40.5674964]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997867","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11862,6 +11910,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.1801932,42.4650006000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999713","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1592128,40.8841145000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999716","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9490168999999,40.8214798000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999721","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8561321,40.8151502000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999741","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.3345583,42.5814585000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999745","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9340422,40.5972143000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999751","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8901949,40.6656613000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999757","State":"NY","FCode":"73002","Feature":"School"}}
@@ -11994,6 +12043,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9469134999999,41.2603113000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000736","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9353927,40.6512007000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000744","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.7749929,42.0994866]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000757","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8606344999999,40.8168778]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000758","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8623499999999,40.930802]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000761","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0051248,40.7467695]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000767","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6945914,40.8144406000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000770","State":"NY","FCode":"73002","Feature":"School"}}
@@ -12258,6 +12308,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5883368,43.153825]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002825","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8533667999999,40.8384966]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002826","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7013745,43.4105161000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002833","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.983281,40.7143456000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002848","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8621644999999,43.0637451000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002849","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3753806999999,40.7049815]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002880","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8540541,42.9319464000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002882","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -12279,6 +12330,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.822704,42.1122320000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003026","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5932784999999,40.8200429]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003035","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.150405,40.6144831]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003036","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9081614,40.6339211000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003047","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0086846999999,40.6436401]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003058","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7731985,40.7196066000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003061","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6188094,40.7310788]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003062","State":"NY","FCode":"73002","Feature":"School"}}
@@ -12364,6 +12416,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.3256646999999,43.0937413]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003745","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8731688,40.6894256000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003747","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6550137999999,43.3534408]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003757","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9938918,40.5878519]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003759","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2572133,42.9903622000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003761","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0599885,40.8725234]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003763","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2543517999999,40.7315449000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003774","State":"NY","FCode":"73002","Feature":"School"}}
@@ -12386,6 +12439,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7741918999999,41.0931235]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003864","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0857200999999,40.9012432000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003868","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9448958,40.6674781]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003873","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.658406,40.6011259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003876","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5062356,40.7034493]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003886","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7279877999999,40.617036]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003889","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7902119999999,42.68026]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003892","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -12590,6 +12644,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4648154,42.4882891]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005385","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4427559,43.8363456000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005386","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8756377999999,40.993657]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005396","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9481733,40.7638460000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005399","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.7490235,42.9633518000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005405","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.7105657,42.2680712000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005408","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8423670999999,43.04299]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005409","State":"NY","FCode":"73002","Feature":"School"}}
@@ -12841,6 +12896,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.522974,43.3704299]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007273","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9775025,40.7197057000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007276","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0456131,41.1173234]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007278","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9549115,40.7629269]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007279","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0872614,40.8750577000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007281","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8339415,40.9379102]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007284","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8248369999999,40.6789685000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007292","State":"NY","FCode":"73002","Feature":"School"}}
@@ -12911,6 +12967,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2244583999999,40.5062345000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007786","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9168172999999,40.6546483000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007787","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9393522999999,40.8007757]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007791","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9350186999999,40.580384]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007793","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9558395,40.8075388]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007795","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5252462,43.0581269]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007798","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6315491999999,40.8382973000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007826","State":"NY","FCode":"73002","Feature":"School"}}
@@ -13103,6 +13160,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.918916,42.8299714]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009253","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9627712,41.7758147000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009271","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8741775,40.9221098]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009282","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9349582,40.5790564000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009284","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1388337,43.0422645]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009286","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.031101,43.087997]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009294","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.3144111,42.8154282]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009297","State":"NY","FCode":"73002","Feature":"School"}}
@@ -13155,6 +13213,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6798633,40.7845806]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009750","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9401781,40.6511058]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009754","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9340149,40.7572748000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009780","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9437723,40.5803801000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009789","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.9637685,43.0385995]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009798","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.7439732999999,43.0205017000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009800","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4217606,43.3081341000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009813","State":"NY","FCode":"73002","Feature":"School"}}
@@ -13236,6 +13295,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.96074,40.6745606000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010431","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9100495,41.633765]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010461","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9459754,40.6507712000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010464","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9300761,40.7893776000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010470","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5644109,40.6957711000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010475","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.9979999999999,42.0788030000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010478","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.7580976,42.9602663000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010482","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -13415,6 +13475,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9748919,40.629469]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011785","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8544898,42.1959858000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011787","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6739474999999,42.8919516]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011794","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8545602999999,40.5780100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011795","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6937632,40.8479636000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011804","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8668309,41.7430748]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011815","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0739695,42.1139744000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011816","State":"NY","FCode":"73002","Feature":"School"}}
@@ -13683,6 +13744,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1828874,42.6429809000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013673","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9281043,40.6744493]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013688","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.755104,43.081713]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013699","State":"NY","FCode":"73006","Feature":"College / University"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8884270999999,40.8153662]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013704","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8593405,40.7285535]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013705","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6064345,40.6312555000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013719","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.88303,41.9995865000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013725","State":"NY","FCode":"73002","Feature":"School"}}
@@ -13956,6 +14018,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0713188999999,43.0266361000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015653","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4314504,43.5635623000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015654","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8133119,40.7908777000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015661","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8853061,40.8158032000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015663","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1792091999999,41.3180474000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015664","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.4521561,43.0800913]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015676","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0343923,42.4414268]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015680","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14087,6 +14150,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5244977,43.4504335]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016522","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0032303,40.7408028]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016528","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9076135999999,40.9158672]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016530","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9840627999999,40.7123435]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016534","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9487298,40.7937261000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016546","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7122009999999,40.9606778]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016551","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9723936,40.7510223]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016552","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14222,6 +14286,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6683169999999,41.0201502]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017445","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9341815,41.0411265000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017449","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1455703,40.5458838000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017456","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7892974,40.8544813]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017459","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9931501999999,40.6082148]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017463","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0936713999999,41.7094288000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017464","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9723554999999,42.7970320000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017469","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14252,6 +14317,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1648163,40.7460512000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017649","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.077761,41.7447328000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017658","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.8930086,42.829685]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017662","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8606533999999,40.8175864]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017667","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8882932,40.9443335]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017670","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5501973,41.405764]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017673","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.83,42.9582270000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017715","State":"NY","FCode":"73006","Feature":"College / University"}}
@@ -14301,6 +14367,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6306324999999,42.7710516000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017988","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3487334,40.6910724000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017990","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.974273,42.3388200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017992","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9855247,40.7113957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017994","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8908709999999,42.9025575000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017999","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5568454,40.7289085]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018015","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9796267999999,40.7192638000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018016","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14316,6 +14383,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0910019,40.7831662]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018114","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9369002,40.7538088000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018116","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5941559999999,43.2037448]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018121","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9564745,40.7442]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018141","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6764305999999,44.4389873000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018144","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2724069,43.0951833]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018146","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3757002,42.1822572]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018152","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14398,6 +14466,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0114867,40.6487883]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018648","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8817531999999,40.6790906000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018658","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8667867,44.9314866]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018663","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9832696,40.7142988000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018669","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2541385,42.3063267000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018694","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5779901,40.6637184000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018705","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.81463,40.9408534]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018714","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14461,6 +14530,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9314247999999,40.9471896000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019108","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.999271,41.5603153000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019121","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.94204,42.7467300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019132","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8240132,40.5862253000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019135","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8715683999999,40.711552]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019140","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.1841138999999,42.8906884]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019147","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0306429,43.0161732]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019153","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14578,6 +14648,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3745906999999,43.5555217]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020003","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9386595,40.8070158]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020008","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9473462,40.8173396]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020027","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9088333999999,40.6330145000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020031","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0053179,40.6541934000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020032","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7375241,43.1396720000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020050","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4293567,40.8341988]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020056","State":"NY","FCode":"73002","Feature":"School"}}
@@ -14736,6 +14807,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7430530999999,40.6726604]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021385","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8884383,40.8596657000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021393","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9473976,40.7914198]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021398","State":"NY","FCode":"73002","Feature":"School"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8504811999999,40.5798714000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021404","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5112002,42.5291416000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021409","State":"NY","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1729779,40.7558018]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021412","State":"NY","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4152685999999,44.9900895000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021422","State":"NY","FCode":"73002","Feature":"School"}}
@@ -15121,6 +15193,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7247467999999,42.6165287000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065385","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.1971862,42.1181611000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065411","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9696944,40.7487800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065417","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2049772999999,40.6375652]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065427","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8860724,40.8547991]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065429","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6883563,40.9155654]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065436","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6984639999999,40.7978570000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065462","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -15427,12 +15500,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7526139999999,42.3269079]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068998","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6463158,42.8982492000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069004","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.2371274,42.4879208]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069007","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7851995999999,40.8437357]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069031","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7381670999999,42.3199206]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069034","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4482945999999,43.2189894000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069059","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.892074,43.185189]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069060","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3202969,43.0621107000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069061","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6821097,42.4161845]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069078","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.7919904999999,43.2875423]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069093","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7591225,40.8124072000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069111","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3484036,42.0558258]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069126","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8269142,42.8863508000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069131","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1149215999999,40.8526279000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069136","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -15528,6 +15603,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.0053129999999,43.5095183]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070215","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4543611,40.7652376]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070249","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9977603,40.7141899000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070290","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0184149,40.6881799000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070293","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3301403,41.5682549000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070296","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6429876,40.6393577000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070311","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5038357,44.0463096]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070313","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -15920,6 +15996,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8926321,44.9293223000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074941","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8722923,40.6839328]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074944","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9310116999999,42.8682470000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074955","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2968246,41.0017809]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074987","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0035460999999,40.720563]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074988","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.1122574999999,42.3412257000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074991","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8414025,40.9429676]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075002","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -16125,6 +16202,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9910087,40.7577312000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077158","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7534163999999,42.6531474000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077177","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5621563,42.4407492]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077191","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0890216,41.8142015000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077213","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9576213999999,40.6504550000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077218","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0984531,42.9320199000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077225","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8745226999999,41.3334274000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2077226","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -16355,6 +16433,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.94807,42.172578]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079505","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7770477,42.6686913]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079510","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5718682,43.1679884000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079511","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.471842,40.9909075]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079526","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.3788413,42.9162089000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079539","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4986077999999,40.6654485]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079546","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4361327999999,44.5516391]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079558","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -16443,6 +16522,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8258094999999,41.9017161]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080658","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5793644999999,43.0994796000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080667","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9763225999999,42.4179338000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080669","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6555850999999,40.6043098000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080685","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7818455999999,41.2786495]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080700","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8876822999999,42.8630640000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080742","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7502431,41.0388747000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080743","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -16539,6 +16619,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.2514092,43.3205562000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081828","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.388546,43.2205807]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081832","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8872049999999,42.7567069]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081837","State":"NY","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0101858,41.2575516000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081871","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1530852,43.374308]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081877","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8015549,42.6564144000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081896","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0832625,42.6602625]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081906","State":"NY","FCode":"78006","Feature":"Post Office"}}
@@ -16567,77 +16648,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6658080999999,42.5099636]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082078","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8796824999999,43.0170762000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082081","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4611804,41.0465530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082096","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9562099999999,40.7431500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944701","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6576699999999,40.6021000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944729","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.24969,40.51194]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1945235","State":"NY","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8184381,40.6080018000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948985","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91579,40.8059000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950584","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.94498,40.7664600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1952718","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9423116,40.7704141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954098","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1985569,40.6400875000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1954882","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6516043,40.5945976]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1956756","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6540298,40.6080537]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961250","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9567946,40.7542592]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961722","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9516594,40.7450435000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1963591","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7846051,40.8455747]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965549","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.415967,40.8884381]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1966403","State":"NY","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9528235,40.7654332000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1968432","State":"NY","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9859716,40.7132286]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975806","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1046162,40.6441674000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977081","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8239977,40.5862467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978954","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8868608,40.8141952]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1983288","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7847853,40.8437958000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984044","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8195056,40.8139731000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985410","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9800342999999,40.7153116000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986074","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8561338,40.8151498]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986951","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8379054,40.8257335000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987400","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9304251999999,40.7883013000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987559","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6343090999999,40.5947825000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987608","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2926947999999,40.9989943]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1987971","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0833289,40.6475409000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988211","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6466903,40.6068032000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988343","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9150984999999,40.8064745]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1988668","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9760813,40.7183218000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989380","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9498508,40.7682191000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1989737","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0355516,40.6367077]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990127","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8853149,40.8158115000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1990872","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.985989,40.7132332]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1991826","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0389226999999,40.6274083000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992126","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9476827,40.7641421000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995253","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9969105,40.6938806000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995405","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8567975999999,40.8185498]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996091","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8908031,40.6313368]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997003","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9859696999999,40.7132099]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997823","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8561321,40.8151502000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999741","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8606344999999,40.8168778]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000758","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.983281,40.7143456000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2002848","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9081614,40.6339211000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003047","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9938918,40.5878519]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003759","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.658406,40.6011259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2003876","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9481733,40.7638460000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2005399","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9549115,40.7629269]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007279","State":"NY","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9350186999999,40.580384]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007793","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9349582,40.5790564000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009284","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9437723,40.5803801000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2009789","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9300761,40.7893776000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2010470","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8545602999999,40.5780100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011795","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8884270999999,40.8153662]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013704","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8853061,40.8158032000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2015663","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9840627999999,40.7123435]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2016534","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7892974,40.8544813]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017459","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8606533999999,40.8175864]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017667","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9855247,40.7113957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017994","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9564745,40.7442]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018141","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9832696,40.7142988000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2018669","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8240132,40.5862253000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019135","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9088333999999,40.6330145000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020031","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8504811999999,40.5798714000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2021404","State":"NY","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2049772999999,40.6375652]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065427","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7851995999999,40.8437357]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069031","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.7591225,40.8124072000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069111","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0184149,40.6881799000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070293","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2968246,41.0017809]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074987","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.471842,40.9909075]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079526","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6555850999999,40.6043098000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080685","State":"NY","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0101858,41.2575516000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081871","State":"NY","FCode":"78006","Feature":"Post Office"}}
 ]}
