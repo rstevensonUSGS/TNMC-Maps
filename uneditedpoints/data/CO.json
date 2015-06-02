@@ -1,43 +1,42 @@
-({"name":"CO","type":"FeatureCollection"
+{"name":"CO","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8393446,40.6816197000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064297","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9251301,38.9000507000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064594","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6892176,38.3727053000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065130","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.4713029,40.6122463]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065583","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3544858,37.6779405]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066000","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2266399,40.8677530000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066099","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2818861,40.7299873000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066857","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2376021,37.373227]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067172","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6984601,37.9944917]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067188","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.0669174,40.7574684000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068069","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3048031,40.9748417000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069422","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2921973,39.2479858]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071077","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9482492,38.2465490000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071099","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1940089,39.4175195]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071776","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3134085,40.8599052000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071936","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.849069,37.1301448]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072167","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.5915589,39.6125368]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072268","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1400027,38.7103509]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072865","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1640322,38.3687151]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073150","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1135816,40.9619382000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073745","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8011188,40.8579306]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073923","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3276982,40.6341613000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074252","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1719329,40.7769949]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074401","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8808012,37.7451007000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075217","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1853433,38.7475901]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075380","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3593119,38.9817025]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076448","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.128408,37.1115479000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076452","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6451207,37.6663307000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078205","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4083304,37.3359542000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078355","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2878318,38.9446028]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078641","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3529366,40.9993433000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078920","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6075673,38.7031295]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080078","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6120488,38.2659662]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080311","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.381198,37.1619905000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080683","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8014619,39.3772667000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080906","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5360197,39.2181523]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081620","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9667807,38.8357078000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081650","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9088792,38.0002084000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081656","State":"CO"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3397731,40.4326845000001]},"properties":{"FType":"780","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082031","State":"CO"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8393446,40.6816197000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064297","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9251301,38.9000507000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064594","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6892176,38.3727053000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065130","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.4713029,40.6122463]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2065583","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3544858,37.6779405]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066000","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2266399,40.8677530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066099","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2818861,40.7299873000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066857","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2376021,37.373227]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067172","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6984601,37.9944917]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067188","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.0669174,40.7574684000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068069","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3048031,40.9748417000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2069422","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2921973,39.2479858]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071077","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9482492,38.2465490000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071099","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1940089,39.4175195]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071776","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3134085,40.8599052000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071936","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.849069,37.1301448]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072167","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.5915589,39.6125368]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072268","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1400027,38.7103509]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2072865","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1640322,38.3687151]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073150","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1135816,40.9619382000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073745","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8011188,40.8579306]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073923","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3276982,40.6341613000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074252","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1719329,40.7769949]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074401","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8808012,37.7451007000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075217","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1853433,38.7475901]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075380","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3593119,38.9817025]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076448","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.128408,37.1115479000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076452","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6451207,37.6663307000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078205","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4083304,37.3359542000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078355","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2878318,38.9446028]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078641","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3529366,40.9993433000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2078920","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6075673,38.7031295]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080078","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6120488,38.2659662]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080311","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.381198,37.1619905000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080683","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8014619,39.3772667000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080906","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5360197,39.2181523]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081620","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9667807,38.8357078000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081650","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9088792,38.0002084000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081656","State":"CO","FCode":"78006","Feature":"Post Office"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3397731,40.4326845000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082031","State":"CO","FCode":"78006","Feature":"Post Office"}}
 ]}
-)
