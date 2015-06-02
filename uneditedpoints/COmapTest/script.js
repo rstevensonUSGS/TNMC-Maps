@@ -107,7 +107,7 @@ var geoJson = L.geoJson(CO, {
 school.addLayer(geoJson);
 });
 
-var ambulance = new L.markerClusterGroup({
+/*var ambulance = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
@@ -282,7 +282,7 @@ var geoJson = L.geoJson(CO, {
   }
 });
 cemetery.addLayer(geoJson);
-//end filter and add data to layers
+//end filter and add data to layers*/
 
 
 //reset button
