@@ -11,8 +11,8 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   layers: 0
 });
 
-var southWest = L.latLng(40.424402, -80.786011),
-  northEast = L.latLng(45.277236, -71.502564),
+var southWest = L.latLng(36.879716, -109.318877),
+  northEast = L.latLng(41.129111, -101.826202),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
@@ -20,7 +20,7 @@ var map = L.map('map', {
   'maxBounds': bounds,
   'minZoom': 7,
   layers: [nationalMap]
-}).setView([42.531257, -75.171997], 7);
+}).setView([39.164233, -105.374786], 7);
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
