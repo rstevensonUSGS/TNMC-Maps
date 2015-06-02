@@ -83,11 +83,12 @@ $.getJSON('../data/NY.json', function(data) {
 });
 
 
-/*var school = new L.markerClusterGroup({
+var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
+$.getJSON('../data/NY.json', function(data) {
 var geoJson = L.geoJson(CO, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "School";
@@ -104,6 +105,7 @@ var geoJson = L.geoJson(CO, {
   }
 });
 school.addLayer(geoJson);
+});
 
 var ambulance = new L.markerClusterGroup({
   chunkedLoading: true,
@@ -281,7 +283,7 @@ var geoJson = L.geoJson(CO, {
 });
 cemetery.addLayer(geoJson);
 //end filter and add data to layers
-*/
+
 
 //reset button
 $("#reset").click(function() {
