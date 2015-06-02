@@ -66,7 +66,7 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON('./NY.json', function(data) {
+$.getJSON('../data/NY.json', function(data) {
   var geoJson = L.geoJson(data, {
     pointToLayer: function(feature, latlng) {
       var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
