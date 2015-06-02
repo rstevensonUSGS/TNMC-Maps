@@ -81,12 +81,13 @@ $.getJSON("../data/NY.json", function(data) {
   all.addLayer(geoJson).addTo(map);
 });
 
-/*var school = new L.markerClusterGroup({
+var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "School";
   },
@@ -102,13 +103,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 school.addLayer(geoJson);
+});
 
 var ambulance = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJsondata, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Ambulance Services";
   },
@@ -124,13 +127,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 ambulance.addLayer(geoJson);
+});
 
 var college = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "College / University";
   },
@@ -146,13 +151,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 college.addLayer(geoJson);
+});
 
 var fire = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Fire Station / EMS Station";
   },
@@ -168,13 +175,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 fire.addLayer(geoJson);
+});
 
 var hospital = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Hospital / Medical Center";
   },
@@ -190,13 +199,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 hospital.addLayer(geoJson);
+});
 
 var law = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Law Enforcement";
   },
@@ -212,13 +223,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 law.addLayer(geoJson);
+});
 
 var post = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Post Office";
   },
@@ -234,13 +247,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 post.addLayer(geoJson);
+});
 
 var prison = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Prison / Correctional Facility";
   },
@@ -256,13 +271,15 @@ var geoJson = L.geoJson(NY, {
   }
 });
 prison.addLayer(geoJson);
+});
 
 var cemetery = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geoJson = L.geoJson(NY, {
+$.getJSON("../data/NY.json", function(data) {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Cemetery";
   },
@@ -278,7 +295,8 @@ var geoJson = L.geoJson(NY, {
   }
 });
 cemetery.addLayer(geoJson);
-//end filter and add data to layers*/
+});
+//end filter and add data to layers
 
 
 //reset button
