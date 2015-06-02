@@ -11,8 +11,8 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   layers: 0
 });
 
-var southWest = L.latLng(36.879716, -109.318877),
-  northEast = L.latLng(41.129111, -101.826202),
+var southWest = L.latLng(40.424402, -80.786011),
+  northEast = L.latLng(45.277236, -71.502564),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
@@ -20,7 +20,7 @@ var map = L.map('map', {
   'maxBounds': bounds,
   'minZoom': 7,
   layers: [nationalMap]
-}).setView([39.164233, -105.374786], 7);
+}).setView([42.531257, -75.171997], 7);
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
@@ -59,13 +59,14 @@ var pointStyle = {
   fillOpacity: 0.8
 }
 
+
 //begin filter and add data to layers
 var all = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("./CO.json", function(data) {
+$.getJSON('./NY.json', function(data) {
   var geoJson = L.geoJson(data, {
     pointToLayer: function(feature, latlng) {
       var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
