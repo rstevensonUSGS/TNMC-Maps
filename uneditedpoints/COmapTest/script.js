@@ -89,7 +89,7 @@ var school = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON('../data/NY.json', function(data) {
-var geoJson = L.geoJson(CO, {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "School";
   },
