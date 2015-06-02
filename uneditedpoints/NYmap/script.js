@@ -111,7 +111,7 @@ var ambulance = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/NY.json", function(data) {
-var geoJson = L.geoJsondata, {
+var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Ambulance Services";
   },
