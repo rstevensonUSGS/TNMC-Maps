@@ -49,7 +49,7 @@ html, body {
 
 #title {
   height: 3vh;
-  background-image: url(src/shattered.png);
+  background-image: url("../img/shattered.png");
   padding: 0;
   z-index: 10000
 }
@@ -73,6 +73,6 @@ html, body {
 #overlay {
   padding: 10px;
   margin-left: 10px;
-  background-image: url("src/shattered.png");
+  background-image: url("../img/shattered.png");
   height: 100vh
 }
