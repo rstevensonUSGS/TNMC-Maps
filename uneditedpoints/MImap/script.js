@@ -11,16 +11,16 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   layers: 0
 });
 
-var southWest = L.latLng(41.235875, -73.778283),
-  northEast = L.latLng(42.923632, -69.746301),
+var southWest = L.latLng(41.230373, -90.308733),
+  northEast = L.latLng(47.176698, -81.849261),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
   'zoomControl': false,
   'maxBounds': bounds,
-  'minZoom': 8,
+  'minZoom': 7,
   layers: [nationalMap]
-}).setView([42.134268, -71.734826], 8);
+}).setView([43.931584, -86.177874], 7);
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
@@ -65,7 +65,7 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
   var geoJson = L.geoJson(data, {
     pointToLayer: function(feature, latlng) {
       var popupContent = '<a href=' + feature.properties.OSM_LINK + ' target="_blank">Edit this point</a>';
@@ -86,7 +86,7 @@ var school = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "School";
@@ -110,7 +110,7 @@ var ambulance = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Ambulance Services";
@@ -134,7 +134,7 @@ var college = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "College / University";
@@ -158,7 +158,7 @@ var fire = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Fire Station / EMS Station";
@@ -182,7 +182,7 @@ var hospital = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Hospital / Medical Center";
@@ -206,7 +206,7 @@ var law = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Law Enforcement";
@@ -230,7 +230,7 @@ var post = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Post Office";
@@ -254,7 +254,7 @@ var prison = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Prison / Correctional Facility";
@@ -278,7 +278,7 @@ var cemetery = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/MA.json", function(data) {
+$.getJSON("../data/MI.json", function(data) {
 var geoJson = L.geoJson(data, {
   filter: function(feature, layer) {
     return feature.properties.Feature == "Cemetery";
