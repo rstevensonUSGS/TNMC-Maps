@@ -18,9 +18,9 @@ var southWest = L.latLng(31.955799, -83.435441),
 var map = L.map('map', {
   'zoomControl': false,
   'maxBounds': bounds,
-  'minZoom': 7,
+  'minZoom': 8,
   layers: [nationalMap]
-}).setView([33.937801, -80.974504], 7);
+}).setView([33.937801, -80.974504], 8);
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
