@@ -32,6 +32,7 @@ body {
 }
 #content>p {
   margin-top: 10px;
+  font-size: 18
 }
 
 .navbar-default .navbar-brand {
