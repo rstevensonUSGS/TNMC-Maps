@@ -13,6 +13,12 @@
 </head>
 
 <body>
+<script>
+$(document).ready(function() {
+$('[data-toggle=offcanvas]').click(function() {
+  $('.row-offcanvas').toggleClass('active');
+});
+});</script>
   <div class="page-container">
   <!-- top navbar -->
   <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -24,7 +30,7 @@
           <span class="icon-bar"></span>
         </button>
         <img style="float: left; margin: 10px 15px 15px 0px;"src="./assets/img/tnmc.jpg" width="30%" height="auto">
-        <h1 id="title">National Map Corps Data Viewer</h1>
+        <h1 id="title">National Map Corps Data Viewer - Unedited Points</h1>
       </div>
     </div>
   </div>
