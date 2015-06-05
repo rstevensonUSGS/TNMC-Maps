@@ -3388,7 +3388,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.18907,37.7773700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718898","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.86939,37.58937]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718928","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.10225,38.4281]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718990","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.7558999999999,39.3430900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719014","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1917,37.7773]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719020","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.45377,38.4201100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719030","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.6129099999999,40.26937]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719131","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
@@ -3413,7 +3412,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.22633,37.26777]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719846","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.67029,38.46858]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719859","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.4673,39.0364300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719934","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9546999999999,39.6294]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719983","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.7106199999999,38.81847]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719993","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.73362,40.0190000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720005","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.88913,37.6756100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720039","State":"WV","FCode":"74034","Feature":"Law Enforcement"}}
@@ -4434,7 +4432,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.1665639999999,37.7808440000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770119","State":"","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.3398118,39.2787007000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770121","State":"","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.435844,37.3350320000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770122","State":"","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.957008,39.6298038]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770123","State":"","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.973429,39.439827]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770124","State":"","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.2790297,37.6728793]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770125","State":"","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.505783,38.205381]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770126","State":"","FCode":"74034","Feature":"Law Enforcement"}}

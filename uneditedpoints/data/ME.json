@@ -101,7 +101,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-69.59104,45.4580984]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946683","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-68.2539174999999,44.5280137]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946829","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-69.1126963,44.2934812]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946831","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.542384,44.5566995]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946863","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-69.8202601,43.8092705]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946924","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-67.2864377,45.1793036]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946953","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-69.1321511,44.1039194000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1946959","State":"ME","FCode":"74034","Feature":"Law Enforcement"}}

@@ -164,7 +164,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8861428,32.0523150000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667123","State":"NM","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.2116157,33.9239774000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667316","State":"NM","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.0205254,34.7089528000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667343","State":"NM","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5141349,33.3587111000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667391","State":"NM","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3568887,32.9684521]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667453","State":"NM","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5641774,36.4047487]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667494","State":"NM","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.0805727,32.6711914000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1667650","State":"NM","FCode":"82010","Feature":"Cemetery"}}
@@ -593,7 +592,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.148058,35.6874120000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1696872","State":"NM","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.584608,36.3796436000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697040","State":"NM","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1658863,34.4024829000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697046","State":"NM","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5248763,33.4095216000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697050","State":"NM","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5932674,35.1025540000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697099","State":"NM","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.726277,35.502367]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697108","State":"NM","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0985648,36.0074515000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697231","State":"NM","FCode":"73006","Feature":"College / University"}}
@@ -624,7 +622,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2373821,34.4694882000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699304","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.4795513,32.8888632000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699341","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.8176864,31.9512611000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699362","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5096105,33.4571964]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699408","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8682368,33.0018073000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699486","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0546603,36.0905382]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699495","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7417514,34.8165857000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1699507","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -827,7 +824,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.29925,32.7129600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706167","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3203076,36.4248444]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706189","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1232326,35.2724868]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706195","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5949261,33.4524631]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706206","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1834523,35.2296390000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706241","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0481766,36.3040358000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706255","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.2832104,33.1210591]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706284","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -842,7 +838,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.691258,34.8358863]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706741","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4043083,32.8833387]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706823","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8138185,32.9427933000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706844","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5242784,33.3621782000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706845","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6876365,36.7866109]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706866","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4157195,33.3121167]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706867","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5353017,31.9139273000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706975","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -856,7 +851,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5134911,32.8059842000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707151","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.0250039,34.7942656000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707157","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5283119,33.4933356000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707199","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5952844,33.3846733]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707286","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8470024,36.0001497000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707307","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7745465,34.6598568000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707311","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.2075004,35.1144315000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707314","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -886,7 +880,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9704864,36.7115611]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708442","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.755928,35.2298515000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708443","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2108452,32.7815745]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708454","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5146576,33.4320907000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708529","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3082182,32.9753637000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708618","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9334876,35.7582130000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708652","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7244674,35.2158064000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1708686","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -988,7 +981,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1791342,36.1728939000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711550","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4013839,34.6153347000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711571","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6778692,34.7227085000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711750","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.524736,33.3917467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711781","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.481502,35.3790080000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711784","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2267973,33.3707321000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711807","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2227227,32.8604974]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1711820","State":"NM","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1205,7 +1197,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0254055,35.6291946000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719061","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3725492,35.0946087]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719236","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6662139,33.3583348000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719245","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5240978,33.3760268]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719266","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5801464,36.9044973000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719322","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0631447,34.7570595]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719407","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4112718,34.9977712]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719465","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1235,7 +1226,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2027973,34.6010844]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720440","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0624954,34.7595912]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720485","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1961219,35.945251]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720491","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.524045,33.3940354000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720599","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6791058,35.2411522]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720600","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0892815,36.0106157000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720632","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.18577,36.45257]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720741","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1275,7 +1265,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7563277,32.2610842]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722164","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6157622,35.2228702]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722177","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.7276784,35.1765332000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722227","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.52298,33.39302]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722282","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1712009,32.4417796000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722365","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2275986,35.5921011]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722385","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3255342,33.1142618000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722447","State":"NM","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1313,7 +1302,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4169722,34.8901463]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724441","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1395484,35.6986883000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724503","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3477935,32.9653627000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724510","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5210971,33.417108]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724587","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1932944,36.4541983]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724605","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2107038,35.6233056]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724633","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7910326,35.0870072000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724648","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -1322,7 +1310,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1564945,32.788579]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724884","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6313678,33.3223064000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724948","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8270995,35.1623280000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724959","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5283547,33.4243612000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1725082","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7298069,35.5076229000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1725116","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5770036,36.3684847000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1725131","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.241927,33.1403806000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1725195","State":"NM","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -1364,7 +1351,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9377064,32.905497]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732854","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1769629,36.4507896000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732860","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2143021,35.6182061000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732886","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.517707,33.3394074]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732898","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2784838,32.7793036]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732930","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2234002,35.5942961000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732954","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6521356,33.9491397]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732965","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1386,7 +1372,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5997023,36.7205762]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734194","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8044506,32.3249127]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734227","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7747966,34.6656337000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734342","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.523327,33.4097393000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734405","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.60167,36.5242690000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734434","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.137149,32.681496]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734471","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9769293,36.7153096000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734472","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1401,7 +1386,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1699086,36.7449722000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734820","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.575975,36.7049643]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734872","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2449002,32.4315871000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734891","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5135329,33.4277036]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734897","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2031125,36.7184035000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734922","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5847733,36.3800611]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1735019","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7936901,32.3113704]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1735087","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1452,7 +1436,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5113946,33.4736228]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737343","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5752163,36.4074163000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737491","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2791162,32.7822615000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737516","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5395262,33.3906179000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737525","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6588488,33.3585141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737559","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7055467,35.0612794]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737648","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.15606,36.0895646000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737707","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1479,7 +1462,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7740773,34.665421]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739110","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3348354,35.9705347]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739130","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.696115,35.0119500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739208","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.535393,33.3610338]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739213","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4514173,36.8869011]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739256","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2626526,36.5549259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739309","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.044546,34.9905207]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739436","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1488,7 +1470,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7896713,32.3205696000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739604","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.564371,36.3900630000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739695","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3252429,33.118028]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739826","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5060682,33.3862877]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739851","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6574255,33.3570320000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739879","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.139708,35.6920126000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739888","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7250679,34.8083876000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1740006","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1568,7 +1549,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5848963,36.3797716]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1744682","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6505619,31.9848369000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1744860","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3470759,34.1903657]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745015","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5295628,33.4528894000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745098","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7737792,34.6571748000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745162","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7713372,34.6603563]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745184","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1383785,36.7775603000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745217","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1610,7 +1590,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6846281,34.9398726000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747077","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.427586,32.8393695]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747158","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.666292,35.1908874000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747197","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.557985,33.3986856000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747289","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7587895,32.2673886000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747304","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7363512,32.3273903]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747326","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.728045,34.7998880000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1747376","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1629,7 +1608,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.9569141,35.7802851000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748031","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5937701,36.7257936]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748078","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3187236,32.8482825]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748229","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5283534,33.4297480000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748256","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8138769,32.3142076]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748286","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7807668,32.3096542000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748387","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.25263,33.1488728]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1748414","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1742,7 +1720,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.192038,34.4099210000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1753917","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.244719,32.4294838000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754033","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6582305,31.9974796000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754132","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5337549,33.4163547000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754141","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2467976,32.4152516]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754210","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4378976,36.9094051000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754245","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9283945,32.9116402000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754297","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1764,7 +1741,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7258954,34.6620632]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755061","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8375355,36.391104]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755109","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5538279,36.7000979000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755130","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5480728,33.389803]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755156","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.548355,35.4669962]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755239","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2054565,36.7499891000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755357","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7353689,32.3709967]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755404","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1783,7 +1759,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7506531,32.3381579000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756191","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8787208,33.6442856]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756252","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3384234,34.1707568]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756351","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5255,33.3967000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756407","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0795829,35.9897261]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756445","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7320991,34.8050241]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756496","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.942902,36.0280622000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756548","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1801,7 +1776,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2474392,32.4178880000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757033","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5256432,35.1169007]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757102","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2108727,36.7305364000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757133","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5583257,33.3856200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757140","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2821488,32.7499939000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757182","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5439124,36.5392529000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757239","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6336217,35.2661587000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1757350","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1829,7 +1803,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.82946,32.3795773000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758508","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7686907,32.33169]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758522","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6182,35.7758000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758692","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.54234,33.387792]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758749","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3763887,33.1988266000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758766","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.010526,36.8323088000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758896","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7285579,35.2390469000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759102","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1837,7 +1810,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6848577,35.2348279]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759155","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2188494,35.593443]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759160","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6092993,32.9672052]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759334","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5270463,33.3717304]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759391","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1922419,35.0745019]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759495","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9995835,36.8201621000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759496","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.011314,35.902989]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759575","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1848,7 +1820,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0605899,34.7627513]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1759976","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1301,32.69714]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760067","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9015175,34.0825375000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760120","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5137597,33.3718744]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760127","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7765517,32.3068912000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760154","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3471635,35.9557762000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760193","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6793268,35.579369]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1760325","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1874,7 +1845,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7005483,32.3467507]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761269","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5430189,36.5386572]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761304","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5863547,36.3638386000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761400","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5307016,33.3860591000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761483","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7305403,34.8084107]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761558","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9992333,36.8176272000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761591","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1936628,35.0972272000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1761607","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1939,9 +1909,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1658677,36.7674341000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765056","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3503,32.9387100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765107","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8410148,35.1524643000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765123","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.532085,33.3970330000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765155","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.2104636,34.4126312000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765177","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5324759,33.3769455]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765205","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2494195,32.4135546000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765252","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6955158,34.733078]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765295","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6108603,32.965944]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1765296","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1980,7 +1948,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.7362717,35.1632058000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766940","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6179535,34.7650540000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766994","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9506681,32.902701]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767111","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5575725,33.3982821000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767173","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1310806,32.7153481]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767179","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.1894658,36.7508270000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767241","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6560274,35.5286096]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767415","State":"NM","FCode":"73002","Feature":"School"}}
@@ -1989,7 +1956,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0799,36.008883]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767502","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.0996459,32.2788616]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767568","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.22264,35.403979]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767585","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5133442,33.4245374000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767760","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5825878,33.5447292000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767777","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.14261,32.6693427000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767816","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9888865,36.944664]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767879","State":"NM","FCode":"73002","Feature":"School"}}
@@ -2019,7 +1985,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9402164,32.8925108]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769081","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5761956,31.7929746]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769126","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4332207,36.8973497000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769229","State":"NM","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5647664,33.3872457000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769295","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.732777,32.1543936]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769334","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.212226,34.4060984000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769385","State":"NM","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7208172,35.6207141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769390","State":"NM","FCode":"73002","Feature":"School"}}
@@ -2050,7 +2015,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.56869,35.1292777]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066469","State":"NM","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6049761,32.0140396]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067000","State":"NM","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7257837,35.6089282]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067059","State":"NM","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5260164,33.3966674000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067542","State":"NM","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6257599,31.8485989000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067559","State":"NM","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4400914,36.9023262000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067595","State":"NM","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8126336,36.0441469]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067678","State":"NM","FCode":"78006","Feature":"Post Office"}}

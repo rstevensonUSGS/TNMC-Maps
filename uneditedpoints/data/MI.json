@@ -774,7 +774,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9541667,42.2250000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666303","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.6879716,42.6953103000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666315","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.8838274999999,43.6830719000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666322","State":"MI","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3413889,42.89]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666323","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.9591690999999,41.8214371]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666334","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5283813999999,43.7864086000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666337","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3750691,43.4166769]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666343","State":"MI","FCode":"82010","Feature":"Cemetery"}}
@@ -1202,7 +1201,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0760453,42.8233633]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671281","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5919444,41.8938889]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671321","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2013157,42.0869872000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671328","State":"MI","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3813646999999,42.9144751000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671331","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.6144444,42.2450000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671362","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5830602,42.2514303]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671365","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.1197091,42.2605981]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1671381","State":"MI","FCode":"82010","Feature":"Cemetery"}}
@@ -2082,7 +2080,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.0413952,45.3961232]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680876","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3969443999999,42.2291667000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680880","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.7086111,42.0705556]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680883","State":"MI","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3402778,42.8916667]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680891","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4872222,42.7302778000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680897","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3653078,43.3083627]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680898","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.84692,42.2139314]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1680907","State":"MI","FCode":"82010","Feature":"Cemetery"}}
@@ -3249,7 +3246,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.244206,43.7725239000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693440","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.85,42.8936111]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693452","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1368682,42.2994826]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693453","State":"MI","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.9277777999999,46.26]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693464","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5091667,41.9263889000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693466","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4054962,42.7147525]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693495","State":"MI","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4991171999999,43.0647488000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1693507","State":"MI","FCode":"82010","Feature":"Cemetery"}}
@@ -3601,7 +3597,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6793747,43.0197054000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697002","State":"MI","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.249107,42.6573540000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697044","State":"MI","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3818346,42.2807014000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697074","State":"MI","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0694817,45.766848]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697102","State":"MI","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.6670453999999,42.2530938]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697114","State":"MI","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.7499227,43.0165714]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697119","State":"MI","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1172424,42.5625816]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697128","State":"MI","FCode":"73006","Feature":"College / University"}}
@@ -4002,7 +3997,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2982397,45.3556639000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702671","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.894907,43.4240245]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702694","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1528033,42.2022924]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702696","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.2400261,46.377255]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702699","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1685275999999,42.4691800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702700","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5820179999999,42.5522384000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702708","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3371104,41.9644359000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702718","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -4244,7 +4238,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5376358999999,42.5406955]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706362","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2187446999999,42.8243962000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706367","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9036422,42.5542454000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706396","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.339916,42.884279]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706399","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9709915,44.9752076]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706420","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2924689,42.5012977000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706429","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6866481,44.5037013]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1706444","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -4705,7 +4698,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.1519258,45.6862552000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712680","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.6031909,42.5850151000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712710","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4958079,42.9586386]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712712","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3673530999999,42.9129609]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712720","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.7965594,42.7253949]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712729","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5878286,42.2971859]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712732","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0409078,42.5250216000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712742","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -4971,7 +4963,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.6793588,43.6586335000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716266","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.7340775,43.5272148000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716271","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.4829611,42.7522362]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716272","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0749977,45.7496707000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716300","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1597252,42.2070255]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716322","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.0228837,42.3178763000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716339","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3313972,43.6054482000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716379","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -5030,7 +5021,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.70713,42.2567182000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717163","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0808306,43.4576977]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717166","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1145618,42.3085888000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717172","State":"MI","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.35004,42.88975]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717186","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.24081,42.48006]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717192","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9462599999999,42.4554200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717196","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.41168,44.8939700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717200","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5055,7 +5045,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.17993,42.48882]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717336","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.20428,42.6548100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717342","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0427165,42.3361498]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717344","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.04339,42.3362900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717345","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6439999999999,42.67386]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717346","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.24238,43.20201]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717349","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.16169,42.44953]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717354","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5260,7 +5249,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.12998,44.64993]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719299","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5802399999999,43.3704200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719323","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1974,43.0766300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719324","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.39241,42.0592500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719332","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.06526,42.87562]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719337","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.03545,41.9026900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719338","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9874799999999,43.2122200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719339","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5528,7 +5516,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.85254,42.5280300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722128","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.62857,46.0624]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722145","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5006,44.27923]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722156","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2628799999999,42.22657]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722166","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.59248,42.7338600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722169","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.41445,42.28882]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722170","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.64186,42.4432200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722191","State":"MI","FCode":"74034","Feature":"Law Enforcement"}}
@@ -5855,7 +5842,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.8669596,42.8724744]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732164","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.6113693999999,42.7474811000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732170","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.727188,42.6819485]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732172","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4596860999999,41.9326079000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732179","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9323560999999,43.0184914000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732192","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6929296,42.4604876000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732199","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.631292,42.2393899]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1732203","State":"MI","FCode":"73002","Feature":"School"}}
@@ -6155,7 +6141,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.69093,42.9305200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734687","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0265942999999,42.3941124]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734688","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9271464,42.5656534]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734692","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3426085999999,42.8757659]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734719","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.3967059999999,46.5546180000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734722","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6155912,41.9494667000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734724","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9084,43.8635]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734732","State":"MI","FCode":"73002","Feature":"School"}}
@@ -6564,7 +6549,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.7788322,42.6891726000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738155","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3970803,42.0374954000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738176","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1151889,43.2565181000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738178","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4258184999999,41.9204326]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738193","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5593805,42.5939107]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738197","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.243847,45.1722105000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738198","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.2591254,45.3111957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738203","State":"MI","FCode":"73002","Feature":"School"}}
@@ -6685,7 +6669,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3917405,42.6803236000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739060","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6186974,42.2676361000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739064","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2662068,42.4736026]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739103","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3493205,42.8892444000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739114","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3255788,42.2811898000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739116","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4861663999999,43.7095864]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739122","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1840627,42.4931382]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739133","State":"MI","FCode":"73002","Feature":"School"}}
@@ -7563,7 +7546,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3458773,42.4205206]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746260","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.299934,42.3184170000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746266","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.4947708999999,42.7129903000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746276","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3490805,42.8877042]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746286","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.6405806,42.5025805000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746311","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.2117459,44.3374869]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746327","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0108112,42.3596468000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1746328","State":"MI","FCode":"73002","Feature":"School"}}
@@ -8031,7 +8013,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.8259844,42.2987445000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750406","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6168618999999,42.9261813000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750452","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.7352663999999,42.2448257]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750454","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5891679,41.7658602000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750459","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.12164,43.7149600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750470","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3019386999999,42.2008435000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750473","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.8502204,42.8276419000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1750503","State":"MI","FCode":"73002","Feature":"School"}}
@@ -8525,7 +8506,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.67024,42.90232]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754437","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3326673,43.956306]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754447","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.6248583,45.3992866]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754448","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3412245,42.8869977000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754453","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.073112,42.4388924]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754466","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9509399999999,42.4587234000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754473","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1811685,42.495167]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754490","State":"MI","FCode":"73002","Feature":"School"}}
@@ -8654,7 +8634,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.24134,43.18676]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755660","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2347498,45.3463849]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755663","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.7344760999999,43.0157439000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755677","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4089026,41.9220465000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755689","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3829592,42.3166095]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755694","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.218291,42.35774]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755701","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3587835,42.4064256]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755706","State":"MI","FCode":"73002","Feature":"School"}}
@@ -9449,7 +9428,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.524522,42.5854992000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762542","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1566887,43.0624397]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762551","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.4410184,42.0811036000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762555","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4663060999999,41.9255364000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762560","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.144462,42.3374486000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762573","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3482377,41.9525068]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762578","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1703044,43.1441709000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762579","State":"MI","FCode":"73002","Feature":"School"}}
@@ -9459,7 +9437,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.375755,44.4231062000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762607","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.311695,41.9565880000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762612","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.478826,42.2994647]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762615","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3841632,41.9358585000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762628","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.7114614,44.4052056]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762641","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4041177999999,42.2992811]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762642","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.0601622,42.4041971]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762645","State":"MI","FCode":"73002","Feature":"School"}}
@@ -9618,7 +9595,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.643451,42.9870795000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763892","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.4884574,43.8734362000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763893","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.2779201,43.4400508000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763894","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3962131,41.9115863000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763897","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3643840999999,42.5060495000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763903","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.6392999,42.2446621]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763904","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3465002999999,42.327592]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1763905","State":"MI","FCode":"73002","Feature":"School"}}
@@ -9750,7 +9726,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.979839,42.111705]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764884","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9910533999999,42.504598]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764888","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.930693,42.6202272]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764898","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3963108,41.9195869000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764901","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.9319025999999,43.0184758]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764933","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6509372,42.8402794]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764934","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4620278,43.1682492]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1764951","State":"MI","FCode":"73002","Feature":"School"}}
@@ -9989,7 +9964,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.5912708,42.7416585]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766962","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.8079405,42.7364966000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766992","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.4644982,42.3901558000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766996","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.417994,41.9317605000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767008","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.8936738,42.548325]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767037","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.7841779999999,42.1803012]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767039","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.3915506,42.6269243]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767050","State":"MI","FCode":"73002","Feature":"School"}}
@@ -10061,7 +10035,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3496124,41.9453125000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767553","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.4381420999999,43.0095017]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767563","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.6547757,41.9771468000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767567","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.6554369999999,41.7991170000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767577","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.0089467,42.3117646000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767582","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2710976,42.8083405]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767583","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.7624574,42.4141464000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1767611","State":"MI","FCode":"73002","Feature":"School"}}
@@ -10186,7 +10159,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.2132018999999,42.4939924]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768652","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.4464174999999,42.5994269]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768653","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4272999999999,42.286596]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768656","State":"MI","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3506619999999,42.8959097000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768679","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1464227,44.4197961]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768690","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.6421557,43.0274526000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768731","State":"MI","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9433585,45.3680794000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768738","State":"MI","FCode":"73002","Feature":"School"}}
@@ -10940,7 +10912,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.2042489,42.5438453]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080224","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5783615999999,42.4054432]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080243","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3530348,46.1579278]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080259","State":"MI","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3513171,42.8904871]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080272","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.9785459999999,46.4069946000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080307","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5115593,42.0045533000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080358","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3717128,42.0434710000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2080387","State":"MI","FCode":"78006","Feature":"Post Office"}}
@@ -11001,7 +10972,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.3097696,44.8839333000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081911","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.740729,46.2052101]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081974","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.1791843999999,42.2920843000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081993","State":"MI","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5682012999999,41.7639182]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082037","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.753352,44.3014122000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082047","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.9878034,42.9117564000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082053","State":"MI","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3533510999999,42.0230568000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082090","State":"MI","FCode":"78006","Feature":"Post Office"}}

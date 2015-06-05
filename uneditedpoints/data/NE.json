@@ -1655,7 +1655,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.73392,40.7788]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830311","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.60623,40.06318]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830314","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.55103,42.8756100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830371","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.6424,41.4042900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830406","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.45692,41.2118100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830416","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2920999999999,40.8392400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830430","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.00008,41.1157900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830447","State":"NE","FCode":"74034","Feature":"Law Enforcement"}}

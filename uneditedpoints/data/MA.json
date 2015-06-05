@@ -36,7 +36,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0103612,42.2405769000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771467","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4544567999999,42.6969589]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771492","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8261228,41.9451259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771506","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3978776,42.1449834000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771512","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2846557,42.3562465000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771519","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8662760999999,41.7458824]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771523","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.2496671,41.6799657]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771524","State":"MA","FCode":"74001","Feature":"Ambulance Services"}}
@@ -120,7 +119,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3050818,42.2792587000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774537","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5989777,42.4448103]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774557","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1900588,42.7098130000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774572","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5395076999999,42.1064858]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774602","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9464354,42.2334332]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774622","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0342416999999,42.0820396]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774649","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.932876,42.3675874]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774735","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -144,7 +142,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7258686,41.7703814000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775266","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8178523999999,42.6736991000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775326","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7140502999999,42.3695602000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775348","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4292273,42.2020410000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775363","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7000684,42.1575955000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775373","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5645327,42.5084207]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775396","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7634034,42.1487064]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775411","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -172,7 +169,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.39473,42.2583300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776011","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8053710999999,42.4473089000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776054","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5120317,42.3903675]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776063","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5470079,42.1042636]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776069","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9953821999999,42.0523157000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776084","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9322640999999,41.9964902]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776117","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7517377,42.4412028]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776118","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -246,7 +242,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2750596,42.6375916000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778425","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1983865,42.1964875]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778468","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3925862999999,42.6564741]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778551","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5667308,42.1198188000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778573","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5486991,42.4973099000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778644","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9322724,42.5439840000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778723","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2106132,42.6114814000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1778741","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -310,9 +305,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6794895,42.6348172]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780562","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0811891,42.4106459000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780600","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4097829999999,42.3125955]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780634","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2333867,42.1256544]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780635","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1639418,42.2514875000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780636","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3067225,42.1295426]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780731","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9383764999999,42.0653786]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780756","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9887475,41.9978462]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780824","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6939603,42.6695332]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1780839","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -428,7 +421,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0711682,42.7645350000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783718","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0031084,42.5950939000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783755","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6092356999999,42.6687004]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783781","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4286716,42.1862078]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783789","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6678229999999,42.6667614]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783796","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4606409,42.1895375]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783815","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9597722999999,42.4923180000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1783867","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -481,7 +473,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1461596,41.9967666000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785477","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2714424,42.0348212000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785518","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6195102,42.1214853000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785562","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3167235,42.1870422000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785659","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1251041,42.7000816]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785688","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2089447,42.5056500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785720","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.79362,42.61972]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785732","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -499,7 +490,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3500624,42.6917569]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785972","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1625558,42.5598159]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785982","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9803797,42.2028677000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786058","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5981209,42.1600959]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786094","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0676028999999,42.7356373000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786124","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8312076,42.2070349000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786151","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0203559,42.587588]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786222","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -507,10 +497,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.956086,42.1260500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786312","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8472633,42.0417684000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786327","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0003541,42.4653677000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786371","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2023296,42.1566296]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786376","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2300595,42.7023129]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786404","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1572675,41.7381577]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786441","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5470079,42.1048191]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786466","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0292229,42.7695352000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786508","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9058727999999,41.7801026000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786597","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.788426,42.5292523000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786635","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -550,9 +538,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0967441,42.3167581000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787749","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0822762999999,42.5659273000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787760","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9050541999999,42.8592571]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787767","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4292273,42.2025966]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787829","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9488269999999,42.128541]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787843","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5142289999999,42.0948193]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787858","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1237161,42.2203668000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787914","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6522906,42.4417589]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787924","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9267066,41.7801025000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787939","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -577,7 +563,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4261749999999,42.6575904000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788533","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2264481999999,42.7003685]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788598","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.969822,42.3486987000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788675","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4147824999999,42.2067634000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788712","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1792159,41.9695443000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788722","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5866966,41.6742737000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788744","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6798138,42.1992583000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1788773","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -674,11 +659,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0097974,42.2534253000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792186","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9134314,42.7017499]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792193","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5370325,42.5417536000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792272","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2831107,42.138154]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792340","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7953486,42.199261]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792421","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6753467999999,42.4492587]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792455","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2292260999999,42.7037017000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792504","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4703393999999,42.1737076000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792507","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0672695,42.0931554000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792532","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4570309,42.5036992]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792537","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5403451,42.6967559]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792565","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -699,7 +682,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1184421999999,42.0489819000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792999","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2745280999999,42.5334213]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793024","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1259362,42.6028609000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793047","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.471173,42.1875963000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793070","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3622809999999,42.2248192000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793100","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6364209,41.7462160000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793146","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3383888,42.0014878000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793155","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -758,7 +740,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5912001,42.1412045000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795225","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.342157,42.5248030000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795229","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.546174,42.0225980000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795243","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5428413,42.1270410000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795335","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6753231,42.6598169000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795375","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1200097999999,42.6268427000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795393","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9422969999999,42.3939799]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795463","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -771,7 +752,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8578304,42.8395355000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795617","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8725951,42.4798083000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795669","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5189761999999,42.3792565000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795738","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6192326999999,42.1625958000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795777","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6537019,42.2598127000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795822","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1203235,41.8570456]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795851","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8786540999999,42.1195454000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795867","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -801,7 +781,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1086898,42.4125903]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796405","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1308842,42.1798213000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796516","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.991167,42.8089794000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796567","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3706139,42.1656530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796572","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7778177,42.0578800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796591","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.973132,41.9887210000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796654","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0305954999999,41.5117711]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1796656","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -835,9 +814,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1351023,42.4528631000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797409","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2661709,42.6687022]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797432","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0989362999999,42.0403777000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797484","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2486653,42.1514875]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797561","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0995228,42.4084236]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797575","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.251165,42.1145431]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797599","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6273123,42.2070362000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797600","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5689207,41.9245486]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797633","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9922644,41.9006570000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1797681","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -865,7 +842,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.825036,41.6626046000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798454","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6759024,42.4478698]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798463","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3536936,42.1834266000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798487","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2406094,42.1495430000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798501","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8317618999999,42.6542507]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798505","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2370242,42.2612035000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798508","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1128345,42.6856473]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1798527","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -887,7 +863,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5703660999999,42.1653709]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799015","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9786548,42.0473228000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799136","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5731441999999,42.2237030000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799157","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2023943,42.1565649]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799166","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7481265,42.4395361000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799180","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0492672999999,42.4361972]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799182","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4053388999999,42.4145386000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799195","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -920,7 +895,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5720329,42.1867593000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800277","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0120196,42.2367590000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800294","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6281228999999,42.3662043]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800313","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2023839999999,42.1565752000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800339","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8711529999999,42.0617681000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800408","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7656021,42.5834285]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800417","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8995166999999,42.0295412]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800478","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -964,12 +938,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2686619999999,42.649949]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1801986","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6745352999999,42.3342559000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802063","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1739474999999,42.7220351]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802085","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5300629,42.0903749]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802108","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9284335999999,42.1800907000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802115","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.403722,42.3056426000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802186","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9142108,42.1437117]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802187","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3092733,42.5473046000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802194","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2383862,42.0739879000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802233","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5411761,42.3528716000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802278","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6178686,42.7189723000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802329","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7012017,42.4778645000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802400","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -1063,7 +1035,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8397724,42.6856490000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804932","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0536883,42.3945349000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804941","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2231679,42.0564813]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804959","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.202109,42.1568502000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805016","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1175779,42.3131471]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805080","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1839677,42.2695365000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805102","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6570108,42.0303754]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805113","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -1075,18 +1046,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2898293,42.6061927000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805383","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1134359,42.6014721000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805390","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9244987,42.8200908000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805392","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4911733,42.1500966]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805475","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2021649,42.1567943000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805516","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1203806,42.3736976000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805517","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7639828,42.7159167]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805528","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.997554,42.664815]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805558","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4667269,42.0281537000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805596","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5203438,42.6206460000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805611","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2836662999999,42.1384317000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805629","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6481004999999,42.6834279]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805699","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1703598999999,42.6695303000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805702","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0175467999999,42.1537109000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805704","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.600899,42.1809289]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805737","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0723015999999,42.5809212]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805738","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9147988,42.6478655000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805746","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1078543,42.1187056000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805810","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -1227,7 +1194,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9889439999999,42.0760483]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809562","State":"MA","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7879153,42.3506617]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809579","State":"MA","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9296439999999,42.0424620000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809624","State":"MA","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1930796,42.1808960000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809638","State":"MA","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8191333,42.5881731000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809665","State":"MA","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.318316,42.6209873000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809692","State":"MA","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.120263,41.7213365000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809694","State":"MA","FCode":"73006","Feature":"College / University"}}
@@ -1303,13 +1269,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2740469,42.6866484000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812282","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6732755,42.4640449]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812333","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8242001,42.2565258000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812359","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.550897,42.1052526]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812374","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8841328,42.1999467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812387","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1483671,42.1128017]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812437","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2171656,42.1608257]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812444","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7929041,42.2510473]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812471","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2056876,42.5840137000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812481","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3992857,42.0825988]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812507","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1333410999999,41.8657234]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812535","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7305732999999,42.1448285000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812611","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5511736999999,42.0887566000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812635","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1369,7 +1332,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7437729,42.6770240000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814205","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8804474999999,42.2311191000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814237","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0135074999999,42.0186645000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814337","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2526311,42.145702]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814354","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9239580999999,41.6225840000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814355","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2303408,42.5115251]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814381","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1840455,42.4885627]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814421","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1456,7 +1418,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.3890665,41.6317039]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1816924","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8379504,42.0420481]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1816942","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1949407,42.5067804]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1816946","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3097566,42.1912842]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817016","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4375535,42.5817447000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817031","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6140061,41.719744]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817074","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3293335,42.0651477000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817191","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1507,7 +1468,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9322423,42.4237086000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818483","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.868079,42.1835727000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818484","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6194763,42.6561745000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818705","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6062122,42.1753840000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818707","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5629565,42.2383907]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818753","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6288949,42.1296436000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818776","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3682827,42.3734668000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818783","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1530,7 +1490,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3449345,42.2847039000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819310","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7679815,42.1974241]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819340","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4140105,42.0652587000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819380","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5176402,42.1427627]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819450","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7482148999999,42.11911]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819474","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.928909,41.6638452]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819487","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8838135999999,42.1201323000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819509","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1555,7 +1514,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7681244,41.888449]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820216","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5707384,42.3918205000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820261","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4035052999999,42.0621525]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820264","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4655215,42.0786075]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820282","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3085634,41.9127773000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820339","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2333887,42.0990401]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820361","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7540198999999,42.0033111000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1820368","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1580,7 +1538,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.153722,42.4904632000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821015","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3085394,42.5895578000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821029","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0395346,42.1326433]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821047","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4279855999999,42.1995625000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821118","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3593994999999,42.3635743]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821172","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.245865,41.7567145]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821192","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1088995,42.2393688000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821215","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1591,7 +1548,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0504453999999,42.2259979]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821354","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.348133,42.4287963]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821399","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8494381,42.2784901000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821405","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3587272,42.1673544000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821432","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1015287,42.5267828]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821480","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.883024,42.0431777000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821485","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3638164,42.1943899]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821503","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1667,7 +1623,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8036829,42.1296366]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823730","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1801007999999,41.9710377000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823737","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1034422,42.4246284000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823779","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4941985,42.1451843]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823787","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2340495,42.6113517000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823819","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.038181,42.5628298]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823828","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7313986999999,42.3935127]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1823866","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1725,8 +1680,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4787656999999,42.5875616000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825576","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5384733,42.1982157]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825608","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1221446,42.0208469]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825633","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.541689,42.1327401]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825645","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2622572,42.1051418000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825654","State":"MA","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7620153999999,42.2781537000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825795","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7923119,42.2729153000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825797","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0107474,42.704841]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825813","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -1767,7 +1720,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.10101,41.9051258000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827041","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7595492,42.1182935000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827106","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9067998,42.511133]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827151","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5280981,42.1333346000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827173","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.146332,41.7098121000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827227","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7677035999999,42.2730688]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827235","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6806084,42.6251772000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827307","State":"MA","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -1801,7 +1753,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.91149,42.54429]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828212","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9092199999999,42.63624]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828226","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.58412,42.50149]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828248","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.42747,42.20829]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828294","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4122399999999,42.0642]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828324","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.86495,42.13235]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828354","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.33035,42.4773300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828365","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1809,7 +1760,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6112199999999,42.59639]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828415","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.91703,42.6841700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828442","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.20271,42.26289]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828443","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6045599999999,42.1790500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828451","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.33198,41.98391]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828465","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3444,42.18735]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828468","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.67076,42.2660000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1828475","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1912,7 +1862,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.31826,42.1026600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830338","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.68224,42.4139300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830363","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.05214,42.20626]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830364","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.35856,42.1669600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830368","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.45719,42.6921300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830384","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.36715,42.3342900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830394","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5753,42.3990000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830395","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1945,11 +1894,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.71215,42.0566900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830935","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1707,42.47337]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830954","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.84732,42.1953500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830977","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3453,42.0484300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830996","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.60817,42.4784500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831000","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3099099999999,42.19354]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831043","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.04006,42.13827]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831071","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.54576,42.10283]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831074","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.27994,42.2441200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831076","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1005,42.5241600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831093","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0392199999999,42.3758800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831149","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -1971,7 +1917,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0957299999999,41.86204]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831413","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2849399999999,42.35691]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831417","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.90108,42.18348]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831533","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5420099999999,42.1316100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831559","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8885099999999,42.60319]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831580","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.89314,41.6396500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831584","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6360999999999,42.3826100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831585","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -2012,7 +1957,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8419499999999,42.1166900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832518","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.32168,41.8281000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832531","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6050099999999,42.20221]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832553","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.25154,42.1478000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832557","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.91138,41.6827000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832590","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.97614,41.9894800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832598","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0941,41.9039900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832601","State":"MA","FCode":"74034","Feature":"Law Enforcement"}}
@@ -2061,7 +2005,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8015988,42.3056355000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841109","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6409484,42.1061558000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841123","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.62119,42.1080700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841188","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.231985,42.0811630000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841198","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1624829,41.6924336000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841209","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1084865,42.4291827000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841217","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7654155,42.5366085000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841224","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2080,21 +2023,18 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1816616,42.7028818000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841508","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6546817999999,42.6375182]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841516","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9052,42.0459000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841518","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2195055,42.1842163000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841569","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1333256999999,41.6911163]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841572","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9116073,41.8862742000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841600","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1545265,42.2385761]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841647","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9538833999999,42.5876049]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841654","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.497182,42.1056120000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841675","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9110391,41.6104828000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841680","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5117235,42.1438897]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841701","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.55404,41.9208820000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841705","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.03417,42.16596]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841706","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7272048,42.2822284000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841716","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.851906,42.6947970000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841741","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.08285,42.3316]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841761","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9406,42.12989]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841764","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2372789,42.0741889000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841781","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3142989999999,42.274236]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841786","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1348371999999,41.7329965000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841806","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9418332,42.2444714000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841826","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2123,17 +2063,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7180263,42.0086138]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842311","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9374999999999,41.7016300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842377","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2621948,42.2528113000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842398","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3944096,42.0608005]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842401","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9440652,41.7279938]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842404","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.95806,42.1862007]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842410","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2567182,42.1510644000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842432","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1767761,42.7001455000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842459","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8849091,42.2977273000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842464","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1231165,42.6894952000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842488","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1825330999999,41.7485018]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842491","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3388454999999,42.3188818]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842512","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0396244999999,42.0681617000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842525","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2057027,42.1770182000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842562","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6795299999999,42.0476100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842565","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1906655,42.4828631]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842573","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2319272,42.5662489000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842575","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2150,7 +2087,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7537399999999,42.1146400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842868","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3368172,42.6872497000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842912","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.93911,42.46482]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842915","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4206206,42.0730393000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842922","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7527965,42.5377071]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842923","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4682979999999,42.3779911]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842931","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3015091,42.6446364]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842932","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2161,12 +2097,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0262850999999,42.0835374000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842992","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1149791999999,42.5530982000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842993","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8580100999999,42.5562081]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843050","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.360625,42.1646650000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843072","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7905284999999,42.2406576000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843085","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.807961,42.2646350000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843096","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.97376,42.4642180000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843134","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.495336,42.158325]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843167","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.258746,42.1057128]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843182","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1120514,42.5380419000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843298","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9466449999999,41.8477223]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843308","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4381731,42.1109022000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843312","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2211,13 +2144,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5445599999999,42.07372]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844417","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5965174999999,42.1476819000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844432","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5165699999999,42.1446141000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844465","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2107731,42.1724284000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844511","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1481449,42.6958426]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844512","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2228838,42.1909741000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844514","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3416946999999,42.6115901000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844555","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1323364,41.9217818000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844581","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2126885,41.9596080000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844677","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5363996999999,42.1315530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844728","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.93555,41.61861]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844738","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5477364,42.3556727000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844771","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3464886,41.9251961000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844817","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2257,7 +2188,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5662452999999,42.3842077]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845359","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1782974,41.6815465]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845386","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1890243,42.5491656]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845406","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2427289999999,42.1617127000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845411","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9936,42.0781471000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845446","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.772927,42.1880606]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845481","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1331566,42.7876879]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1845486","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2293,20 +2223,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.113531,42.6240910000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846329","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.735089,42.1841600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846359","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5799274,42.1027112]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846397","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5001109999999,42.0923750000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846448","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3307445999999,42.5922193000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846473","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3614403,42.3242050000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846511","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9268516,41.6332634]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846551","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1555855999999,41.7003406000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846566","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0696597,42.2866049]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846578","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.565446,42.5210030000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846667","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.222223,42.1453158]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846713","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.28095,41.9133]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846771","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1108071,41.7334198]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846773","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6580695,41.9520079000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846785","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1677758,42.7095313]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846838","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5564237999999,42.3544748]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846865","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4799892,42.1071888000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846892","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7869459999999,42.3721602000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846919","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.473371,42.4799493]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846924","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.21953,42.2261800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1846947","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2377,10 +2304,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.826399,42.6870500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848284","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8665535,41.7468711000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848294","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7114999999999,42.0687]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848297","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4129895,42.1552883000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848316","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9868433,42.2288034000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848372","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8965949999999,41.6412720000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848388","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4403465999999,42.1948952000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848456","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1549735999999,42.6762549000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848459","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.94183,42.21968]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848507","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1376845,41.9028741000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848517","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2393,7 +2318,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.08663,42.7886800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848675","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.21519,42.50005]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848686","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9226244,42.127052]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848699","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2121523,42.1493856000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848713","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0255774,42.1057165]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848772","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.02431,42.56192]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848774","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1650999999999,41.7001000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1848795","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2430,7 +2354,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.12402,42.52167]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849593","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4061518,42.4253805000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849595","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3507099999999,42.2785228000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849656","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.45708,42.1228100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849664","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5190090999999,42.3400636000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849669","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.4205744,41.7363097]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849709","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.894822,42.4980850000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849721","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2488,7 +2411,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1534915999999,42.5505967]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850874","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2205648,42.5133254]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850888","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9647467,41.6503684]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850889","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2511519,42.0610989]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850897","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6475656,42.1843957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850907","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7343549999999,41.950546]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850931","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0126539999999,42.0198358000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850934","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2502,7 +2424,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.687595,41.7559629]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851142","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2731846999999,42.4491961000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851152","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.005643,42.5155490000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851193","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2040024999999,42.2037852]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851207","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7726271,42.3127445000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851219","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0151575,42.0208333]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851226","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.357782,42.3026541]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851242","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2524,7 +2445,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8451464999999,42.2046694000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851559","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1570384999999,42.2485102000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851562","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4843835,42.1255256000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851589","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.39717,42.10938]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851595","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.4410056999999,41.6237926000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851650","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.067144,42.5539401]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851657","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6446311,42.20563]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851683","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2594,7 +2514,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2066563,41.9578377]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853135","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2363081,42.2076266]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853141","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.13533,41.6928800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853160","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4221415,42.2073532000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853165","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0450916999999,42.6159494]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853280","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2421911,41.7649651]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853320","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1736377,42.7085367]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853345","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2606,7 +2525,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9102361,42.8499502000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853527","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8872388,42.5582458000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853548","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.174527,41.9458240000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853553","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2218242,42.1936724]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853556","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2264504999999,42.6001448000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853632","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4883478,42.1763110000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853645","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.795521,42.0523737]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853660","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2616,10 +2534,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.063973,42.4807204000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853692","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1352199999999,42.6966100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853729","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0106072999999,42.0659448000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853741","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3275399999999,42.09727]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853744","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.792806,42.5701451]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853746","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7208646,41.9849419000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853748","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3060242,42.1877730000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853769","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7873840999999,42.2564511]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853793","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3210521,41.7906697000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853877","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.92907,42.5251840000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853901","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2644,7 +2560,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1167631,41.8392116000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854264","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.769215,42.2937625000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854266","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0738039999999,41.7998150000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854267","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.366925,42.1438020000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854277","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5945607,41.7417586]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854281","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.02886,41.9348900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854334","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3578899999999,42.5213000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854348","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2707,7 +2622,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4566464,42.1229256]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855766","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.05949,42.1895700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855880","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9836943999999,42.2802732000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855890","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.61332,42.17031]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855938","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.3944152999999,41.6690387]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855980","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7680951999999,41.7039256]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855981","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.334125,41.8449145000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1855995","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2749,7 +2663,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6314886,42.045491]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856628","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4122897999999,42.2680515000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856647","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.10788,41.90072]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856669","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.205664,42.1534162]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856747","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.49391,42.1154700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856755","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.93135,41.6694800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856788","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.998323,42.5740650000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1856796","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2769,7 +2682,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5549657,42.3429196000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857317","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9620758,42.8086731000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857345","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9389363,42.6084121000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857373","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5564856,42.1089101000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857392","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.18571,41.6789800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857422","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0319183,42.3943667]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857426","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3157181999999,42.6442455000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857544","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2797,13 +2709,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.988551,42.7259468]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857978","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4938744999999,42.1548732000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857989","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6595296,41.9432027]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858009","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2534929999999,42.066626]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858042","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3436571,42.6002726]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858060","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1193347,42.6970583]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858079","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.09561,42.7750800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858104","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3190726999999,42.6458000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858112","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4639329999999,42.5697994000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858129","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.23267,42.1489376000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858191","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1519536,42.6587966000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858253","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5757419999999,42.2448185000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858315","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4922999999999,42.09732]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858318","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2851,7 +2761,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9813771999999,41.7896944]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859181","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.71582,42.2955900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859211","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9303141,42.1917112]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859226","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.311408,42.1923488]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859228","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3165797999999,42.6515116]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859244","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.079104,42.4986982]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859254","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3497728,41.9175054]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859261","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2868,10 +2777,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8793409,42.1553117]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859529","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1204114,42.1263825]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859536","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.858603,42.356972]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859588","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.528635,42.1499831]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859634","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.09646,42.4849400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859639","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4302853999999,42.3213412000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859660","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.521598,42.1437525000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859688","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2996769,42.4371877]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859720","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8196179999999,42.1166700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859743","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1879091,42.5510636000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859764","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2886,7 +2793,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1616999999999,41.6888000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860036","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.2930936,41.6555723000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860080","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9450899999999,42.2465100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860098","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4750299999999,42.0747900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860100","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.74851,42.2652900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860118","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.52007,42.2145200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860135","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1401273,41.7125818000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860136","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2905,7 +2811,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5899029999999,42.1373294000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860439","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.82327,42.67886]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860441","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5175045999999,42.3472760000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860457","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4076099,42.1418857]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860467","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1637411,41.7391149000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860468","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2220399999999,42.2191500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860478","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5751817999999,42.2522364000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860511","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2916,7 +2821,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5893152,42.6658069000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860659","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.18305,42.7005513]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860669","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3832728,42.2908278]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860697","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4243999999999,42.2045000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860702","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8689689999999,42.1515534000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860724","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8004999999999,42.58637]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860736","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.702394,42.3051084000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860748","State":"MA","FCode":"73002","Feature":"School"}}
@@ -2982,7 +2886,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.84921,42.40351]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862148","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1837659999999,42.7274810000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862206","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5451317,42.3902360000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862230","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3127825,42.1943190000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862253","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5075335,42.0698278]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862268","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1426576,41.7512529000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862283","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5449765,42.3896852]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862289","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3054,11 +2957,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7022205,42.2383826000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863756","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0000558,42.0906047]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863757","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.12546,41.69287]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863761","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3567621,42.162017]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863766","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5291799999999,42.02243]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863809","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4272041,42.1085632]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863817","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3371438999999,42.6242432000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863842","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4071499999999,42.14619]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863847","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1082701999999,42.0562719000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863944","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3558346999999,41.9052096]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1864000","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4487894,42.3046307000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1864009","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3125,7 +3025,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0273539999999,42.1068395]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865620","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1867736999999,42.6825374000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865640","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1113599999999,42.5141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865650","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0959831,42.4681028000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865664","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8136977,42.3045099]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865682","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1494815999999,41.7163951000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865742","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.288872,42.3953920000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865755","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3145,7 +3044,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.132807,42.2387275]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866200","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6637249999999,42.615376]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866241","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0053324,42.1777047]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866243","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4057521999999,42.0913851]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866255","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7531926999999,42.2840875000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866257","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2306364999999,42.5873280000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866272","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5390169,42.3376170000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866331","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3163,11 +3061,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3680165,42.6183282000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866700","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3694752,41.9101078]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866708","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.89863,41.6358500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866711","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4232,42.2046]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866794","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9118999999999,41.6091000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866799","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.13044,41.6842800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866808","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6882884999999,42.4160087000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866822","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.29552,42.18638]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866826","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5392199999999,42.1281500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866854","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3585085,42.3080905]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866887","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7614399999999,42.2163600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866980","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3189,7 +3085,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.007956,42.4743213]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867271","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.92438,41.6653200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867287","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7191089999999,42.6003449]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867309","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2527065,42.1062883000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867335","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.17884,41.7225]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867337","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6275649,42.6914672]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867360","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0242345999999,42.080093]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867365","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3215,9 +3110,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1785199999999,42.6419900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867713","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3804316,42.612216]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867721","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.01168,42.8412700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867724","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2674499999999,42.1540600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867743","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2426556,42.2539188000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867755","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.19066,42.1955]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867784","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3337731,42.0015837]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867822","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3120273,42.6414182]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867840","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9480737,42.5681828]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867869","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3267,7 +3160,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.176997,42.6970121000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868956","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.533285,42.3663748000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868965","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.25575,41.8476000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868988","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.244795,42.1471010000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869003","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5141485999999,42.0955995]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869035","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.15595,42.2250100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869038","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4641545,42.3235818000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869056","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3277,7 +3169,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.54538,42.0283600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869102","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5225953999999,42.6711893]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869115","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.368738,42.2300293000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869121","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5217976,42.1451028000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869183","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9398456,42.3861188000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869191","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2686563,42.4555622]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869195","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4313999999999,42.3056727000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869203","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3309,7 +3200,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.87621,42.80978]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869993","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.94438,42.1967000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870067","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.95188,42.50408]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870080","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2678374,42.1538027]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870156","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3454335,42.3722549]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870171","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8180608,42.2542846000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870179","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6050329999999,41.8360063000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870193","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3338,7 +3228,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.870907,42.790667]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870827","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5613314,42.1978714000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870850","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.588149,42.1215800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870880","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4062249,42.0917988]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870920","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1072095,42.4937369]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870947","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4207835999999,42.3279577000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870970","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.905698,41.687775]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871003","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3364,7 +3253,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6157171,42.1669912]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871452","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3046595,42.6249872000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871475","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7731027,42.1871979000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871483","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1814477999999,42.1755023000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871491","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5118835,42.1541647000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871508","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.23272,42.72891]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871526","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.49738,42.46342]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871541","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3372,7 +3260,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.67529,42.46824]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871544","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2156368999999,42.5741301]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871550","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.22077,42.4591100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871552","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4063876,42.1423045000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871558","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3271511,42.3452417]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871623","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4542092999999,42.6510478000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871649","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2350724999999,42.2000491000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871690","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3395,10 +3282,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1717,41.6925000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872136","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1211699,42.6195544]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872162","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1007638,42.7671658]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872206","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5406015,42.1582693]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872219","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5068199999999,42.15734]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872233","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0210172,42.1624590000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872254","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4307645,42.0905597]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872257","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9461214,41.9904669000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872269","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1035280999999,42.7183428000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872282","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.102274,42.060662]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872299","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3413,7 +3298,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9701479999999,41.5815380000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872444","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5104194,42.3842185]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872504","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7977749999999,41.9725110000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872512","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4573847,42.1225092]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872525","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8888362,42.704083]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872526","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.91516,41.61107]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872570","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1778126999999,41.6951851000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872691","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3484,7 +3368,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0651099999999,42.1837800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874092","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9645671,41.6269592]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874117","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7833914999999,42.2525531000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874128","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2902999999999,42.1748400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874164","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1473794,42.2312402000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874189","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5787417,42.0568154000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874227","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9213642,42.4779171000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874235","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3499,7 +3382,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0539755,42.7667435000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874353","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3307881,42.1506574000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874357","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8097935,42.2858425000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874368","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2177702,42.1602297000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874397","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9445641999999,42.5698080000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874404","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.51662,42.22965]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874435","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5944330999999,42.3393249000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1874438","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3558,7 +3440,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.529936,42.2255065000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875622","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8946450999999,42.4976938]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875640","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.61483,42.1199148000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875645","State":"MA","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3214169999999,42.1242671000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875685","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7089910999999,42.0708008]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875686","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3640389999999,42.2480684000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875692","State":"MA","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3697299999999,42.3378500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1875695","State":"MA","FCode":"73002","Feature":"School"}}
@@ -3583,11 +3464,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9569863,41.9463333]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043393","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9403680999999,42.5787698]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043409","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6494524,42.5239111000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043429","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.299096,42.1182262]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043446","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4084933999999,42.2672676]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043475","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6462041,42.5265224]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043494","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2905198999999,42.1043844000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043555","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3036934,42.1203745]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043629","State":"MA","FCode":"74036","Feature":"Prison / Correctional Facility"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2526445,41.9545335]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063933","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1548369,42.2485804]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064049","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2015039,42.1907897]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064063","State":"MA","FCode":"78006","Feature":"Post Office"}}
@@ -3625,12 +3503,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9460147999999,41.8423533000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066450","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9578648999999,42.0341361000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066572","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5950587,41.7430122000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066791","State":"MA","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3073391,42.1885178000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066913","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2220836,42.2265791]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067026","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9247010999999,42.5259629]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067213","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9343573,42.5661779000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067328","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1048249,42.52311]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067430","State":"MA","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2485229,42.0632406]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067475","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.0797239,41.6675828]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067651","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3509131,42.6358849000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067686","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8545816,42.6212919000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2067722","State":"MA","FCode":"78006","Feature":"Post Office"}}
@@ -3646,7 +3522,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6402176999999,42.1728370000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068027","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.784708,42.2193211000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068056","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2377834,42.5008110000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068080","State":"MA","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2149189,42.1613292000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068088","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1107053,42.7450786000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068147","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9467001,42.242264]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068159","State":"MA","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5589439,42.6065455]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2068213","State":"MA","FCode":"78006","Feature":"Post Office"}}

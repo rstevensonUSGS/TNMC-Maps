@@ -12,7 +12,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8730995,42.8652470000001]},"properties":{"State":"WY","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772137","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2956174,41.9171332000001]},"properties":{"State":"WY","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772197","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3946715,44.4049855000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772515","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.6779478,41.2530036000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1774023","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2402194,44.1647048]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775463","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2138301,43.9544237000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775856","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.7293132,42.7543886]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1775882","FCode":"82010","Feature":"Cemetery"}}
@@ -45,8 +44,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0118191,41.0182865]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784984","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4579124,41.5335757]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785778","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.053209,42.0182817]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785829","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.0054623,41.3468901000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786009","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.96,41.2805556000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786232","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9904298,41.0380094000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1786625","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.3903907,44.4841221]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787107","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1196586,44.077481]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1787852","FCode":"82010","Feature":"Cemetery"}}
@@ -56,13 +53,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.573458,44.8910626000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1789323","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7983736,41.2155208]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1789631","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1557203,42.9210509000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1790868","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.959904,41.2793905]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1790981","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.9401861,42.0818813000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1791356","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4891184,44.2355400000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792178","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.3884498,44.8096754000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792393","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8821558,43.4946486000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792623","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7408708,41.2260769000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1792778","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.4457162,41.1746708000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793477","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.5475659,41.044409]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1794729","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5856786,44.7324524000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795728","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3457799,44.3963747000001]},"properties":{"State":"","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1795895","FCode":"82010","Feature":"Cemetery"}}

@@ -6045,7 +6045,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.51681,37.0853700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947863","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.09325,38.6832600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947870","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.87144,40.3477600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947883","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.14815,38.8110600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947897","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.20147,39.12028]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947900","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.33872,38.6955100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947941","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.27601,37.4942800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1947942","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
@@ -6114,7 +6113,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0463999999999,39.4490700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948593","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.65744,37.1795300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948605","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.5360899999999,37.64604]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948638","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.70454,36.9962800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948650","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.0903299999999,37.64523]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948654","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.42889,36.60384]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948660","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.12953,37.7136600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1948674","State":"MO","FCode":"74034","Feature":"Law Enforcement"}}

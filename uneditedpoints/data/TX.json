@@ -214,7 +214,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3235735,31.7859381000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950629","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4050251,29.3660649]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950630","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0408520999999,33.5550779000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950666","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8694773,32.3913585]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950671","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4989584,25.9291248000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950672","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0195795,28.8543545000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950692","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3456204999999,28.9477907]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950709","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1206,7 +1205,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4370648,29.1409599]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958540","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1226599999999,28.6632487000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958547","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.6268573,32.8017653000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958549","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8084542999999,32.2701716]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958558","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2782749,32.2504955000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958564","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.503699,28.981254]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958566","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.3223331,33.6248506000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1958594","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -1565,7 +1563,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1784884,32.3095853]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961316","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7530558,30.4331622]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961350","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8542568,29.7221686]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961366","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7164738,29.7771242000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961380","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.3454386,32.2713529000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961383","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5581918999999,29.6331084]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961387","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8389928999999,29.784002]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961392","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -1609,7 +1606,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8871851,32.7540096000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961672","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4565868,31.7845237000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961677","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0820261,29.3711724]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961680","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9412265,32.2379751]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961681","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2564847,32.1788295000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961690","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3861767,27.7488882000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961693","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4920446,29.5501189]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961694","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -2142,7 +2138,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1069223,33.0148544]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965706","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5938049,29.7291382000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965708","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4810737,29.7623370000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965709","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5736785999999,32.5048248000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965714","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.11517,29.6797035000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965716","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4163406,27.7796577]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965727","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7181257999999,32.7985642]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965736","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -2150,7 +2145,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9482245999999,32.6897211]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965742","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0236446,33.0218686000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965750","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9719499,26.4087277]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965767","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7680401,29.8016601]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965772","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2693632,29.7657709000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965782","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5458585,31.7422535000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965785","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6236145,30.0874106000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1965786","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
@@ -2955,7 +2949,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3614658,29.6170889000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972218","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0003353,28.8081422000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972222","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3276225,29.5550957]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972228","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8689155,32.3684416]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972252","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4146226,27.6967700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972295","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9495537,30.7753457000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972313","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5882338,30.6811614000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972316","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -2968,7 +2961,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6400748,26.1221134]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972371","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3056412,32.5041866]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972381","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.4753698,32.0982579000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972396","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8385465,32.3813638]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972410","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.0658826,33.4584123000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972420","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2207671,26.1863300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972428","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0966152,30.1958624000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1972433","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -3195,7 +3187,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4451008,29.6650082]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973996","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3008594999999,29.7440897000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974005","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6063862,29.8776717000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974014","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8680876,32.3735314]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974046","State":"TX","FCode":"80012","Feature":"Hospital / Medical Center"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8846846,32.1837158000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974055","State":"TX","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6815693999999,30.4538353]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974057","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5103713,29.7151972]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974084","State":"TX","FCode":"74001","Feature":"Ambulance Services"}}
@@ -3812,7 +3803,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6408580999999,32.8048339000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978188","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0677469999999,29.5700626]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978194","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3901304999999,29.8748532000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978201","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8738743,32.3800051000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978205","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2862511,30.5835032000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978207","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.5032384,28.7117138]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978217","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0146521999999,29.6240316]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978224","State":"TX","FCode":"73002","Feature":"School"}}
@@ -3880,7 +3870,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.828341,31.3157670000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978642","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.824696,26.253764]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978645","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.1715159999999,29.7664360000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978652","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8732277999999,32.3933526000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978654","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.750604,28.4064540000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978655","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4763902,31.6874706]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978661","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.5119769,34.2531366000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978668","State":"TX","FCode":"73002","Feature":"School"}}
@@ -4097,7 +4086,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1066273,29.5062091]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979963","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1891682999999,26.2948883]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979964","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3126526999999,32.5657102000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979970","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7489204999999,30.376514]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979978","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8210075,30.2828899]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1979992","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2851191,29.2099089000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980001","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4195665999999,32.3461095000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980003","State":"TX","FCode":"73002","Feature":"School"}}
@@ -4122,7 +4110,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2639888,31.6247316000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980133","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.48036,27.36182]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980138","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4580154,32.6232523]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980153","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5789473999999,32.5028151000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980155","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2017117999999,31.0570916]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980156","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5587887999999,29.7765788]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980159","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8062098,32.7803907000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980160","State":"TX","FCode":"73006","Feature":"College / University"}}
@@ -4597,7 +4584,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2691603,33.6692403000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982874","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3174251,27.8950838000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982875","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.85034,34.069823]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982876","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5668909999999,32.4928719000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982879","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6167647,33.5027548]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982881","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4483565,25.9063817000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982885","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0852636,29.6627967000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1982888","State":"TX","FCode":"73002","Feature":"School"}}
@@ -4911,7 +4897,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2938837,29.8501992000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984831","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1009266999999,31.6701786]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984844","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5723014,33.0751621000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984850","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.725894,29.8019593000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984865","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3868389,27.7535047000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984876","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1217243999999,31.4626074]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984880","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2879728999999,29.0906238000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1984881","State":"TX","FCode":"73002","Feature":"School"}}
@@ -5210,7 +5195,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7402958,30.2945272000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986938","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9064812,33.5578539000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986939","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8397585,33.7313285000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986944","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7459396,29.8086076000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986950","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5612887999999,29.8140881]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986965","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1950219999999,31.5245846]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986973","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.158125,32.9046930000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986975","State":"TX","FCode":"73002","Feature":"School"}}
@@ -6408,7 +6392,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6795107999999,30.6395124000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994397","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.0894226,28.8962731]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994399","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7131264,29.8473697000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994401","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7946846,29.8050083000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994405","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3413318999999,29.4699518]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994406","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5578216,32.7949410000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994411","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1441862999999,29.6520491000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994417","State":"TX","FCode":"73002","Feature":"School"}}
@@ -6466,7 +6449,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.43413,30.7855900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994744","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4763477,29.5196803000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994754","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4579271,31.7656660000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994758","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9410043999999,32.2391449]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994761","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5016899,29.9295763000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994764","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1506782,31.5388768]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994771","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3201081,29.7723423]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994774","State":"TX","FCode":"73002","Feature":"School"}}
@@ -6542,7 +6524,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6404163999999,29.7044927000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995282","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.0655605,32.0253547]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995284","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.710729,26.1822500000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995287","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8700727,32.3782144]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995290","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6805944,33.9627620000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995291","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.088,31.4452000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995292","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.120487,31.9997999]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995300","State":"TX","FCode":"73002","Feature":"School"}}
@@ -6824,7 +6805,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2857913,31.6381377000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996909","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7921699999999,29.56084]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996912","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7544465999999,30.236115]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996914","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.921296,32.3125200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996916","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4718923,25.9128236]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996918","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4766473,32.7441098]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996919","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5657777,30.0274373]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996930","State":"TX","FCode":"73002","Feature":"School"}}
@@ -6914,7 +6894,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6752503,31.1143436]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997427","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7230989,31.4356963000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997429","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4258909,31.8777989000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997430","State":"TX","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7392827,29.8068514]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997446","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.577911,29.8008143000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997451","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7055,33.3547280000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997456","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.648421,29.5828926]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1997457","State":"TX","FCode":"73002","Feature":"School"}}
@@ -7215,7 +7194,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.9875117999999,29.9729682]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999364","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5286983999999,33.9369340000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999369","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2107,32.2052091]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999373","State":"TX","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9409007,32.2403895]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999382","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.438701,31.8164644]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999393","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.496755,31.190974]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999399","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3575423,26.2633051]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1999405","State":"TX","FCode":"73002","Feature":"School"}}
@@ -7380,8 +7358,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.125955,30.0808831000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000438","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4131676,31.7883515]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000444","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.41066,27.77577]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000455","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9408827999999,32.2403717]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000462","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6902141,29.7770616]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000463","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5514179,29.4560917000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000475","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8016941,33.0216876000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000497","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4357458,29.9570367000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000500","State":"TX","FCode":"73002","Feature":"School"}}
@@ -7453,7 +7429,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4926024,32.7318930000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000878","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4496004,31.8654578000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000879","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4759,30.395384]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000884","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8619241,32.365579]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000888","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8176089999999,29.553862]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000899","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.393196,29.7953670000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000904","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.12317,31.4774887]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2000910","State":"TX","FCode":"73002","Feature":"School"}}
@@ -7587,7 +7562,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3158662,31.6866375000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001672","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5253838,29.4336627000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001673","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3100044,32.3932465]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001674","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8883494,32.3670091000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001681","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6767589999999,30.5460560000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001684","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6760231,32.8456987000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001689","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.7876138,32.7722782000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2001698","State":"TX","FCode":"73002","Feature":"School"}}
@@ -8385,7 +8359,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.462788,29.8291211000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006539","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3085497,29.0925203]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006541","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0024769999999,26.1978979]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006545","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5730799999999,32.48889]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006552","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1209458,31.5846764]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006567","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0663015,33.0752433000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006572","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3621004999999,29.9477196]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2006577","State":"TX","FCode":"73002","Feature":"School"}}
@@ -8472,7 +8445,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.50724,29.6595800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007016","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4910601999999,33.1774246000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007027","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.1336319,32.8805439000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007029","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7442574999999,29.8089749000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007043","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9203854,32.6243531000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007046","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.2111302,33.339482]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007047","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5742919,29.4548829]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007057","State":"TX","FCode":"73002","Feature":"School"}}
@@ -8648,7 +8620,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3776592,32.6726956000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008104","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.708138,33.7874580000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008106","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2128309,26.1120833000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008107","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7536167,30.3757541000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008110","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5155112,33.9100508000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008111","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6437114999999,32.8090334]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008126","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.48052,29.7494790000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008127","State":"TX","FCode":"73002","Feature":"School"}}
@@ -8789,7 +8760,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4083826999999,30.1603603]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008903","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6600435,30.1286679]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008904","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4705239,31.4511699]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008910","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9731295999999,32.275272]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008912","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1294862,27.3551855000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008919","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9461075,32.6747133000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008920","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5618203,29.6855916000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2008940","State":"TX","FCode":"73002","Feature":"School"}}
@@ -9338,7 +9308,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.3452886,31.8625889]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012254","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3190175,31.9451559]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012267","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.877201,30.3533547000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012268","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8607767,32.3696517000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012273","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2661892,26.1860820000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012275","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3706605,29.5349194]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012285","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6760441,30.4318913000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012286","State":"TX","FCode":"73002","Feature":"School"}}
@@ -9370,7 +9339,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1344076,29.6808085000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012416","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2015434,32.8216962000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012421","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4199966,29.2204145000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012425","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9732385999999,32.2744467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012430","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5757469,33.6650038000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012436","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6537638,31.9273038000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012447","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8382238,32.1584571000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012449","State":"TX","FCode":"73002","Feature":"School"}}
@@ -9473,7 +9441,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.868754,33.6005948000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013115","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6906437,33.3706877000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013119","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.14496,31.7834780000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013121","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7440284,29.8034312]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013123","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4371028,29.1660956000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013124","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2338549,31.7155669000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013130","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4389732,25.8908617000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013147","State":"TX","FCode":"73002","Feature":"School"}}
@@ -10119,7 +10086,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8087803,35.1850259]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017047","State":"TX","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4646274,32.8532760000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017050","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8984854,28.8868401]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017053","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7863508,29.7991439]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017062","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4005069999999,32.3375335000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017063","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7721015,30.0701208]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017064","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7721437,30.070163]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017065","State":"TX","FCode":"73002","Feature":"School"}}
@@ -10185,7 +10151,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5243962,33.6555996000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017448","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3315997,32.3188719]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017457","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.85176,30.527186]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017461","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7477494999999,29.7934878]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017473","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5327765,29.8207941000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017478","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4483766,29.871361]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017484","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.380376,32.673847]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2017485","State":"TX","FCode":"73006","Feature":"College / University"}}
@@ -10522,7 +10487,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.5090811,31.4202705000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019485","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.1952368,29.6896595000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019486","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3901544999999,29.7434364000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019487","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7587116,30.3541323000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019506","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4172855,29.8357340000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019508","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9073342,33.5581070000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019510","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.1558161,30.0682141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2019512","State":"TX","FCode":"73002","Feature":"School"}}
@@ -10754,7 +10718,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6950457999999,32.8080821]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020921","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8148563999999,33.4210114000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020925","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7841278,31.1850758000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020930","State":"TX","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.762553,30.3563671000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020941","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2741455,32.3353458]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020948","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4688073,29.6378046]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020963","State":"TX","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1482667,26.2235485]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020964","State":"TX","FCode":"73002","Feature":"School"}}
@@ -11139,7 +11102,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8654646,35.1716356000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059759","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4872786,31.7629576000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059761","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.3117882,34.5503257]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059762","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.357298,29.7628066]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059763","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2314539,31.9662117]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059764","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1012177,29.9996325000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059765","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.418524,29.177867]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059766","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11180,7 +11142,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9700045,33.1604151000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059804","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.7366209,30.0886885]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059805","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.5016525,27.5520798000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059806","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.68253,29.783785]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059808","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2249667,33.6371698]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059809","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.5052262999999,27.5050548]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059810","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.0323053,29.5432932000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059811","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11198,7 +11159,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.064538,29.522338]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059826","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9094851,33.5839428]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059827","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.9273859,34.9786708]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059828","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9407466,32.2374915]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059830","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.460049,28.7193051]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059831","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.326204,31.7828880000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059832","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.915698,30.9496830000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059834","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11263,7 +11223,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4480348,32.7964152000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059909","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.081295,31.996047]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059910","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.2403975,33.6584343000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059911","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.870076,32.390861]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059912","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.679161,30.6081130000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059913","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.347681,28.9521740000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059915","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.781112,31.187419]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2059916","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11406,7 +11365,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4941148,29.7326899]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060087","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6832184,32.4718374]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060088","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1578701,33.218013]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060089","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.0431017,33.4209506]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060092","State":"AR","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4118233,29.0558437]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060093","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5082513,32.0507908000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060094","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9337145,30.7231959000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060095","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11515,7 +11473,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7781259,30.0741708]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060216","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4081305999999,29.2429095000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060219","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3461909,29.3980004000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060220","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5763138999999,32.5045281000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060221","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5059176999999,30.0980172000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060222","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.094535,30.080209]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060223","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8608939,28.5223983000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060224","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11610,7 +11567,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4082555,32.4707311]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060331","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8038789999999,29.203314]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060332","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0823425,32.8139582000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060333","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3568397,29.7616785000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060336","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.224689,29.5608543000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060337","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.702781,33.030177]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060338","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.469933,32.0970826000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060339","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -11795,7 +11751,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.1927426,32.381083]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060544","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6225137,33.6025629000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060545","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3340618999999,29.6958228]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060546","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6337703999999,31.763941]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060547","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.695981,32.445768]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060548","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5738479999999,29.7029910000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060549","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.3272259999999,34.1481660000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060550","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -12047,7 +12002,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.6304295,31.3070073000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060835","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.358615,29.759552]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060837","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.008449,29.7304308000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060838","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.872359,32.378638]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060839","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9072884,29.2993414000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060840","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8569911,32.5712584]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060841","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5970457,30.8800594000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060842","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -12105,7 +12059,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2888613,29.0918736]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060903","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.1660998,33.1191803]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060904","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9427223,29.4436517]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060905","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5747679999999,32.5041850000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060906","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8585295,32.1965473000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060907","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0010917,29.4492320000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060908","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9139216999999,33.4670711000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2060909","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -12213,7 +12166,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.7598479,33.7257735000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061027","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1265516999999,26.4157290000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061028","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.5107311,27.5395161000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061029","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9805558,32.2652771]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061033","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.188147,32.8407361000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061034","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.2443365999999,31.9445311000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061035","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.9619464,30.4603164000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061036","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -12364,7 +12316,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5053261,33.3499024000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061207","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9656532,32.9962342000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061209","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.4471935,27.5671357000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061210","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.970906,28.9802057000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061211","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.6832201,32.5117192000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061213","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8758036,32.2101016]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061214","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4083831,32.4706901000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061215","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -12867,7 +12818,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.6434189,33.4389857]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061792","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.291372,31.8733140000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061793","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.25967,29.5658340000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061795","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0615905,29.6294575000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061796","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.091577,33.39273]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061797","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6807095999999,30.6361868000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061799","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.3337287,33.9846963000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2061800","State":"TX","FCode":"74034","Feature":"Law Enforcement"}}
@@ -13051,7 +13001,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3692769,32.5474252000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064390","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.2773988,29.6831892000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064396","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.957973,33.1483900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064428","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5716007,32.504513]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064439","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.1048297999999,29.8940792000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064460","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.2491750999999,32.9439233000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064470","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.570091,31.4545151]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2064501","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13140,7 +13089,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8718104,31.9919824]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066245","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2234713,26.2172585000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066251","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.710407,32.9453360000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066253","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9057683,32.3529434000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066270","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7446219,33.1194367000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066371","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3261456,32.3682425000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066377","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5897385,29.7046734]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066399","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13155,7 +13103,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3277686,32.5411105000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066497","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5033599,32.0700302000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066500","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7451819999999,29.408573]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066511","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9545532,32.1910838000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066517","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1241621999999,31.7029837000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066546","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.050756,33.613386]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066583","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.218768,30.7471400000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2066599","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13388,7 +13335,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2382848,29.4059379]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071605","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0653723,31.2805782]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071610","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0903595999999,33.0982900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071611","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.871954,32.388921]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071656","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.6470925,30.5709647]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071688","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.858571,32.9756770000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071708","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5547597,29.4571003]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2071717","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13498,7 +13444,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6674487,31.0679578]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073498","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.3351014,32.3899285000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073501","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8592619999999,28.5240170000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073507","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.904637,32.177962]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073516","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.568575,32.0742980000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073533","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.1241552,32.8825219]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073548","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8302958,29.6475153000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073558","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13626,7 +13571,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.690764,31.2714790000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075961","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.157688,33.411413]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075989","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8198748,30.8577507000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076043","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.7516909,29.7562704000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076120","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.4333964,31.9890653000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076131","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7213468,31.0841041]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076158","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6257277999999,29.3815419000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2076180","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13762,7 +13706,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.482656,30.539323]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079003","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.9481059,31.7373393]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079056","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.894844,33.1839230000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079087","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.976882,32.273577]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079104","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.106703,33.362134]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079107","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.1539519999999,26.202684]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079112","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6942475,26.1917337]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2079118","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13895,7 +13838,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5037144,28.9802259000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081869","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4740159999999,29.707003]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081943","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.680752,33.663844]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2081983","State":"TX","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9423285999999,32.2385249000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082011","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.0141582,32.3578062]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082022","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.1116423,32.4987100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082054","State":"TX","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5756489999999,32.9341232]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082085","State":"TX","FCode":"78006","Feature":"Post Office"}}
@@ -13936,7 +13878,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.0596962,33.6137150000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082833","State":"TX","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0833771,32.7131860000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082834","State":"TX","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9553159,30.4562197000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082835","State":"TX","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.8727153,32.1826585000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082836","State":"TX","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5485869999999,31.3168440000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082837","State":"TX","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.8271256,31.1588713]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082838","State":"TX","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.8424644999999,33.4831622]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2082839","State":"TX","FCode":"82010","Feature":"Cemetery"}}

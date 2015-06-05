@@ -136,7 +136,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1907397,48.6328066]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1660898","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5112728,48.4847395]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661019","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.2401351,47.8905566000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661038","State":"ND","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1075828,47.7697009]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661248","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6512121,46.1694144000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661264","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.7640552,47.7238923]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661277","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0689758999999,47.5088686]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661307","State":"ND","FCode":"82010","Feature":"Cemetery"}}
@@ -145,7 +144,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5753654,47.7305437000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661384","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.9006614,46.1674701000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661405","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9909205,46.6263549000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661414","State":"ND","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1092497,47.765812]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661445","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.1368242,48.7344656000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661473","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.7990252,47.3519399]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661588","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.6937128,46.9486004]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1661607","State":"ND","FCode":"82010","Feature":"Cemetery"}}
@@ -190,7 +188,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.4578655,47.7191530000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663420","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5637096999999,47.2124939]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663433","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2198097,47.0944210000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663458","State":"ND","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.110083,47.7638676]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663485","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.8773495,47.8611142]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663601","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1864649999999,48.0874840000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663702","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.8012908,48.6311393]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1663710","State":"ND","FCode":"82010","Feature":"Cemetery"}}
@@ -220,7 +217,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7273105,48.3988819]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664646","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.9187524,48.7675011000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664665","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9028718,48.1808277000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664699","State":"ND","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9795243,47.7888654000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664716","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.6779627,47.3208467000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664736","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8178698999999,48.5074938000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664871","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2848175,46.5735881000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1664909","State":"ND","FCode":"82010","Feature":"Cemetery"}}
@@ -268,7 +264,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9417604,47.6152707000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666415","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.8895762,48.776396]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666432","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.9932615,46.7347343000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666488","State":"ND","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0234144999999,47.7805328000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666564","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.0320321,46.6088551]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666581","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.0479609,48.3872447000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666595","State":"ND","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8837091,48.7355497]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1666629","State":"ND","FCode":"82010","Feature":"Cemetery"}}
@@ -1050,7 +1045,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8756807999999,46.2678034]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1700990","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9003292,46.8755663000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701126","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.635971,46.2641120000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701195","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1006312,47.7740882000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701218","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6713425,48.5967141]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701237","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1437217,46.1473638000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701282","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.9647214999999,47.2164560000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1701313","State":"ND","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -1757,7 +1751,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.2962051,46.3573739]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754906","State":"ND","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.8009361,46.8277257]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754949","State":"ND","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.0885331,46.1384985]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754957","State":"ND","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1060358,47.7753519]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1754995","State":"ND","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.0707537,48.6738760000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755120","State":"ND","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.3751862,48.7677879]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755233","State":"ND","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.4428053,48.829412]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755277","State":"ND","FCode":"73002","Feature":"School"}}
@@ -2028,7 +2021,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.2180614,47.1048000000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070043","State":"ND","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6760097,48.2361952000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070053","State":"ND","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.1193534,47.8276846000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070057","State":"ND","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1104949,47.7757717000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070065","State":"ND","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.622279,48.7927977000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070070","State":"ND","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.6424021,47.8429953]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070364","State":"ND","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.9772397,46.1643015000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2070390","State":"ND","FCode":"78006","Feature":"Post Office"}}

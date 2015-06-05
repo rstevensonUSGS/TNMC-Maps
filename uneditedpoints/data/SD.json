@@ -1614,7 +1614,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.32265,44.3753600000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830334","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.52163,45.33237]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830348","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5928,43.3011900000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830369","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.37296,44.35499]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830415","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.71302,45.8782100000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830439","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.11438,44.0051300000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830496","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.66699,44.0388800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1830503","State":"SD","FCode":"74034","Feature":"Law Enforcement"}}

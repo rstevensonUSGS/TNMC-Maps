@@ -6963,7 +6963,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7073874,33.6524393]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1808991","State":"AL","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6295466,32.9973187000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809015","State":"AL","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.193497,32.3821380000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809045","State":"AL","FCode":"73006","Feature":"College / University"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.3246673,31.4896479000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809109","State":"AL","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.8420601,33.4795090000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809226","State":"AL","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.594888,34.7503630000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809278","State":"AL","FCode":"73006","Feature":"College / University"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.991299,33.9918659000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809290","State":"AL","FCode":"73006","Feature":"College / University"}}
@@ -9070,7 +9069,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.2398855,33.1746393]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840881","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0783757999999,30.6657271]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840894","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3676528999999,33.1576335]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840902","State":"AL","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7352772,31.8904337000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840946","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6067413,34.2275898]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841038","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.3755346,34.7022388]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841046","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0151187,32.2899808]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841060","State":"AL","FCode":"73002","Feature":"School"}}
@@ -9499,7 +9497,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0936186,30.5442691000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851068","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0202293,32.4099968]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851078","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0078243999999,32.4137314000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851113","State":"AL","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7627214999999,31.7348149000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851114","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7694544,33.4823598]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851115","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.1174136,30.7317628000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851141","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.6678891,33.5388558000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1851147","State":"AL","FCode":"73002","Feature":"School"}}
@@ -9816,7 +9813,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.4965741999999,34.3351032]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858396","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3730676,32.5494780000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858406","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.0766619,32.3898307000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858492","State":"AL","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.3410574,31.4748948000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858509","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.51249,33.9054800000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858549","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6824589999999,34.8065079]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858555","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.1993641,32.3218531000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858559","State":"AL","FCode":"73002","Feature":"School"}}
@@ -10296,7 +10292,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.7537162,33.5401519000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870044","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.1637105999999,30.6354843]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870096","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.408339,34.6820762]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870140","State":"AL","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7366595999999,31.8856176]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870158","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.0854399999999,30.6284712]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870247","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7436375999999,34.5245269000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870253","State":"AL","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.7617074,32.8238298000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1870257","State":"AL","FCode":"73002","Feature":"School"}}

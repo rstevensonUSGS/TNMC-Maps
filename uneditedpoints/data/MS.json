@@ -39,7 +39,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5776417,31.6156299]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772411","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9939942,33.590669]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772416","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.3236704,33.9417543000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772417","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6978422,30.5032473000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772418","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.430312,32.3762521]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772419","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8250536,33.8698363]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772420","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9783959,34.4384357000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1772422","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -693,7 +692,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6335111,31.2164722000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776070","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.7120455,32.1282085]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776072","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2509252,31.1018448]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776074","State":"","FCode":"82010","Feature":"Cemetery"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5783942,30.5757465]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776075","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9617264999999,34.1264967000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776086","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1844828,34.7963483]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776092","State":"","FCode":"82010","Feature":"Cemetery"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.3505137,34.275852]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1776105","State":"","FCode":"82010","Feature":"Cemetery"}}
@@ -6463,7 +6461,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0603426,33.3589789000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814523","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1872953,31.9680568000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814524","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.553545,34.1536323]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814526","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5980117,30.5237074]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814531","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1202466999999,32.5686870000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814537","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5214880999999,30.9480076]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814552","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.0512646,33.7791293000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814556","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6478,7 +6475,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7453962,34.0049339]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814718","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.4715216,32.3626144]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814723","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1201381,34.5597965000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814729","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6177981,30.5592313000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814741","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1087257999999,30.4839777]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814749","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.2626949,34.2384491]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814758","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7589227999999,31.7283943]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1814779","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6622,7 +6618,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.3730005,33.5854376]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817100","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.775032,34.1538572000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817103","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0201256999999,33.4062571000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817104","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6989229,30.5273971]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817121","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4594716999999,31.4392529]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817143","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9467643,33.5843766]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817144","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6481802,30.5388234000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817242","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6683,7 +6678,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.0670929,32.9919834]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818066","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4468879,33.3454732000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818072","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5892805,30.925487]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818088","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7637481,30.5797139000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818103","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1816505,30.5677414]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818113","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.367403,33.2070676000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818118","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8999072999999,31.2622270000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818126","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6712,7 +6706,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7838662,32.1341601]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818559","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6985516999999,31.8563779]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818588","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.07278,34.7449050000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818606","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5231828,30.5286370000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818608","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.0592468999999,30.4020213000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818612","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.3307058,33.6053586]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818624","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.2656605,31.4985824]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1818629","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6768,7 +6761,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.993977,31.0740291000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819205","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3995825,31.5573858000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819224","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9492589,33.7178846]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819227","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6900166,30.4730258000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819228","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1471840999999,32.6968697]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819258","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.8322371,32.3116165000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819270","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1476767999999,33.7989368]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819298","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -6897,7 +6889,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5052757999999,31.4950201]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821422","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5902645,33.0625382000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821429","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9883516,32.8588591000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821456","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7075791,30.5757634]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821473","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1027465,30.4042509000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821476","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9808897999999,33.7903861]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821487","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4261289999999,33.5820709000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1821490","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7177,7 +7168,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6549264,30.8792223]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825525","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.2340196,32.1253596]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825535","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.1464028999999,31.7218551]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825537","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5739454,30.6046733000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825547","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8092847,30.8704276]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825557","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9428253999999,32.2142666]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825582","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4403245,31.583969]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825632","State":"MS","FCode":"74026","Feature":"Fire Station / EMS Station"}}
@@ -7730,7 +7720,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6024750999999,34.5786315]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847129","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5000535,34.3504827]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847175","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7692445,32.5430407000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847240","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6955592,30.5218913000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847250","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7948580999999,30.4352249]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847314","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9517289,34.3193247]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847423","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3007110999999,32.3312305000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847431","State":"MS","FCode":"73002","Feature":"School"}}
@@ -7888,7 +7877,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9909733,31.8958853]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854575","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7409767,32.3878939000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854599","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5314357,34.9390602]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854605","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6693184,30.5438648000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854671","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8555714,31.5816963]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854716","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.32197,33.4463889]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854729","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4613280999999,32.3467954000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854775","State":"MS","FCode":"73002","Feature":"School"}}
@@ -7989,7 +7977,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0515933,33.3919186000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859335","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9609166,30.4040912]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859340","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7477499999999,31.4943505000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859394","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6873725999999,30.5307284]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859467","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6885592,30.5437146]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859490","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7070772,32.3835808000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859510","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0264199,33.8471132]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1859600","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8005,7 +7992,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.719821,32.3904448000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860129","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9894691,34.8222149000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860170","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7173864,32.3644272000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860196","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6678143999999,30.5384745000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860200","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6871922,34.8775464]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860201","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.6412913999999,33.6054677000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860232","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7319242999999,31.4983748000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1860295","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8081,7 +8067,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4096052,34.2678604000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863062","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.4262798999999,31.1609487000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863069","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4895135,34.3284727000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863113","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6913069999999,30.4797586]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863114","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.9140894,30.4364778]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863152","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3578004999999,32.3650200000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863193","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.8748990999999,32.9138378000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1863196","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8143,7 +8128,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5427993,32.7284963000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865665","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.698903,34.3915441]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865681","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5703166,33.4317006000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865727","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6763268999999,30.5294596000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865730","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4323259,34.9031543]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865784","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0765153,31.6969505000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865811","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4747757,31.2341243000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1865832","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8156,7 +8140,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1521294,32.3201454000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866166","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8936849999999,30.441943]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866182","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.6388297,34.3592159]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866208","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6972597,30.5221812]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866240","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5242669,30.3563396000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866244","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5374477,33.8041830000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866298","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.3280483,31.413233]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1866369","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8193,7 +8176,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5679292999999,34.1858061]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1867763","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.293377,31.2831456000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868094","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.3093643,31.3289785000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868104","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6984004,30.5217604000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868112","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5547256,34.1943055]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868158","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1408678,30.7845188000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868240","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.7354366,32.3548421]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1868254","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8269,7 +8251,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3216553999999,32.3369754]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871416","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.5985042,30.9150954]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871472","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5988344,34.1999655000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871588","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5755202999999,30.5757390000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871631","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.3968543999999,31.5584863]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871650","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.49494,34.3711700000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871714","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.168032,33.5003389]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871757","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8298,7 +8279,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7224002999999,32.3904447]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872754","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8821131999999,30.4376326]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872792","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1301000999999,31.7034291000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872806","State":"MS","FCode":"73002","Feature":"School"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6901951999999,30.5288613000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872808","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.7151011,34.2597187000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872823","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.333503,31.279777]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872865","State":"MS","FCode":"73002","Feature":"School"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.2247131,34.5526785000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1872871","State":"MS","FCode":"73002","Feature":"School"}}
@@ -8533,7 +8513,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3961867,31.8606485]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074456","State":"MS","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4665719,34.5025417000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074464","State":"MS","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.8876982,32.0412046000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074506","State":"MS","FCode":"78006","Feature":"Post Office"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.6797949,30.5261351]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074617","State":"MS","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.0652861999999,31.0880885]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074623","State":"MS","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.4454165,33.7348069]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074663","State":"MS","FCode":"78006","Feature":"Post Office"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.1379219,30.7112599000001]},"properties":{"OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2075124","State":"MS","FCode":"78006","Feature":"Post Office"}}
