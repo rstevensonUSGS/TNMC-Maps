@@ -3,6 +3,10 @@
 <head>
   <title>National Map Corps Edited Points</title>
 
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+
   <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -10,22 +14,42 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
-  <script>L_PREFER_CANVAS = true;</script>
+  <script>
+    L_PREFER_CANVAS = true;
+  </script>
   <link rel="stylesheet" href="./assets\css\style.css">
 </head>
 
 
 <body>
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-md-12">
-      <div id="map">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3" id="Info" style="height: 100%; z-index:9999">
+        <div id="header" class="ribbon">
+          <h2>National Map Corps </br> status map</h2>
+        </div>
+        <div class="btn-group">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Navigate to...
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#" id="alaska">Alaska</a></li>
+            <li><a href="#" id="hawaii">Hawaii</a></li>
+            <li><a href="#" id="puertorico">Puerto Rico</a></li>
+            <li class="divider"></li>
+            <li><a href="#" id="contiguos">Contiguous U.S</a></li>
+          </ul>
+        </div>
+        <div id="layerControl" style="padding-top: 25px">
+        </div>
+      </div>
+      <div class="col-md-9" id="map" style="height: 100%;">
         <script src="./script.js"></script>
       </div>
     </div>
   </div>
-</div>
-</div>
+  </div>
 
 </body>
 
