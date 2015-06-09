@@ -23,13 +23,14 @@ function getColor(d) {
     d < 21 ? '#FFFFCC' :
     d < 65 ? '#FFEDA0' :
     d < 123 ? '#FED976' :
-    d < 214 ? '#FEB24C' :
+    d < 217 ? '#FEB24C' :
     d < 339 ? '#FD8D3C' :
     d < 474 ? '#f97b21' :
     d < 632 ? '#fc4e2a' :
     d < 917 ? '#E31A1C' :
-    d < 1628 ? '#BD0026' :
-    d < 1628 ? '#800026' :
+    d < 1230 ? '#BD0026' :
+    d < 1628 ? '#5d0e25' :
+    d < 2006 ? '#2f1019' :
     '#aba9a1';
 }
 
@@ -64,8 +65,13 @@ function resetHighlight(e) {
   info.update();
 }
 
+var popup = L.popup();
 function zoomToFeature(e) {
   map.fitBounds(e.target.getBounds());
+  popup
+    .setLatLng(e.latlng)
+    .setContent("<a href='https://navigator.er.usgs.gov/edit?editor=potlatch2&lat="+e.latlng.lat+"&lon="+e.latlng.lng+"&zoom=13' target='_blank'>Help to edit this area!</a>")
+    .openOn(map);
 }
 
 function onEachFeature(feature, layer) {
@@ -82,6 +88,7 @@ $.getJSON("./data/gridEditedPts.json", function(data) {
     onEachFeature: onEachFeature,
   }).addTo(map);
 });
+
 
 //info on hover!!!
 var info = L.control();
@@ -104,18 +111,30 @@ info._container.remove();
 
 document.getElementById('layerControl').appendChild(info.onAdd(map));
 
-$('#alaska').click(function(){
+$('#alaska').click(function() {
   map.panTo(new L.LatLng(62.527582, -150.693390));
 });
 
-$('#hawaii').click(function(){
+$('#hawaii').click(function() {
   map.panTo(new L.LatLng(19.952809, -155.780060));
 });
 
-$('#puertorico').click(function(){
+$('#puertorico').click(function() {
   map.panTo(new L.LatLng(18.232978, -65.565530));
 });
 
-$('#contiguos').click(function(){
+$('#contiguos').click(function() {
   map.panTo(new L.LatLng(39.985630, -100.419952));
 });
+
+$("#navigate").click(function() {
+  $("#navigateTo").collapse('toggle');
+});
+
+$("#legendToggle").click(function() {
+  $(".my-legend").collapse('toggle');
+});
+
+$(document).on('click',function(){
+	$('#navigateTo').collapse('hide');
+})
