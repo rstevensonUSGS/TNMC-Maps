@@ -28,20 +28,81 @@
         <div id="header" class="ribbon">
           <h2>National Map Corps </br> status map</h2>
         </div>
-        <div class="btn-group">
-          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-            Navigate to...
-            <span class="caret"></span>
-          </button>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="#" id="alaska">Alaska</a></li>
-            <li><a href="#" id="hawaii">Hawaii</a></li>
-            <li><a href="#" id="puertorico">Puerto Rico</a></li>
-            <li class="divider"></li>
-            <li><a href="#" id="contiguos">Contiguous U.S</a></li>
-          </ul>
+        <div id="layerControl" style="padding-top: 15px">
         </div>
-        <div id="layerControl" style="padding-top: 25px">
+        <div class="info" style="margin-top: 15px">
+          <a href="#" id="navigate">
+            <h4>Navigate to:</h4>
+          </a>
+          <div class="collapse" id="navigateTo">
+            <ul>
+              <li>
+                <a href="#" id="alaska" class="nounderline">
+                  <div>
+                    Alaska
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#" id="hawaii" class="nounderline">
+                  <div>
+                    Hawaii
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#" id="puertorico" class="nounderline">
+                  <div>
+                    Puerto Rico
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#" id="contiguos" class="nounderline">
+                  <div>
+                    Contiguous U.S
+                  </div>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="info" style="margin-top: 15px">
+          <a href="#" id="legendToggle">
+            <h4>Legend</h4>
+          </a>
+          <div class="collapse my-legend">
+
+
+            <ul class="legend-labels">
+              <li>
+                <span style='background:#02984D;'></span>0</li>
+              <li>
+                <span style='background:#FFFFCC;'></span>0 - 21</li>
+              <li>
+                <span style='background:#FFEDA0;'></span>22 - 65</li>
+              <li>
+                <span style='background:#FED976;'></span>66 - 123</li>
+              <li>
+                <span style='background:#FEB24C;'></span>124 - 217</li>
+              <li>
+                <span style='background:#FD8D3C;'></span>218 - 339</li>
+              <li>
+                <span style='background:#f97b21;'></span>340 - 474</li>
+              <li>
+                <span style='background:#fc4e2a;'></span>475 - 632</li>
+              <li>
+                <span style='background:#E31A1C;'></span>633 - 917</li>
+              <li>
+                <span style='background:#BD0026;'></span>918 - 1230</li>
+              <li>
+                <span style='background:#5d0e25;'></span>1231 - 1628</li>
+              <li>
+                <span style='background:#2f1019;'></span>1629 - 2006</li>
+
+            </ul>
+
+          </div>
         </div>
       </div>
       <div class="col-md-9" id="map" style="height: 100%;">
