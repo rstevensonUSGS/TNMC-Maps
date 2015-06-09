@@ -3,11 +3,17 @@ imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a<'
 });
 
+var southWest = L.latLng(11.232404, -185.885037),
+  northEast = L.latLng(72.675988, -50.814728),
+  bounds = L.latLngBounds(southWest, northEast);
+
 var map = L.map('map', {
   layers: [imageryTopo],
-  zoomControl: false
+  'zoomControl': false,
+  'minZoom': 4,
+  'maxBounds': bounds
 }).setView([34.8138, -96.06445], 4);
-
+50.970844, -179.515997
 //zoom custom position
 L.control.zoom({
   position: 'topright'
