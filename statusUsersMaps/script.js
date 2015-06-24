@@ -92,7 +92,7 @@ function Style(feature) {
     color: "#000",
     fillOpacity: 1,
     weight: 1,
-    radius: 5
+    radius: 2
   };
 }
 //geojson call from list
@@ -129,4 +129,12 @@ $('#searchBoxBtn').click(function() {
     });
     map.addLayer(geojson);
   });
+});
+
+$(document).ajaxStart(function () {
+    $("#progress").show();
+});
+
+$(document).ajaxComplete(function () {
+    $("#progress").hide();
 });
