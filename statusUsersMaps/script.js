@@ -109,7 +109,8 @@ $('#userlayers li').click(function() {
       }
     });
     map.addLayer(geojson);
-    map.fitBounds(geojson.getBounds())
+    map.fitBounds(geojson.getBounds());
+    $("#searchinput").val(""); //this clears the search box
   });
 });
 
@@ -143,6 +144,6 @@ $(document).ajaxComplete(function() {
 
 //add x button to clear the search field
 $("#searchclear").click(function(evt) {
-      evt.preventDefault();
-      $("#searchinput").val("").focus();
-    });
+  evt.preventDefault();
+  $("#searchinput").val("");
+});
