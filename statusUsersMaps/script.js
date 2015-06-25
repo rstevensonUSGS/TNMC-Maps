@@ -52,17 +52,16 @@ var substringMatcher = function(strs) {
 var sourceArr = [];
 
 for (var i = 0; i < users.length; i++) {
-   sourceArr.push(users[i].UserName);
+  sourceArr.push(users[i].UserName);
 }
 
-$('#searchUser').typeahead({
+$('#searchinput').typeahead({
   hint: true,
- highlight: true,
- minLength: 1
- },
- {
-   name: 'sourceArr',
-    source: substringMatcher(sourceArr)
+  highlight: true,
+  minLength: 1
+}, {
+  name: 'sourceArr',
+  source: substringMatcher(sourceArr)
 });
 
 
@@ -86,13 +85,13 @@ function updateProgressBar(processed, total, elapsed, layersArray) {
 //style points
 function Style(feature) {
   return {
-    fillColor: "#fff",
-    stroke: false,
+    fillColor: "#d17700",
+    stroke: 1,
     opacity: 1,
-    color: "#000",
+    color: "#000000",
     fillOpacity: 1,
     weight: 1,
-    radius: 2
+    radius: 5
   };
 }
 //geojson call from list
@@ -110,13 +109,14 @@ $('#userlayers li').click(function() {
       }
     });
     map.addLayer(geojson);
+    map.fitBounds(geojson.getBounds())
   });
 });
 
 //geojson call from search box
 var geojson;
 $('#searchBoxBtn').click(function() {
-  var url = $('#searchUser').val();
+  var url = $('#searchinput').val();
   console.log(url);
   if (geojson !== undefined) {
     map.removeLayer(geojson);
@@ -128,13 +128,21 @@ $('#searchBoxBtn').click(function() {
       }
     });
     map.addLayer(geojson);
+    map.fitBounds(geojson.getBounds())
   });
 });
 
-$(document).ajaxStart(function () {
-    $("#progress").show();
+//show #progress div when making ajax loads
+$(document).ajaxStart(function() {
+  $("#progress").show();
 });
 
-$(document).ajaxComplete(function () {
-    $("#progress").hide();
+$(document).ajaxComplete(function() {
+  $("#progress").hide();
 });
+
+//add x button to clear the search field
+$("#searchclear").click(function(evt) {
+      evt.preventDefault();
+      $("#searchinput").val("").focus();
+    });
