@@ -19,6 +19,12 @@ body > nav {
   padding-right: 10px;
   padding-left: 10px;
 }
+.dropdown-toggle{
+  color: #fff !important;
+}
+#usermenu:hover{
+  background-color: rgb(115, 115, 115) !important;
+}
 #userlayers {
   height: auto;
   max-height: 400px;
@@ -29,6 +35,18 @@ body > nav {
   background-color: #333 !important;
   color: #fff !important;
 }
+#searchclear {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    bottom: 0;
+    height: 14px;
+    margin: auto;
+    font-size: 14px;
+    cursor: pointer;
+    color: #ccc;
+}
+
 .tt-menu {
   background-color: #ccc;
   border: 1px solid #000;
