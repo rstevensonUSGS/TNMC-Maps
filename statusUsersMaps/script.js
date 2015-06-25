@@ -111,6 +111,7 @@ $('#userlayers li').click(function() {
     map.addLayer(geojson);
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
+    $( "#volunteerName" ).html("<p>Points edited by " + url + "<p>");
   });
 });
 
@@ -130,6 +131,7 @@ $('#searchBoxBtn').click(function() {
     });
     map.addLayer(geojson);
     map.fitBounds(geojson.getBounds())
+    $( "#volunteerName" ).html("<p>Points edited by " + url + "<p>");
   });
 });
 

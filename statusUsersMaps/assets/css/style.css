@@ -46,6 +46,12 @@ body > nav {
     cursor: pointer;
     color: #ccc;
 }
+#volunteerName{
+  margin-bottom: 0;
+  color: #fff;
+  font-weight: bold;
+  text-shadow: 0px 2px 1px #858383;  
+}
 
 .tt-menu {
   background-color: #ccc;
