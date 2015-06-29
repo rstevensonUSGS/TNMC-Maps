@@ -1,7 +1,25 @@
-imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
+//the base maps
+var imageryTopo = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryTopo/MapServer/WmsServer?", {
   layers: 0,
-  attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a<'
+  attribution: " USGS Hybrid Tile, USGS Image Only Dynamic Map, USGS ImageTopo Tile",
 });
+
+var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WmsServer?", {
+  layers: 0,
+  attribution: " USGS Topo Basemap Tile, USGS Topo Dynamic Map",
+});
+
+var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WmsServer?", {
+  layers: 0,
+  attribution: " USGS Image Only Dynamic Map, USGS Image Only Tile",  
+});
+
+
+var basemaps = {
+  "The National Map Base Layer": nationalMap,
+  "The Nationap Map + Aerial Imagery": imageryTopo,
+  "The National Map Imagery": imagery
+}
 
 var southWest = L.latLng(11.232404, -185.885037),
   northEast = L.latLng(72.675988, -50.814728),
@@ -19,6 +37,9 @@ L.control.zoom({
   position: 'topright'
 }).addTo(map);
 
+L.control.layers(basemaps, null, {
+  position: 'topleft'
+}).addTo(map)
 
 //Create list of users automatic
 var suma = 0;
