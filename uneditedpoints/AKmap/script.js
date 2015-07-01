@@ -75,7 +75,7 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geojson;
+var url;
 $('#statelist li').click(function() {
   url = this.id;
   //if (all !== undefined) {
@@ -98,6 +98,8 @@ $('#statelist li').click(function() {
     all.addLayer(geoJson).addTo(map);
   });
 });
+
+console.log(url);
 
 var school = new L.markerClusterGroup({
   chunkedLoading: true,
