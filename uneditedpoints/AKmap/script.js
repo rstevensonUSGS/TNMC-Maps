@@ -78,7 +78,7 @@ var all = new L.markerClusterGroup({
 $('#statelist li').click(function() {
   url = this.id;
   if (all !== undefined) {
-  map.removeLayer(geojson);
+  map.removeLayer(all);
 }
   $.getJSON("../data/" + url + ".json", function(data) {
     geoJson = L.geoJson(data, {
