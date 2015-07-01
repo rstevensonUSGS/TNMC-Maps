@@ -95,14 +95,14 @@ $('#statelist li').click(function() {
     });
     all.addLayer(geoJson).addTo(map);
   });
-
+});
 
 console.log(url);
-var school = new L.markerClusterGroup({
-  chunkedLoading: true,
-  chunkProgress: updateProgressBar,
-  showCoverageOnHover: false
-});
+  var school = new L.markerClusterGroup({
+    chunkedLoading: true,
+    chunkProgress: updateProgressBar,
+    showCoverageOnHover: false
+  });
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -121,7 +121,7 @@ var school = new L.markerClusterGroup({
     });
     school.addLayer(geoJson);
   });
-});
+
 
 var ambulance = new L.markerClusterGroup({
   chunkedLoading: true,
