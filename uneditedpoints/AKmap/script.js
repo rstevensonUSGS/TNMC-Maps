@@ -69,11 +69,13 @@ var pointStyle = {
 }
 
 //begin filter and add data to layers
+
 var all = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
+var geojson;
 $('#statelist li').click(function() {
   url = this.id;
   if (geojson !== undefined) {
