@@ -75,9 +75,12 @@ var all = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $('#statelist li').click(function() {
-  var url = this.id;
+  url = this.id;
+  if (geojson !== undefined) {
+  map.removeLayer(geojson);
+}
   $.getJSON("../data/" + url + ".json", function(data) {
-    var geoJson = L.geoJson(data, {
+    geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
         var customIcon = L.icon({
