@@ -75,10 +75,9 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-var geojson;
 $('#statelist li').click(function() {
   url = this.id;
-  if (geojson !== undefined) {
+  if (all !== undefined) {
   map.removeLayer(geojson);
 }
   $.getJSON("../data/" + url + ".json", function(data) {
