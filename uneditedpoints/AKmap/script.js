@@ -17,10 +17,9 @@ var southWest = L.latLng(50.970844, -179.515997),
 
 var map = L.map('map', {
   'zoomControl': false,
-  'maxBounds': bounds,
-  'minZoom': 5,
+  'minZoom': 4,
   layers: [nationalMap]
-}).setView([64.214955, -152.095333], 5);
+}).setView([34.8138, -96.06445], 4);
 
 var basemaps = {
   "The National Map Base Layer": nationalMap,
@@ -99,7 +98,7 @@ var school = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "School";
@@ -123,7 +122,7 @@ var ambulance = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Ambulance Services";
@@ -147,7 +146,7 @@ var college = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "College / University";
@@ -171,7 +170,7 @@ var fire = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Fire Station / EMS Station";
@@ -195,7 +194,7 @@ var hospital = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Hospital / Medical Center";
@@ -219,7 +218,7 @@ var law = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Law Enforcement";
@@ -243,7 +242,7 @@ var post = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Post Office";
@@ -267,7 +266,7 @@ var prison = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Prison / Correctional Facility";
@@ -291,7 +290,7 @@ var cemetery = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
+$.getJSON("../data/" + url + ".json", function(data) {
   var geoJson = L.geoJson(data, {
     filter: function(feature, layer) {
       return feature.properties.Feature == "Cemetery";
