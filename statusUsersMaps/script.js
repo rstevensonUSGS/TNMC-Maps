@@ -11,7 +11,7 @@ var nationalMap = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/service
 
 var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WmsServer?", {
   layers: 0,
-  attribution: " USGS Image Only Dynamic Map, USGS Image Only Tile",  
+  attribution: " USGS Image Only Dynamic Map, USGS Image Only Tile",
 });
 
 
