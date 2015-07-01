@@ -96,8 +96,6 @@ $('#statelist li').click(function() {
   });
 });
 
-console.log(url);
-
 var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
