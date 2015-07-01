@@ -33,6 +33,16 @@ L.control.layers(basemaps, null, {
 }).addTo(map);
 
 
+//Create list of states automatic
+var suma = 0;
+var o = '';
+for (var i = 0; i < states.length; i++) {
+  o += '<li  id="' + states[i].Postal + '">' +
+    '<a class="users" href="#' + states[i].State + '"> ' + states[i].State + ' - ' + states[i].Postal + '</a>' +
+    '</li>';
+};
+$('#statelayers').append(o);
+
 //nice progress bar
 var progress = document.getElementById('progress');
 var progressBar = document.getElementById('progress-bar');
@@ -65,20 +75,23 @@ var all = new L.markerClusterGroup({
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$.getJSON("../data/AK.json", function(data) {
-  var geoJson = L.geoJson(data, {
-    pointToLayer: function(feature, latlng) {
-      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-      var customIcon = L.icon({
-        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-        iconSize: [24, 24],
-      });
-      return L.marker(latlng, {
-        icon: customIcon
-      }).bindPopup(popupContent);
-    }
+$('#statelist li').click(function() {
+  var url = this.id;
+  $.getJSON("../data/" + url + ".json", function(data) {
+    var geoJson = L.geoJson(data, {
+      pointToLayer: function(feature, latlng) {
+        var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+        var customIcon = L.icon({
+          iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+          iconSize: [24, 24],
+        });
+        return L.marker(latlng, {
+          icon: customIcon
+        }).bindPopup(popupContent);
+      }
+    });
+    all.addLayer(geoJson).addTo(map);
   });
-  all.addLayer(geoJson).addTo(map);
 });
 
 var school = new L.markerClusterGroup({
@@ -87,22 +100,22 @@ var school = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "School";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-school.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "School";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  school.addLayer(geoJson);
 });
 
 var ambulance = new L.markerClusterGroup({
@@ -111,22 +124,22 @@ var ambulance = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Ambulance Services";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-ambulance.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Ambulance Services";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  ambulance.addLayer(geoJson);
 });
 
 var college = new L.markerClusterGroup({
@@ -135,22 +148,22 @@ var college = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "College / University";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-college.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "College / University";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  college.addLayer(geoJson);
 });
 
 var fire = new L.markerClusterGroup({
@@ -159,22 +172,22 @@ var fire = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Fire Station / EMS Station";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-fire.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Fire Station / EMS Station";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  fire.addLayer(geoJson);
 });
 
 var hospital = new L.markerClusterGroup({
@@ -183,22 +196,22 @@ var hospital = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Hospital / Medical Center";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-hospital.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Hospital / Medical Center";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  hospital.addLayer(geoJson);
 });
 
 var law = new L.markerClusterGroup({
@@ -207,22 +220,22 @@ var law = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Law Enforcement";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-law.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Law Enforcement";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  law.addLayer(geoJson);
 });
 
 var post = new L.markerClusterGroup({
@@ -231,22 +244,22 @@ var post = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Post Office";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-post.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Post Office";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  post.addLayer(geoJson);
 });
 
 var prison = new L.markerClusterGroup({
@@ -255,22 +268,22 @@ var prison = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Prison / Correctional Facility";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-prison.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Prison / Correctional Facility";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  prison.addLayer(geoJson);
 });
 
 var cemetery = new L.markerClusterGroup({
@@ -279,22 +292,22 @@ var cemetery = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 $.getJSON("../data/AK.json", function(data) {
-var geoJson = L.geoJson(data, {
-  filter: function(feature, layer) {
-    return feature.properties.Feature == "Cemetery";
-  },
-  pointToLayer: function(feature, latlng) {
-    var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-    var customMarker = L.icon({
-      iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-      iconSize: [24, 24],
-    });
-    return L.marker(latlng, {
-      icon: customMarker
-    }).bindPopup(popupContent);
-  }
-});
-cemetery.addLayer(geoJson);
+  var geoJson = L.geoJson(data, {
+    filter: function(feature, layer) {
+      return feature.properties.Feature == "Cemetery";
+    },
+    pointToLayer: function(feature, latlng) {
+      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+      var customMarker = L.icon({
+        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+        iconSize: [24, 24],
+      });
+      return L.marker(latlng, {
+        icon: customMarker
+      }).bindPopup(popupContent);
+    }
+  });
+  cemetery.addLayer(geoJson);
 });
 //end filter and add data to layers
 
