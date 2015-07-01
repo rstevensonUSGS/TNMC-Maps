@@ -77,7 +77,7 @@ var all = new L.markerClusterGroup({
 });
 
 var url;
-$('#statelist li').click(function getstate() {
+$('#statelist li').click(function () {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
     all.clearLayers();
@@ -97,14 +97,12 @@ $('#statelist li').click(function getstate() {
   });
 });
 
-console.log(url);
-
-function getstate() {
   var school = new L.markerClusterGroup({
     chunkedLoading: true,
     chunkProgress: updateProgressBar,
     showCoverageOnHover: false
   });
+  $('#statelist li').click(function () {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -123,6 +121,7 @@ function getstate() {
     });
     school.addLayer(geoJson);
   });
+});
 
 
   var ambulance = new L.markerClusterGroup({
@@ -316,7 +315,6 @@ function getstate() {
     });
     cemetery.addLayer(geoJson);
   });
-};
 //end filter and add data to layers
 
 
