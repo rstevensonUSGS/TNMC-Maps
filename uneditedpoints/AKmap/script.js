@@ -76,6 +76,7 @@ var all = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 
+var url;
 $('#statelist li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
@@ -94,15 +95,14 @@ $('#statelist li').click(function() {
     });
     all.addLayer(geoJson).addTo(map);
   });
-});
 
+
+console.log(url);
 var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
 });
-$('#statelist li').click(function() {
-  url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
