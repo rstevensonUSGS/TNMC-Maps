@@ -83,6 +83,7 @@ var filtered = new L.markerClusterGroup({
 //create key variables that will used
 var url;
 var geoJson;
+var filtered;
 
 
 $('#statelist li').click(function() {
@@ -108,8 +109,8 @@ $('#statelist li').click(function() {
   });
 });
 
-$('.filter').click(function(event) {
-  toBeFiltered = window[event.target.id];
+$('.filter').click(function() {
+  toBeFiltered = this.id;
   all.clearLayers();
   $.getJSON("../data/" + url + ".json", function(data) {
     filtered = L.geoJson(data, {
