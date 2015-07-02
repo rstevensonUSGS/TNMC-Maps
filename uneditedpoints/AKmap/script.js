@@ -96,10 +96,31 @@ $('#statelist li').click(function() {
     all.addLayer(geoJson).addTo(map);
     console.log(data);
   });
+  $(".filter").click(function(event) {
+    layerClicked = window[event.target.id];
+    filterData = L.geoJson(data, {
+      filter: function(feature, layer) {
+        return feature.properties.Feature == layerClicked;
+      },
+      pointToLayer: function(feature, latlng) {
+        var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+        var customMarker = L.icon({
+          iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+          iconSize: [24, 24],
+        });
+        return L.marker(latlng, {
+          icon: customMarker
+        }).bindPopup(popupContent);
+      }
+    });
+    all.clearLayers();
+    all.addLayer(filterData).addTo(map);
+  });
 });
 
 console.log(all);
 
+/*
 promise.then(function(data) {
   var filtered = new L.markerClusterGroup({
     chunkedLoading: true,
@@ -129,7 +150,7 @@ promise.then(function(data) {
 });
 
 
-/*
+
 var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
