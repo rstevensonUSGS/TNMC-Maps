@@ -132,7 +132,7 @@ $('.filter').click(function() {
       filtered.addLayer(geoJson);
       map.removeLayer(filtered);
     });
-  } else {
+  } if (!$(this).hasClass("active")) {
     $.getJSON("../data/" + url + ".json", function(data) {
       geoJson = L.geoJson(data, {
         filter: function(feature, layer) {
