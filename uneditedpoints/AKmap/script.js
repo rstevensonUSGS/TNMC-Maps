@@ -112,25 +112,43 @@ $('#statelist li').click(function() {
 $('.filter').click(function() {
   toBeFiltered = this.id;
   map.removeLayer(all);
-  $.getJSON("../data/" + url + ".json", function(data) {
-    geoJson = L.geoJson(data, {
-      filter: function(feature, layer) {
-        return feature.properties.Feature == "" + toBeFiltered + "";
-      },
-      pointToLayer: function(feature, latlng) {
-        var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-        var customMarker = L.icon({
-          iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-          iconSize: [24, 24],
-        });
-        return L.marker(latlng, {
-          icon: customMarker
-        }).bindPopup(popupContent);
-      }
+  if ($(this).children().hasClass('active')) {
+    $.getJSON("../data/" + url + ".json", function(data) {
+      geoJson = L.geoJson(data, {
+        filter: function(feature, layer) {
+          return feature.properties.Feature == "" + toBeFiltered + "";
+        },
+        pointToLayer: function(feature, latlng) {
+          var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+          var customMarker = L.icon({
+            iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+            iconSize: [24, 24],
+          });
+          return L.marker(latlng, {
+            icon: customMarker
+          }).bindPopup(popupContent);
+        }
+      });
+      filtered.removeLayer(geoJson).addTo(map);
     });
-    filtered.addLayer(geoJson).addTo(map);
-    console.log(filtered);
-    console.log(toBeFiltered);
-    console.log(filter);
-  });
+  } else {
+    $.getJSON("../data/" + url + ".json", function(data) {
+      geoJson = L.geoJson(data, {
+        filter: function(feature, layer) {
+          return feature.properties.Feature == "" + toBeFiltered + "";
+        },
+        pointToLayer: function(feature, latlng) {
+          var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+          var customMarker = L.icon({
+            iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+            iconSize: [24, 24],
+          });
+          return L.marker(latlng, {
+            icon: customMarker
+          }).bindPopup(popupContent);
+        }
+      });
+      filtered.addLayer(geoJson).addTo(map);
+    });
+  }
 });
