@@ -75,10 +75,10 @@ var all = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 var filtered = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
 
 //create key variables that will used
 var url;
@@ -107,8 +107,26 @@ $('#statelist li').click(function() {
   });
 });
 
-$('#statelist li').click(function() {
-console.log(data);
-console.log(url);
-console.log(all);
+$('.filter').click(function() {
+  toBeFiltered = this.id;
+  all.clearLayers();
+  $.getJSON("../data/" + url + ".json", function(data) {
+    filtered = L.geoJson(data, {
+      filter: function(feature, layer) {
+        return feature.properties.Feature == toBeFiltered;
+      },
+      pointToLayer: function(feature, latlng) {
+        var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+        var customMarker = L.icon({
+          iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+          iconSize: [24, 24],
+        });
+        return L.marker(latlng, {
+          icon: customMarker
+        }).bindPopup(popupContent);
+      }
+    });
+    filtered.addLayer(geoJson).addTo(map);
+    console.log(filtered);
+  });
 });
