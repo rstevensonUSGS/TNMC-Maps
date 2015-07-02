@@ -115,7 +115,7 @@ $('.filter').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
-        return feature.properties.Feature == "School";
+        return feature.properties.Feature == "" + toBeFiltered + "";
       },
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
