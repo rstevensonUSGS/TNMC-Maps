@@ -94,6 +94,7 @@ $('#statelist li').click(function() {
       }
     });
     all.addLayer(geoJson).addTo(map);
+    console.log(data);
   });
 });
 
