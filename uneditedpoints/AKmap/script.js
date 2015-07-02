@@ -99,7 +99,7 @@ $('#statelist li').click(function() {
 
 console.log(all);
 
-var filtered var school = new L.markerClusterGroup({
+var filtered = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
   showCoverageOnHover: false
