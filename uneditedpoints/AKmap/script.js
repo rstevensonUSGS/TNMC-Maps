@@ -111,7 +111,7 @@ $('#statelist li').click(function() {
 
 $('.filter').click(function() {
   toBeFiltered = this.id;
-  all.clearLayers();
+  map.removeLayer(all);
   $.getJSON("../data/" + url + ".json", function(data) {
     filtered = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -131,5 +131,6 @@ $('.filter').click(function() {
     filtered.addLayer(geoJson).addTo(map);
     console.log(filtered);
     console.log(toBeFiltered);
+    console.log(filter);
   });
 });
