@@ -79,7 +79,7 @@ var all = new L.markerClusterGroup({
 var url;
 $('#statelist li').click(function() {
   url = this.id;
-  $.getJSON("../data/" + url + ".json", function(data) {
+  promise = $.getJSON("../data/" + url + ".json", function(data) {
     all.clearLayers();
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
@@ -100,30 +100,32 @@ $('#statelist li').click(function() {
 
 console.log(all);
 
-var filtered = new L.markerClusterGroup({
-  chunkedLoading: true,
-  chunkProgress: updateProgressBar,
-  showCoverageOnHover: false
-});
-$(".filter").click(function(event) {
-  layerClicked = window[event.target.id];
-  filterData = L.geoJson(data, {
-    filter: function(feature, layer) {
-      return feature.properties.Feature == layerClicked;
-    },
-    pointToLayer: function(feature, latlng) {
-      var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
-      var customMarker = L.icon({
-        iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
-        iconSize: [24, 24],
-      });
-      return L.marker(latlng, {
-        icon: customMarker
-      }).bindPopup(popupContent);
-    }
+promise.then(function(data) {
+  var filtered = new L.markerClusterGroup({
+    chunkedLoading: true,
+    chunkProgress: updateProgressBar,
+    showCoverageOnHover: false
   });
-  all.clearLayers();
-  all.addLayer(filterData).addTo(map);
+  $(".filter").click(function(event) {
+    layerClicked = window[event.target.id];
+    filterData = L.geoJson(data, {
+      filter: function(feature, layer) {
+        return feature.properties.Feature == layerClicked;
+      },
+      pointToLayer: function(feature, latlng) {
+        var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
+        var customMarker = L.icon({
+          iconUrl: '../assets/img/icon/' + feature.properties.FCode + '.png',
+          iconSize: [24, 24],
+        });
+        return L.marker(latlng, {
+          icon: customMarker
+        }).bindPopup(popupContent);
+      }
+    });
+    all.clearLayers();
+    all.addLayer(filterData).addTo(map);
+  });
 });
 
 
