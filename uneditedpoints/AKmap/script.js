@@ -109,6 +109,10 @@ $('#statelist li').click(function() {
   });
 });
 
+$('#all').click(function() {
+  map.addLayer(all);
+});
+
 $('.filter').click(function() {
   toBeFiltered = this.id;
   map.removeLayer(all);
@@ -132,7 +136,7 @@ $('.filter').click(function() {
       filtered.addLayer(geoJson);
       map.removeLayer(filtered);
     });
-  } if (!$(this).hasClass("active")) {
+  } else {
     $.getJSON("../data/" + url + ".json", function(data) {
       geoJson = L.geoJson(data, {
         filter: function(feature, layer) {
