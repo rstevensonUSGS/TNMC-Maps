@@ -129,8 +129,8 @@ $('.filter').click(function() {
           }).bindPopup(popupContent);
         }
       });
-      filtered.removeLayer(geoJson);
-      map.removeLayer(geoJson);
+      filtered.addLayer(geoJson);
+      map.removeLayer(filtered);
     });
   } else {
     $.getJSON("../data/" + url + ".json", function(data) {
