@@ -77,7 +77,7 @@ var all = new L.markerClusterGroup({
 });
 
 var url;
-$('#statelist li').click(function () {
+$('#statelist li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
     all.clearLayers();
@@ -97,12 +97,12 @@ $('#statelist li').click(function () {
   });
 });
 
-  var school = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
-  $('#statelist li').click(function () {
+var school = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -124,11 +124,12 @@ $('#statelist li').click(function () {
 });
 
 
-  var ambulance = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var ambulance = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -147,12 +148,13 @@ $('#statelist li').click(function () {
     });
     ambulance.addLayer(geoJson);
   });
-
-  var college = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+});
+var college = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -171,12 +173,14 @@ $('#statelist li').click(function () {
     });
     college.addLayer(geoJson);
   });
+});
 
-  var fire = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var fire = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -195,12 +199,14 @@ $('#statelist li').click(function () {
     });
     fire.addLayer(geoJson);
   });
+});
 
-  var hospital = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var hospital = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -219,12 +225,14 @@ $('#statelist li').click(function () {
     });
     hospital.addLayer(geoJson);
   });
+});
 
-  var law = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var law = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -243,12 +251,14 @@ $('#statelist li').click(function () {
     });
     law.addLayer(geoJson);
   });
+});
 
-  var post = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var post = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -267,12 +277,13 @@ $('#statelist li').click(function () {
     });
     post.addLayer(geoJson);
   });
-
-  var prison = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+});
+var prison = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -291,12 +302,14 @@ $('#statelist li').click(function () {
     });
     prison.addLayer(geoJson);
   });
+});
 
-  var cemetery = new L.markerClusterGroup({
-    chunkedLoading: true,
-    chunkProgress: updateProgressBar,
-    showCoverageOnHover: false
-  });
+var cemetery = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$('#statelist li').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     var geoJson = L.geoJson(data, {
       filter: function(feature, layer) {
@@ -315,6 +328,7 @@ $('#statelist li').click(function () {
     });
     cemetery.addLayer(geoJson);
   });
+});
 //end filter and add data to layers
 
 
