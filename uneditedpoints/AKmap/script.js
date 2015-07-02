@@ -103,12 +103,13 @@ $('#statelist li').click(function() {
     });
     all.addLayer(geoJson).addTo(map);
     console.log(data);
+    console.log(all);
     console.log(url);
   });
 });
 
-$('.filter').click(function() {
-  toBeFiltered = this.id;
+$('.filter').click(function(event) {
+  toBeFiltered = window[event.target.id];
   all.clearLayers();
   $.getJSON("../data/" + url + ".json", function(data) {
     filtered = L.geoJson(data, {
