@@ -107,6 +107,8 @@ $('#statelist li').click(function() {
   });
 });
 
+$('#statelist li').click(function() {
 console.log(data);
 console.log(url);
 console.log(all);
+});
