@@ -129,7 +129,7 @@ $('.filter').click(function() {
           }).bindPopup(popupContent);
         }
       });
-      filtered.removeLayer(geoJson).addTo(map);
+      filtered.removeLayer(geoJson);
     });
   } else {
     $.getJSON("../data/" + url + ".json", function(data) {
@@ -148,7 +148,8 @@ $('.filter').click(function() {
           }).bindPopup(popupContent);
         }
       });
-      filtered.addLayer(geoJson).addTo(map);
+      filtered.addLayer(geoJson);
     });
   }
+  filtered.addTo(map);
 });
