@@ -97,6 +97,18 @@ $('#statelist li').click(function() {
   });
 });
 
+console.log(all);
+
+var filtered var school = new L.markerClusterGroup({
+  chunkedLoading: true,
+  chunkProgress: updateProgressBar,
+  showCoverageOnHover: false
+});
+$(".filter").click(function(){
+
+});
+
+
 var school = new L.markerClusterGroup({
   chunkedLoading: true,
   chunkProgress: updateProgressBar,
