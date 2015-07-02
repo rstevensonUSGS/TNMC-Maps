@@ -126,7 +126,7 @@ $('.filter').click(function() {
         }).bindPopup(popupContent);
       }
     });
-    all.addLayer(geoJson).addTo(map);
+    filtered.addLayer(geoJson).addTo(map);
     console.log(filtered);
     console.log(toBeFiltered);
   });
