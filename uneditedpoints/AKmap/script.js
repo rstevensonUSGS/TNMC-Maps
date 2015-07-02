@@ -112,7 +112,7 @@ $('#statelist li').click(function() {
 $('.filter').click(function() {
   toBeFiltered = this.id;
   map.removeLayer(all);
-  if ($(this).hasClass('active')) {
+  if ($(this).hasClass("active")) {
     $.getJSON("../data/" + url + ".json", function(data) {
       geoJson = L.geoJson(data, {
         filter: function(feature, layer) {
