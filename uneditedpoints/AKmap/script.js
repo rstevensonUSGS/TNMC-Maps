@@ -113,7 +113,7 @@ $('.filter').click(function() {
   $.getJSON("../data/" + url + ".json", function(data) {
     filtered = L.geoJson(data, {
       filter: function(feature, layer) {
-        return feature.properties.Feature == '"'toBeFiltered'"';
+        return feature.properties.Feature == "'"toBeFiltered"'";
       },
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
