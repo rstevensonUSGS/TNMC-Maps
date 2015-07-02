@@ -130,7 +130,7 @@ $('.filter').click(function() {
         }
       });
       filtered.removeLayer(geoJson);
-      map.removeLayer(filtered);
+      map.removeLayer(geoJson);
     });
   } else {
     $.getJSON("../data/" + url + ".json", function(data) {
