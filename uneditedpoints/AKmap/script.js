@@ -95,6 +95,8 @@ $('#statelayers li').click(function() {
     filtered.clearLayers();
     //clear any all layer if present
     all.clearLayers();
+    //add a header with the state name
+    $("#selectedState").html("<p>Unedited Points in " + url + "");
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
