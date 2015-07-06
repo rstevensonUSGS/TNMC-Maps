@@ -70,6 +70,10 @@ html, body {
   font-weight: 400;
 }
 
+#statelayers{
+  max-height: 625px;
+  overflow-y: scroll;
+}
 #overlay {
   padding: 10px;
   margin-left: 10px;
