@@ -88,7 +88,7 @@ var filtered;
 //load state data
 $('#statelayers li').click(function() {
   url = this.id;
-  stateName = this.states[i].State;
+  stateName = this;
   $.getJSON("../data/" + url + ".json", function(data) {
     //reset the state of all buttons
     $(".filter").removeClass('active');
