@@ -30,12 +30,14 @@
       <div class="col-sm-2" style="padding: 0px">
         <div id="overlay">
           <img id="logo" src="../assets/img/tnmc.jpg">
-          <div>
-            <li class="dropdown" id="statelist">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">states <span class="caret"></span></a>
-              <ul class="dropdown-menu" id="statelayers">
-              </ul>
-            </li>
+          <!-- state list -->
+          <div class="dropdown">
+            <button class="btn btn-default btn-block dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              Select a State or Territory
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" id="statelayers">
+            </ul>
           </div>
           <div data-toggle="buttons">
             <button type="button" id="all" class="btn btn-success btn-block">All Features</button>
