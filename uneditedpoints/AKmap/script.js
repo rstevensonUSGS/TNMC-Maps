@@ -111,6 +111,7 @@ $('#statelayers li').click(function() {
       }
     });
     all.addLayer(geoJson).addTo(map);
+    map.fitBounds(geoJson.getBounds());
     console.log(data);
     console.log(all);
     console.log(url);
