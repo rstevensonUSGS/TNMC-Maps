@@ -170,3 +170,12 @@ $("#reset").click(function() {
   filtered.clearLayers();
   all.addTo(map);
 });
+
+//add checkmark to each filter
+$(".filter").click(function() {
+  if ($(this).children().hasClass('glyphicon glyphicon-ok')) {
+    $(this).find('span').removeClass('glyphicon glyphicon-ok');
+  } else {
+    $(this).find('span').addClass('glyphicon glyphicon-ok');
+  }
+});
