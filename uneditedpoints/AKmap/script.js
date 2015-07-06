@@ -89,6 +89,7 @@ var filtered;
 $('#statelist li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
+    $(".filter").removeClass('active');
     filtered.clearLayers();
     all.clearLayers();
     geoJson = L.geoJson(data, {
