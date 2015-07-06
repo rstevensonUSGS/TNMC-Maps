@@ -71,7 +71,7 @@ html, body {
 }
 
 #statelayers{
-  max-height: 625px;
+  max-height: 550px;
   overflow-y: scroll;
 }
 #overlay {
