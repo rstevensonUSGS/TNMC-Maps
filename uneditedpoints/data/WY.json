@@ -1,0 +1,416 @@
+{"name":"WY","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4494509,42.1065107000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770704"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8232257,41.7564749000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771025"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3802241,42.7587856000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771155"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4464687,44.0369924]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771188"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.2564222,41.5772188]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771314"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4788684,41.5089431000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771497"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2010638,43.8539618]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771715"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9754779,42.0480187000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772076"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8730995,42.8652470000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772137"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2956174,41.9171332000001]},"properties":{"State":"WY","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772197"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3946715,44.4049855000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1772515"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2402194,44.1647048]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775463"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2138301,43.9544237000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775856"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.7293132,42.7543886]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775882"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8890406,41.0199557]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1776225"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0434929,42.8663302000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1776401"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.702271,44.3338628000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1776701"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6178111,41.174968]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777258"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2833187,43.8619189]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777333"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8403344,44.5360835000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777445"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2095559,44.8841219]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777966"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5101211,44.8185632]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778817"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4206694,44.4607886000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779145"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.614128,44.4510949]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779815"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1463432,41.6377516000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780156"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.5659996,44.2046712000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780403"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.971732,44.6738601000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780926"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1052606,44.3738706]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781011"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9523742,41.0299545]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781274"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3011703,41.0041321]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781720"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6459456,42.7152370000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782375"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1130826,44.6497045]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782784"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.0927151,42.8310785]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783271"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9650458,41.5732926000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784963"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0118191,41.0182865]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784984"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4579124,41.5335757]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785778"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.053209,42.0182817]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785829"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9904298,41.0380094000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786625"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.3903907,44.4841221]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787107"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1196586,44.077481]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787852"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9794935,41.1613529000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788475"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.0134048,44.896916]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788489"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.864261,44.5302370000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789056"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.573458,44.8910626000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789323"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7983736,41.2155208]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789631"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1557203,42.9210509000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790868"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4891184,44.2355400000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792178"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.3884498,44.8096754000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792393"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8821558,43.4946486000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792623"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7408708,41.2260769000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792778"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.5475659,41.044409]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794729"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5856786,44.7324524000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795728"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3457799,44.3963747000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795895"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6270537,43.5325271]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796290"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2999437,44.2613733000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796662"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7511996,44.2094036]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797238"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7577055,43.4715959000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797301"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8246927,44.7255396]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797530"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4420511,42.9921818]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797635"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.073436,44.4960683]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798353"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8548752,42.8735548000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798371"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2010556,42.4771870000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798392"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3405835,43.4177493]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798709"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6417356,41.0477422000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799529"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5871823,44.6955398000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800825"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4175622,41.0219095]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801494"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0515465,42.7063306000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801522"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0196103,43.2479991000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801701"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6138481,44.0894258000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802502"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.2729452,42.7977165]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802743"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.7154226,42.6924447000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802870"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7914799,44.5380157000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803418"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4537311,44.8766192000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803879"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4294657,41.7074643]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803938"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6735749,44.7235953000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804853"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1690367,44.9007810000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805588"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1949403,43.8519225000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806031"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.751909,42.2605243]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806154"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0620458,44.3871794]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806412"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9484298,44.2627357000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806999"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2167656,43.6588449000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807308"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6059159,44.2646822]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807409"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9226571,42.9910542000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808391"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.4085143,43.2127134]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808401"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.983306,41.2574710000001]},"properties":{"State":"WY","FCode":"73006","Feature":"College / University","OSM_ID":"1809264"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5980318,44.6827126000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811360"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2067881,41.6042672]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811484"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8203711,41.7575974000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811537"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2178033,43.8450607]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811608"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2412404,43.8497505]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811697"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8366115,44.4542653]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811895"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9763755,41.7445243000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812039"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7059524,44.3480468000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812064"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2955061,41.9171515]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812191"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1102652,42.5548065]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812249"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1991629,41.8979244000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812256"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3496696,42.3053222]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812357"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5174502,42.2151646]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812455"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7612308,43.4783301000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812479"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6887571,43.2679047]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812693"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.591858,41.3114762000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812884"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.876422,43.4990164000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813011"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.8273823,42.4936092]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813227"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3576308,44.4118857]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813249"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7740698,44.8133456]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813538"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6619453,43.5448483000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813740"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1382044,43.2906508]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814148"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1307653,44.6537841000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814184"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8518527,42.8704847000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814196"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8426979,43.5164384]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814244"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3593512,41.1885948]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814448"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7319049,42.4947693]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814477"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5349391,44.3485835000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814583"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4137895,41.6875494000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814587"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2514766,41.8567928000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814658"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6346448,43.5329946000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814685"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1308539,41.1847692000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814761"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.7128978,42.7484756000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814814"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8936075,44.5742328000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814856"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0044588,43.1504282000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815304"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4456242,44.0366815]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815338"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.56937,41.8702399000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815367"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.7322995,42.262912]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815394"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8112572,44.3579761]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815454"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.0715063,42.863072]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815819"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.116232,41.7795598000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815825"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4778901,41.2127548]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816033"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2657885,41.785626]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816119"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.4724425,43.7216057000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816146"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.952779,44.2631474]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816246"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7784441,44.5359532000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816519"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.7242007,42.3291901000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816538"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.556642,42.2446952000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816800"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6353867,43.7145005]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816931"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9021408,41.3950542000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817017"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7814745,43.4332715]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817047"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6563434,41.0327189000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817200"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6277138,44.1026816]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817217"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.598246,44.6826833000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817351"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8377342,42.8965047]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817361"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3424313,43.954435]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817458"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.0881676,42.6627722000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817468"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.0369242,43.7546088]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817783"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7001295,44.3511668]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817820"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3799934,44.6406875000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817835"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4707437,41.5266192]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817843"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3672976,42.4625099]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817938"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.806354,41.4444239000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818175"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8064201,41.4540715000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818323"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9817906,41.6727849000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818507"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1217862,41.2982373]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9919516,44.681384]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818860"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.633255,43.5342661]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818962"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6302761,41.3080488000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819024"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.0731139,41.2725729000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819276"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.7405999,42.2700143000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819301"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7933135,41.2077659]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819339"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7612599,43.483725]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819472"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.3522081,43.8240333000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819480"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.6349381,43.9129953]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819505"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.407429,43.2017329]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819728"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4572916,42.3515547000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819808"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5596806,42.2052568]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819862"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1664008,41.6401427000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819888"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.3978871,44.5629942]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820038"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4503379,42.7630226000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820065"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.4207021,44.9145753000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820101"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6947697,44.3528832000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820466"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6176517,42.1082371000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820470"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.4923648,44.7370131000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820550"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9016442,41.1641770000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820668"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.352399,42.7408278]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820737"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6521448,41.0349904]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820763"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.520029,43.2151703000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820838"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1880346,43.8493732000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820974"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6403073,43.5378247]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820988"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9121055,42.5346444]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820999"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3788374,44.4051619000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821106"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0256576,42.5048199]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821109"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.7744109,42.8302869]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821472"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6771105,43.1510602000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821739"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4494917,42.1066221]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821872"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7952619,41.2046782]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821938"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3592838,41.1912169]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822088"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7228397,44.3423002000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822119"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5150886,44.2904762000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822132"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5645808,44.3862790000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822172"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4211025,43.9795358000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822185"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7318893,42.4951403000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822493"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1792686,44.9090802000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822507"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3732327,44.4068396000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822608"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7071525,44.3467691000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822703"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.447573,44.7969871000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822859"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5406249,44.5599985000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823042"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5057189,41.323359]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823099"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2485098,42.4218445000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823410"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.6975558,44.9752291]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823482"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3384674,44.0332565000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823628"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1938168,43.3086495000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823734"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3745826,44.4087131000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823764"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8522576,42.8704856000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823826"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3856837,42.7618562000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823838"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.0775354,44.9773549000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823915"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.7405999,42.2705733000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824183"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4734971,41.5097348]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824472"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7313163,43.3224689]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824643"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9641867,44.5021360000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824650"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1834245,41.4169925]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824669"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1685185,41.0130543000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824719"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3805971,41.9648518000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824860"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9548612,42.0536749]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824906"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4789768,43.1226697000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825015"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4506093,42.7630333000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825076"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6955269,43.2437483000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825247"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8763726,42.8618086000001]},"properties":{"State":"WY","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825545"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1884147,43.8478936000001]},"properties":{"State":"WY","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826462"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.9905864,41.2432245000001]},"properties":{"State":"WY","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826754"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3806494,42.7589478]},"properties":{"State":"WY","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827034"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3745,44.4086]},"properties":{"State":"WY","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827073"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.20351,43.85531]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828137"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.38296,42.7596]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828204"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.46827,41.5297400000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828333"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.79343,41.20827]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828454"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.54491,43.7020200000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828513"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.95389,42.0535100000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828746"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.64106,43.5370600000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828835"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.95139,44.2645000000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829036"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.11003,42.55654]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829228"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.59061,41.2931400000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829242"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.38135,42.7596800000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829368"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5635,41.86584]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829374"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.95321,42.0553400000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829412"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.91489,41.2696]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829643"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.84395,42.90043]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829849"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.76163,43.4784500000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830060"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.97832,41.67344]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830092"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.87064,42.8610200000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830110"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.38172,44.4047600000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830223"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.48652,43.7604900000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.74247,42.2698600000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830366"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.45064,42.76266]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830530"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.24033,41.7877800000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830533"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.45077,42.76108]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830623"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.02617,42.5038300000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830681"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.74969,43.9893900000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831047"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.11483,41.7787700000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831113"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.65087,41.03414]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831131"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.56028,42.2427900000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831145"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.46605,41.5296700000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831204"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.37889,44.40484]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831212"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.78979,41.42733]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831225"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.46798,41.52957]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831717"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.45149,42.75998]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831967"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.11127,42.5556700000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832090"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.44578,44.0362900000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832253"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.86157,42.86627]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832334"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.76503,43.55967]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832498"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.19994,41.8987000000001]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832731"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.62804,43.6561]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832735"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.09803,41.6269]},"properties":{"State":"WY","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832932"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5623818,41.3080909]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1840723"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7008912,44.3472752000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1840959"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.447922,44.0360123]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841180"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.5566874,42.2437473000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841241"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0217565,42.5052028000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841294"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6884677,43.2452401]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841653"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1155255,42.5368178000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841846"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9440041,44.2602926000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1841971"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.6283355,43.6224724]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1842010"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7599156,43.4720698]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1842023"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4152075,41.6873169]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1842156"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1792661,44.9090182]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1842214"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8714057,42.8556510000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1843104"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6333538,43.7127313]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1843178"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9695902,41.7427628]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1843333"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8306075,43.5355754]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1843339"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3415397,42.1363842000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1843491"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5867345,41.3567581]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1844062"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6849662,43.2463081000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1844254"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8601583,42.8724458]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1844269"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8118011,41.4534094000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1844863"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.446484,42.7598844]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1845428"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.793005,41.2094648]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1845459"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.633796,43.7126276000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1845856"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6214532,44.1016742]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1846603"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1155788,42.5374426000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1847056"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8212602,41.7619809]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1847232"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9961104,44.6818281000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1847405"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7930024,41.2094561000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1847419"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2968022,41.9128006]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1847475"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9814803,41.6708643000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1848701"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.742329,42.2647838]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1849559"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8604637,43.4341273000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1849727"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.8577238,42.8706399000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1850002"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3818143,44.6372942]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1850453"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6337982,43.7126648]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1851037"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.6453105,42.6696186]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1852375"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6303946,43.5419423000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1853020"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9960911,44.6818047]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1853081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1685901,41.6414471000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1854153"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8923102,44.5725808]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1854187"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8662143,43.4988259]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1854954"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5885217,41.3482445000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1855101"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4427115,42.1098676]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1855740"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8715055,42.8588918]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1855786"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.8212227,41.7620162000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1856566"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6025637,44.6860756]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1856797"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.7196367,44.7431367]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1856837"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.174526,43.8451032]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1857123"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7577339,43.4811403000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1858599"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4427071,42.1099510000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1858623"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4666298,41.5098545000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1858662"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.3818383,44.6372591000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1858812"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8615648,42.6157137000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1858830"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0095409,42.7474535000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1859012"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8035626,43.4629733]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1860222"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2605961,43.2341255000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1860915"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9482245,44.2629178]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1861240"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4511691,41.4929743000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1861286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.4031546,43.1980665]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1861493"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.1832,41.41326]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1862074"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9814821,41.6708697]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1862309"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5440019,44.3912111000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863046"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9522565,44.2681273000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863057"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4724961,41.5368522000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863738"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8307399,43.5354876000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863901"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8189389,41.451824]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863946"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2081722,43.8510399]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1863976"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.447902,44.0360071000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1864128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9708394,42.0497726]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1864568"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7930028,41.2094565]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1864579"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7142433,42.5503201000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1865176"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4705962,41.5101259]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1865520"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3997952,42.7618814000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1865556"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9679416,41.5934833000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1865703"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.8714176,42.8556414]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1865707"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4501368,44.9751434]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1866718"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.4428465,42.6524098]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1867208"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.4949204,44.2975973000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1867402"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1888954,43.3064358]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1868701"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.6303902,43.5420016]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1868907"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.617769,42.1075557]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1869166"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7930265,41.2094486]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1869548"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.7422884,42.2618915]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1869678"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.837622,42.4920326000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1869887"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5561075,41.8619916000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1869933"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6994863,43.0450976000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1870004"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3712012,44.4071478000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1870620"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6214497,44.1016912000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1870976"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7008446,44.3472922]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871149"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.702612,44.3400130000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871324"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.460101,41.5073818000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871525"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6555617,41.0368204000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871559"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.398213,42.749918]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871579"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5645548,41.8708305000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871581"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8117875,43.4903222]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1871927"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.590331,41.3031730000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1872121"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9580934,42.0594554]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1872218"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.9695612,41.7432068000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1872285"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.818947,41.4517517]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1872298"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1980842,42.2621179000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1872791"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7137726,44.3468044000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1873513"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.9770148,42.0489524000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1873639"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.5826984,41.3140659000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1873714"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4568755,41.5078006000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1874003"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3717546,44.4040854]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1874193"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.2077649,44.2775495000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1874265"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3661453,42.7514639]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1874543"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8129562,43.4599847000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1874693"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8019263,43.4592189000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1875333"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1317043,44.653665]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1875680"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.4561741,41.5000190000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1875892"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9358356,41.0273247000001]},"properties":{"State":"WY","FCode":"73002","Feature":"School","OSM_ID":"1876024"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.8633766,44.7167148]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064009"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.7097559,44.7408243]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064214"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7180687,42.5657482]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064348"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.7576119,44.7550867]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064599"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.3589877,41.1911407000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064885"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.7911621,41.2073178000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2064982"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.7653865,43.4785132000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2065379"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.469455,41.5169101000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2065414"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.9916538,44.6803116]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2065459"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.3840793,42.760137]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2066070"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.3473602,44.4860938]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2066318"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.0525975,44.4888353000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2067128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.4498008,44.0346108000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2067799"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5114917,44.7962380000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2067839"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.1425571,41.2967519000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2068622"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.3322104,44.9566647]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2068634"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.787301,43.4702744000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2068965"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.7799807,44.5354262000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2069046"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2023318,43.8555968000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2070213"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4027641,44.5058113000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2070628"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.6578744,41.0355419000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2070784"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5948124,44.8922483000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2070897"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.3643511,43.1598804000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2071473"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.6268628,43.6251867]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2071500"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.9783349,42.939305]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2072919"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.2036671,44.6425391000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2072921"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.0615697,44.518834]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2073502"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8760476,43.4981427000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2074659"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.8274098,43.5865043000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2074757"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.954479,44.7972615]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2075137"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.1316328,44.0964998000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2075277"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.8033871,42.4690068]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2075603"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6214352,44.9697015]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2075810"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.8902917,44.5747528000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2076700"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.9720374,41.6711260000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2077498"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.6906322,43.2454237000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2078357"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.1948388,43.3097561000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2078868"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.1140122,42.5572363000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2079245"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.2010429,41.8959424000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2080551"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.4707112,44.8835209000001]},"properties":{"State":"WY","FCode":"78006","Feature":"Post Office","OSM_ID":"2080765"}}
+]}
