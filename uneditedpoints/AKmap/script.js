@@ -47,7 +47,7 @@ var progress = document.getElementById('progress');
 var progressBar = document.getElementById('progress-bar');
 
 function updateProgressBar(processed, total, elapsed, layersArray) {
-  if (elapsed > 100) {
+  if (elapsed > 50) {
     // if it takes more than a second to load, display the progress bar:
     progress.style.display = 'block';
     progressBar.style.width = Math.round(processed / total * 100) + '%';
@@ -167,6 +167,7 @@ $('.filter').click(function() {
 //reset button
 $("#reset").click(function() {
   $(".filter").removeClass('active');
+  $("button").find('span').removeClass('glyphicon glyphicon-ok');
   filtered.clearLayers();
   all.addTo(map);
 });
