@@ -37,7 +37,7 @@ var suma = 0;
 var o = '';
 for (var i = 0; i < states.length; i++) {
   o += '<li  id="' + states[i].Postal + '">' +
-    '<a class="users" href="#' + states[i].State + '"> ' + states[i].State + ' - ' + states[i].Postal + '</a>' +
+    '<a class="users" href="' + states[i].State + '"> ' + states[i].State + ' - ' + states[i].Postal + '</a>' +
     '</li>';
 };
 $('#statelayers').append(o);
@@ -88,6 +88,7 @@ var filtered;
 //load state data
 $('#statelayers li').click(function() {
   url = this.id;
+  stateName = this.href;
   $.getJSON("../data/" + url + ".json", function(data) {
     //reset the state of all buttons
     $(".filter").removeClass('active');
@@ -96,7 +97,7 @@ $('#statelayers li').click(function() {
     //clear any all layer if present
     all.clearLayers();
     //add a header with the state name
-    $("#selectedState").html("<p>Unedited Points in " + url + "");
+    $("#selectedState").html("<p>Unedited Points in " + stateName + "");
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
