@@ -89,6 +89,7 @@ var filtered;
 $('#statelist li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
+    filtered.clearLayers();
     all.clearLayers();
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
