@@ -168,4 +168,5 @@ $('.filter').click(function() {
 $("#reset").click(function() {
   $(".filter").removeClass('active');
   filtered.clearLayers();
+  all.addTo(map);
 });
