@@ -80,17 +80,20 @@ var filtered = new L.markerClusterGroup({
   showCoverageOnHover: false
 });
 
-//create key variables that will used
+//create key variables that will used. Does it need to be global variables? Will test later.
 var url;
 var geoJson;
 var filtered;
 
-
+//load state data
 $('#statelist li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
+    //reset the state of all buttons
     $(".filter").removeClass('active');
+    //clear any filtered layer if present
     filtered.clearLayers();
+    //clear any all layer if present
     all.clearLayers();
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
@@ -165,4 +168,4 @@ $('.filter').click(function() {
 $("#reset").click(function() {
   $(".filter").removeClass('active');
   filtered.clearLayers();
-};
+)};
