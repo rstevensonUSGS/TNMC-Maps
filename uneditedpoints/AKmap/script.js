@@ -37,7 +37,7 @@ var suma = 0;
 var o = '';
 for (var i = 0; i < states.length; i++) {
   o += '<li  id="' + states[i].Postal + '">' +
-    '<a class="users" href="' + states[i].State + '"> ' + states[i].State + ' - ' + states[i].Postal + '</a>' +
+    '<a class="users" href="#' + states[i].State + '"> ' + states[i].State + ' - ' + states[i].Postal + '</a>' +
     '</li>';
 };
 $('#statelayers').append(o);
@@ -88,7 +88,7 @@ var filtered;
 //load state data
 $('#statelayers li').click(function() {
   url = this.id;
-  stateName = this.href;
+  stateName = this.states[i].State;
   $.getJSON("../data/" + url + ".json", function(data) {
     //reset the state of all buttons
     $(".filter").removeClass('active');
