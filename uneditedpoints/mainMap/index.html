@@ -68,10 +68,11 @@
             <button type="button" id="Cemetery" class="btn btn-primary btn-block filter" data-toggle="buttons">
               <span></span> Cemetery</button>
             <button type="button" id="reset" class="btn btn-danger btn-block">Reset Filters</button>
-            <a href="https://ricardo-c-oliveira.github.io/TNMC-Maps/uneditedpoints/" class="btn btn-danger btn-block">
-              <span class="glyphicon glyphicon-arrow-left"></span> Return to Homepage</a>
+            <a href="https://ricardo-c-oliveira.github.io/TNMC-Maps/uneditedpoints/" data-toggle="modal" data-target="#myModal" class="btn btn-danger btn-block">
+              <span class="glyphicon glyphicon-arrow-left"></span> More Info</a>
           </div>
         </div>
+
       </div>
 
 
@@ -83,6 +84,32 @@
           <div id="progress-bar"></div>
           <script src="../data/listStates.js"></script>
           <script src="script.js"></script>
+        </div>
+      </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">About</h4>
+          </div>
+          <div class="modal-body">
+            <p>Welcome to the <b>National Map Corps Status Map.</b> The purpose of this map is to show the current status of the data gathered by clunteers throught <a href="http://navigator.er.usgs.gov/" target="_blank">Navigator</a>. Each colored hexagon
+              on the map refers to the number of points edited across the United States, Puerto Rico, and US Virgin Islands. If you wish to contribute by editing features on a specific area all you have to do is to click on any hexagon and a popup
+              with a link leading to Navigator will appear.</p>
+            <br>
+            <p>
+              This data reflects the status as of <b>05/28/2015</b>
+            </p>
+            <br>
+            <p>
+              <b><i>The National Map Corps Team</i></b>
+            </p>
+          </div>
         </div>
       </div>
     </div>
