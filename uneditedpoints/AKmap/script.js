@@ -86,7 +86,7 @@ var geoJson;
 var filtered;
 
 //load state data
-$('#statelist li').click(function() {
+$('#statelayers li').click(function() {
   url = this.id;
   $.getJSON("../data/" + url + ".json", function(data) {
     //reset the state of all buttons
