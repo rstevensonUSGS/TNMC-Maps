@@ -54,7 +54,7 @@ html, body {
   z-index: 10000
 }
 
-#titleText {
+#selectedState {
   padding-right: 20;
   margin: 0;
   text-align: right;
