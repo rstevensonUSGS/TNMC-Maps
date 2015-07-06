@@ -111,6 +111,7 @@ $('#statelist li').click(function() {
   });
 });
 
+//add "all" layer to the map, this layer is the geoJson without any filter
 $('#all').click(function() {
   map.addLayer(all);
 });
@@ -159,3 +160,9 @@ $('.filter').click(function() {
     });
   }
 });
+
+//reset button
+$("#reset").click(function() {
+  $(".filter").removeClass('active');
+  filtered.clearLayers();
+};
