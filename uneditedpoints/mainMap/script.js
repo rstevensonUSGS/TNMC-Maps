@@ -84,7 +84,7 @@ var filtered = new L.markerClusterGroup({
 var url;
 var geoJson;
 var filtered;
-
+console.log(geoJson);
 //load state data
 $('#statelayers li').click(function() {
   url = this.id;
@@ -168,15 +168,7 @@ $('.filter').click(function() {
   }
 });
 
-// // //all features button
-// $("#all").click(function() {
-//   $(".filter").removeClass('active');
-//   $("button").find('span').removeClass('glyphicon glyphicon-ok');
-//   filtered.clearLayers();
-//   all.addTo(map);
-// });
-
-//reset button
+//reset button and add all features button
 $("#reset, #all").click(function() {
   $(".filter").removeClass('active');
   $("button").find('span').removeClass('glyphicon glyphicon-ok');
