@@ -1,8 +1,10 @@
 {"name":"NH","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5714505999999,44.4890760000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770752"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0315633,42.8186515]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770743"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5714505999999,44.4890760000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770752"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4364181,43.5754851]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770762"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2014728,43.2365865]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770799"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4798989,44.4217089000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1770837"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4809597999999,43.1419879000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770841"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7800748,43.035157]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770843"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6839563999999,44.0296016]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770878"}}
@@ -13,6 +15,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8193042999999,43.7954032000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770997"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5076243,43.6430134]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771043"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1760958,44.4679320000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771056"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0738568,43.010699]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771059"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0531650999999,44.2552732]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771062"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.654533,43.4449605]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771083"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2640683,43.8632874]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771087"}}
@@ -26,12 +29,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.462215,42.984703]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771248"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2912279,43.4859010000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771262"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0569844999999,42.7793413000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771266"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5401330999999,44.2744998000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771269"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5830986999999,43.4453843000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771271"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4958685999999,42.8513379]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771275"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4901392,42.7492474000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771300"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2101835999999,42.9053523000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771344"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4286777999999,43.253539]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771352"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7341742,44.2201946000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771385"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1948626,44.3966642]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771386"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5544193,43.4067225000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771452"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9500624999999,43.5621681000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771466"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5051025,42.9854629000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771471"}}
@@ -102,6 +107,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3148075999999,42.7400838]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774061"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5050669999999,42.7750881000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774067"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9620014,42.9798102]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774069"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9511035,42.8916057000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774107"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.000335,42.9223108]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774159"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.188409,44.3936722]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774440"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2061952,42.9056372000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774485"}}
@@ -110,6 +116,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2920085,43.0589728]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774627"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0267337,43.8109082]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774631"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4442362999999,43.2325812]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774646"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8012894999999,43.2987348]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6775728,42.8953628]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774695"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9425823,43.3231317]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774714"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0570256,42.8286948000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1774751"}}
@@ -169,8 +176,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3934212,43.1586884000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779115"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8617482,43.5292408]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779192"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3481182,42.7239786000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779224"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7070209,43.2231346]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779332"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5206234,42.8584197000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779361"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3739801,43.5334044000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779473"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9377722,42.8800417]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779480"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2511975,43.1511884000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779500"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5542378,43.1228598000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779520"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9697831,43.1673061000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1779539"}}
@@ -197,6 +206,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6895201999999,43.1956353]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780776"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4681287,43.5175770000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780802"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0786694999999,42.8861996000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780825"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5559057999999,43.2206363000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780886"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.189807,43.0659123]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780925"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0578583,42.7350853]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781017"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8070322,44.2125632]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781051"}}
@@ -210,6 +220,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9153583,43.1595232000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781629"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2937019999999,43.6934039000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5072916,43.0914716]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781699"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7722060999999,43.0149209000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781727"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9945114,43.8489629000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781818"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3725681999999,43.2595253000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781861"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1523056,42.9348036000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781906"}}
@@ -220,6 +231,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.588965,43.7317398000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782204"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1559104,44.4964466000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782209"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9608934999999,43.1475845000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782296"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4667358999999,43.1556377000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782317"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0150399999999,42.8089400000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782334"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4795119,43.0045282]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782343"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6125709999999,42.9225848]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782374"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2786808,43.6531325]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782379"}}
@@ -233,8 +246,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.316202,43.5097938000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782770"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8700537,42.9020345000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782875"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0470093,43.4223027]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782925"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9339079,43.1835704000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782960"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2009229,43.1411158000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1782968"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2486759,43.2406368000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783103"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8822820999999,43.2525834]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783124"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7856676,43.0570933000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783257"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3014747,42.9600806]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783259"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8392233,43.1475861000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783336"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9570257999999,43.1442455000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783431"}}
@@ -252,6 +268,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0814776,43.9664560000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784057"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4097911,43.2356368000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784071"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2975909,43.6372931000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784339"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6713751,43.192212]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784429"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5650754,43.5639644]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784507"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3925652999999,42.9492520000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784759"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1103368,42.8936992000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784784"}}
@@ -270,12 +287,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4020161999999,43.5417439]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785837"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8145342,44.3470047000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786026"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0817555,43.9720114]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786126"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9812919999999,42.9966194]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786228"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.482296,43.6161866]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786237"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0608985,43.4439692]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786241"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8558333,42.9552778]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786252"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0283722,43.3178154]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786280"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7481347999999,43.5886850000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786356"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9111675,43.0286987000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786454"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9606352,42.8892499]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786589"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.272029,42.7434172000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786621"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4859069999999,43.5647983000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786632"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4506284999999,43.5636876]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1786685"}}
@@ -303,6 +322,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.279236,43.6100775]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787936"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4545110999999,42.9564737000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787949"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9997817,43.0634192000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788097"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2225463,43.1450132000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788104"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7795298999999,44.1370091000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788162"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1200597,42.9398094000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788212"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4378442,42.9770289000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788308"}}
@@ -326,6 +346,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0070241,42.743141]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789658"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5356277,43.2417473]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789671"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2759186,42.9159145]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789705"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6256238,43.2504271]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789826"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7434125,43.6647952000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789957"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7414664999999,43.2489671000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790115"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7636644999999,43.0781440000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790216"}}
@@ -344,6 +365,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5006233,42.9675844000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791256"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9856187999999,43.2928594000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791316"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1681402999999,43.1217448]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791337"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7722683,43.0093899]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791374"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2106396,42.8945261000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791419"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3820167,43.7467414000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791424"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2939514999999,42.8906424]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791457"}}
@@ -369,6 +391,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0750606,43.0645297]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793005"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4939775,42.7931380000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793038"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1922979,44.3967277]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793042"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6625749999999,43.1873023000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793087"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2920349,43.4820165]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793130"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4450649999999,42.7148116000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793278"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6986876,43.2425788]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793317"}}
@@ -376,6 +399,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.384813,43.4689607]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793429"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7945334999999,44.3131167000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793518"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3512006999999,43.3842401000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793521"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5589492999999,43.1837796]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793657"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8350581,43.2281402]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793762"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4342404,43.8156284]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793776"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4881220999999,42.7803659]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793821"}}
@@ -392,10 +416,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8917263,43.2217506000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794158"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5653475999999,42.9834171000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794352"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3575716999999,43.7347973]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794363"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9839694999999,42.9745259000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794407"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7470312,44.2220076]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794453"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0111692999999,42.9875874000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794497"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3522895,43.2273035000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794512"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1831157999999,42.8756434000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794522"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8181312,42.7681421]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794537"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7890265,43.0570280000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794579"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9692305999999,43.4978582000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794580"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5461832,43.2148030000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794778"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7231308,43.0517486000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795002"}}
@@ -409,6 +436,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.873392,43.1984179]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795550"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5384013,42.7684214000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795615"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7417409,42.8386968]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795638"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9458375,42.8819939000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795667"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1931261,43.9567382000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795726"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7064664,43.3767436000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795807"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8347767,43.0334217000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795836"}}
@@ -428,6 +456,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0897806999999,42.8670331000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796465"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9089785,44.2108962]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796547"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2897902,43.4234127]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796615"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2483918,43.1669002]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796779"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0184224,44.0817316000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796950"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7525864,44.1970081000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797195"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4447961,43.8100728000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1797248"}}
@@ -454,12 +483,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3873111,43.3106301]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798420"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9664514999999,43.2884152]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798450"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7917451,43.2156341]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798547"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0428021,44.2555896000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798564"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4459007,43.0464724]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798652"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0282519,43.3179357000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3053459,43.4039684000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798697"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0284037,43.3177839000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798733"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1997822,42.7928670000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798737"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.612016,43.0231386]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9865875,42.9728388]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798796"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6850813999999,44.0506223]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798924"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9156359999999,43.1456346000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799002"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3261734,42.7292564000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799126"}}
@@ -527,6 +558,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2577286,43.9022579000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802647"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3245118999999,43.3064693000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802674"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0282946999999,43.3178929000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802791"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9344373,42.8313057]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802816"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0279369,43.3182507000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802888"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4634017,43.0928606000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802919"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2895063,42.7864777]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803011"}}
@@ -543,6 +575,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4036841,43.7911847]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803511"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6153525999999,43.3120231]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803533"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5845201,43.4995207000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803536"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6392923,43.1157202000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803781"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0280589,43.3181287]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803841"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7292192,43.0709222]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803863"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4217389,43.5636878]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803886"}}
@@ -556,10 +589,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0520362999999,44.1803408000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804118"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3028472,43.5406337000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804165"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5650749,43.4586881000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804228"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8106312,42.7995304]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804396"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9653374,43.1173073000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804559"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6417438,43.6978511]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804573"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4572889999999,42.9673068000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804617"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2937019,43.5286827]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804689"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9289929,42.8037820000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804841"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.169528,42.9314702]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804843"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7542419,42.9439726000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804914"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3350679,43.3148025]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804965"}}
@@ -568,12 +603,16 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1231152,42.9303652]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805161"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5459083,43.5425760000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805284"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2595138,43.6692436000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805294"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9867585,44.2458954000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805305"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7403567,43.5239636000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805356"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8833928,43.2259172]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805380"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1506148999999,42.8400887000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805403"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8554763,42.9368246000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805431"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0570256,42.8289726]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805432"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.259515,43.8317409000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805437"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2378464,43.620911]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805494"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8397803999999,43.2289734]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805589"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.943744,42.8875389]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805624"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8050804,43.6945169000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805701"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3164748999999,42.9517474]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805780"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7678519999999,42.7411984]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805991"}}
@@ -598,6 +637,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5134060999999,43.3642457]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807471"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8559097,42.7495309]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807565"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6684112,43.7578501]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807645"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8359847999999,42.8157198000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807705"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0847825,43.038419]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807862"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3453423999999,43.0073066]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807991"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1853381999999,42.8903654000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808002"}}
@@ -622,6 +662,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4413378,43.056383]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809381"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4539382999999,43.0398918000001]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809402"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2528394999999,43.6426381000001]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809569"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2898886,43.7035757]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809585"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8814846,43.1834416]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809623"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5234622999999,42.7945761]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809653"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.904579,43.2608750000001]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"1809731"}}
@@ -679,6 +720,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.508605,42.9947202000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812290"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4614316,42.7084462]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812377"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1724732,43.3649575000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812381"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2085294999999,42.8256478000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812596"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6324799,43.4982122000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812669"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4054441,43.5501917]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812786"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0268394999999,43.4946317000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812801"}}
@@ -689,11 +731,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1827155,44.1100613]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812980"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2615511,42.8493062000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812986"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3286596999999,42.8717876000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813028"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0531634,44.2552647000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813038"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2445402,43.2268295000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813053"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8323467,42.9377415000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813100"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4842637,43.0383582000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813128"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7825842,42.8779954]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813184"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4150572999999,43.4222084]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813186"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6870125,44.2808912]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813232"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2250404,42.7818519]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813393"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1505104,42.7647407000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813417"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2404430999999,42.9332412000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813449"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0558148,42.9334701000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813585"}}
@@ -701,10 +746,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0063024,43.6487351000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813656"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0053978999999,43.7321897]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813699"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5882386,43.2691634]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813718"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7723131,43.0128657000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813725"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1012370999999,43.1785263]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813773"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1023815999999,44.0140377000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813817"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3126743999999,42.8914152]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813876"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.45975,42.9897705000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813888"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2211217999999,43.8779678000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813948"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2640714,43.8632876]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813983"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6943324,44.4161119]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814006"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3809272,45.0512233000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814050"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8200416999999,43.4362824]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814051"}}
@@ -716,6 +764,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6741501,42.8932211000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814231"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7175852,43.3064217]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814270"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4949844,44.8937252000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814311"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5899395,43.4431420000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814390"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2522795,43.6414804]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814395"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4538846,43.1436103]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814406"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2731962999999,43.7198881]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814514"}}
@@ -746,6 +795,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1454882,42.7793050000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815533"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1963648,43.0294534000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815567"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1097887999999,42.9401657000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815590"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1948624,44.3966584]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815607"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8370558999999,43.2299796]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815639"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1281182,43.0381143000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815688"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3829392,43.6936637000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815696"}}
@@ -764,11 +814,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2100776,42.9051470000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816110"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9335493999999,43.0739791]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816155"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5003955999999,42.7347467000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816171"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7889081,44.3118107000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816224"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1520783,42.8392636]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816330"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0901967,42.8395155000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816367"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1520639999999,43.7561097]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816420"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4332628,42.9458983000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816466"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9782493,42.9783545000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816578"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0412221,43.3730398000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816632"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4807084,42.9744237]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816634"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7908475,44.2165568]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816637"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7983139,43.6143248000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816665"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2938005999999,43.8283116000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816770"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9247121,43.0017232000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816776"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0932574,43.3032874]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816835"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0804560999999,43.9680567]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816837"}}
@@ -776,10 +832,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4082826,44.6001643000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816976"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0496542,43.4936461]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816993"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6487476,43.8502749]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816999"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2432704,43.1332175000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817005"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0642023999999,43.3887076]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817021"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2648771999999,44.3705112000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817040"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4800099,42.7859128000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817052"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0303322999999,43.0183136000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817101"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4389447,42.7647633]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817118"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4629424,43.5480325]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817138"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8501806,42.8144300000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817194"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0049773,44.0227472]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817231"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0167542,43.2150632]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817232"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4706968,42.8859805000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817237"}}
@@ -794,21 +854,26 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.281415,42.8716212000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817646"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4633517,43.7082942000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817675"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7158856999999,43.3780779000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817676"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6140093,43.1021579000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1817763"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2938966999999,43.2098421000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817895"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5088838,42.775355]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817933"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7484310999999,43.4588951000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818050"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5184123,42.9052346]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818226"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4553617,43.127281]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818421"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1755115,42.8746929000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818493"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8299037,43.1061621000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818523"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9106584,43.8694709000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818528"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9805387,43.2775102000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818551"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3235084999999,42.7336322]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818595"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4752336999999,42.7482227]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818600"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9643401,44.1640115000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818622"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4800969,44.4218047000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818720"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7159164,43.0708199000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818778"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7576887,43.0748218000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818806"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4808111999999,42.8424576]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818813"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3104924,43.6469237000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818840"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1353342,43.4927334000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818956"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6148446999999,44.3707177000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819022"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6523659,43.8098340000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819073"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5871728,42.7440025000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819075"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8794996999999,43.248968]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819084"}}
@@ -822,6 +887,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3236664,43.0160538000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819330"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2949242,43.417673]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819357"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4365604,42.7858033000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819368"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8753050999999,42.9504875000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819401"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6693016,44.0452392]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819440"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6587087,43.6074622]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819495"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.201748,43.8195254]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819540"}}
@@ -838,6 +904,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.322032,43.3047496]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820093"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9065598,43.0725523]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820119"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5563018999999,44.6545521]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820138"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5401186,44.27448]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820176"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0112678,42.7513976000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820186"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0644248,44.0292000000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820242"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5095125,43.5008750000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820245"}}
@@ -847,6 +914,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1433941,43.8996175]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820479"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3435008,43.0070387000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820493"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2795891,43.1275913000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820594"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1977678,42.7605697000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820657"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.95304,43.0377376000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820666"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2567852,43.5414593]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820698"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1645516,43.4349925000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820718"}}
@@ -867,6 +935,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1680741,42.7981003]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821706"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3014917,43.6894953]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821782"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0623836999999,43.9951966]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821805"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9967741,44.3082029]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821845"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0075351,42.9227962000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821905"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1833788,44.5730906000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821913"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1148813999999,43.6900628000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821971"}}
@@ -881,6 +950,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8725368,42.8931503000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822380"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8916118,43.4168788000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822423"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8056104,42.9823030000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822502"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0107917,42.8104722]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822538"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0614725999999,42.9061699000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822561"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1236919,43.2694698000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822584"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5914114,43.4329261]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822595"}}
@@ -890,6 +960,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6473106,42.8362791000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822637"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4016814999999,43.2462348]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822654"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4956553,42.8663676]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822706"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9497360999999,42.8789241000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822763"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9434853,42.9285723]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822786"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8735419,43.1988301000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822806"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1788986999999,44.4714005000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822835"}}
@@ -899,10 +970,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4698782,42.7663188000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823063"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7418802999999,43.5919195000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823083"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5461951999999,43.2176291000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823185"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7889871,44.1480718]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823230"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2870943999999,42.8950463]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823419"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8873366999999,44.1759224]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823441"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3256316,43.9091009000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823512"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3252649,42.9466358000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823616"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5383178,43.1936143]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823687"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0931423,43.0774166]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2626769,43.0474986]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823882"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4436296,42.9621445000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823974"}}
@@ -911,10 +984,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9592526,43.2689224000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824054"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3665261,43.5265494000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824126"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6150115999999,42.8656145]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824241"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2981593,42.8038298000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824247"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6645346999999,43.1895072]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824298"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4643326999999,43.0970749000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824340"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2876257999999,43.0622491]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824356"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5687525,44.4874366000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824503"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5829434999999,42.8206203]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824505"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7151052999999,43.2232351000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824530"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8967541,43.1149403000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824573"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3362994,43.3722654000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1824604"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3613569,43.1475841000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824652"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1236337999999,42.9903049000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824709"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2539068,42.9605032000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824712"}}
@@ -936,6 +1014,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2340991999999,42.8799661]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825391"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9694431,43.0816668000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825424"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1496344,43.3018525000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825435"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3681688999999,42.8428909]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825455"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4356713,42.9947692000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825456"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8440439999999,42.7567642000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825549"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3962162,43.8652591000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825564"}}
@@ -943,10 +1022,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.986634,43.4157405]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825621"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3757413,42.8693523000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825667"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3788587,42.7987523]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825691"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0389077,42.8654051]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825696"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3835933,42.7721710000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825698"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8750247,42.9718569]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2727856,43.6763455]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825803"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8259457,44.3175104000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825845"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5544864999999,44.4862887]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825946"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5631271,43.2013191]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826012"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6444607,43.4484409]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826180"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4620364,42.7562812]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826200"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9357676,42.9824358000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826251"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4409861999999,43.0126494]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826257"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9599684999999,43.2976695]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826427"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0233022,44.135316]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826441"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2002426999999,43.5817300000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826607"}}
@@ -954,10 +1040,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4632205999999,43.5283673000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826711"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1370003,44.0617698]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826751"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4378505999999,42.9841554000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826813"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.543103,43.1960116000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826837"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3413937,43.3848478]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826860"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1551456,44.4872089]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826921"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9404782999999,42.8930131000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827059"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2916278,42.9486091000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827078"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4803065,42.7494084000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827276"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7894717,43.0648353]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827357"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5616585,43.1977304000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827428"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3165797,42.8768352000001]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827461"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1852407,42.7647363]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827496"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4808078999999,44.9044706]},"properties":{"State":"NH","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827689"}}
@@ -979,12 +1069,16 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6785,44.3883900000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828132"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7708299999999,42.9005900000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828211"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.85829,42.8816100000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828220"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7724238,43.012575]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828221"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.57936,43.4463900000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828253"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.97397,43.06638]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828293"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1417028,42.8411120000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828328"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.58712,43.7319400000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828341"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8728065999999,42.9509115000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828357"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.93789,43.16583]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828364"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4605099999999,42.98875]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828366"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.12366,44.7880700000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828371"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0239152999999,42.8152367000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828391"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1256,43.31116]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828397"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.06378,43.79393]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828421"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.02592,44.0823500000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828487"}}
@@ -1033,6 +1127,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3202699999999,43.40968]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829731"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.53969,43.20595]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829741"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.83992,43.1740300000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829755"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1177582999999,42.9760654]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829761"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2004699999999,43.21448]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829810"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7155099999999,43.0711400000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829836"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.95346,43.8616500000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829861"}}
@@ -1050,6 +1145,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.02507,44.0976600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830119"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9017699999999,43.5555600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830124"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2197199999999,42.76926]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830149"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0646503,43.3912259000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830187"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.60052,43.52045]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830241"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.15444,43.7539600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830251"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.49851,42.8676400000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830263"}}
@@ -1087,16 +1183,21 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.76999,44.3060600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831056"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.70586,42.84229]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831089"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.19425,43.2277]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831116"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.299183,42.8032512]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831177"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3252636,42.7325352]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831280"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9851556,42.9722384]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831300"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3385499999999,43.00573]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831304"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.07328,43.0390600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831316"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.18224,42.8266300000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831335"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0596,43.8965200000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831351"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5688789,44.4866856]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5919499999999,43.4339600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831378"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.49481,42.8668700000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831380"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.09055,42.8647500000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831414"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.97631,43.3055200000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831432"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.70858,42.9704300000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831442"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.18888,44.1835100000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831485"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6870347,44.2809110000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831506"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.33664,43.3721]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831592"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.93367,43.0403900000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831608"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.98083,43.4124400000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831640"}}
@@ -1109,8 +1210,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2047899999999,43.4347700000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831825"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8126599999999,42.9096000000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831851"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.07364,42.98015]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831864"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5566578,44.2676375]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831872"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0900670999999,42.8396843]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831890"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0317699999999,43.2182100000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831896"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.08737,44.0049500000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831915"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2388154,43.1314159]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831923"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.63701,42.84506]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831951"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0467,43.4898200000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832087"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.94703,42.9801800000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832093"}}
@@ -1120,9 +1224,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8386599999999,43.0366300000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832208"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.12154,42.93012]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832219"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4963099999999,43.1445800000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832223"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5719258999999,44.4909642000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832238"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.87881,43.6083400000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832240"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.45205,43.12685]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832242"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0831899999999,43.3864100000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832263"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9118027,44.2148766]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832279"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9505947,42.8728504000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832344"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2993999999999,43.1198600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832345"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.47878,42.8382800000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832402"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4646,42.7616600000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832448"}}
@@ -1143,6 +1250,18 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7318799999999,43.09349]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832909"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.67416,42.89478]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832973"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.17157,43.3624]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832993"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8122303,42.7683639000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1833042"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2376227,43.1283317]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1833684"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1403349,43.1732963000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1834119"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9510897,42.8764567000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1834180"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0199140999999,42.8132185000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1835308"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0656266999999,43.3883177000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1836454"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8129678999999,42.7696635]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1837909"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0950854,43.1116928000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1838669"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1580188,43.8113748000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1838750"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0559348,44.2621357]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1838995"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8517689999999,42.8190686]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1839869"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9851032999999,42.973058]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"1840418"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.41367,45.0179400000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1840580"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7351045999999,43.1026535]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1840658"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4855228,42.7690229]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1840693"}}
@@ -1159,6 +1278,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4974599999999,42.86733]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841140"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2653273,42.9081545000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841178"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.427985,43.086103]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841235"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4189441999999,43.1348153000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4990136,42.8681747000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841606"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5173695999999,42.7050076]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841609"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.72703,43.66087]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1841748"}}
@@ -1189,6 +1309,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.31609,43.30454]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843358"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5111726,42.7189389000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843375"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1873636,43.0414818]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843430"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7590182,44.3090885]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843461"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7943066999999,43.8568194000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843474"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.037859,43.2195635]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843489"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.971525,43.3102190000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843506"}}
@@ -1201,7 +1322,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4519724,43.5545862000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843753"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6677635,42.8378775]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843760"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1488454999999,42.8674364]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843831"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.968646,42.9248095]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1843868"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4172791999999,42.964637]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844027"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8791486,42.9511751000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844050"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3094369999999,42.7998252]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844074"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3878,42.9222182]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844098"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2208217,42.8379835000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844110"}}
@@ -1211,18 +1334,23 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2507012999999,43.6526457000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844249"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8655085999999,42.7437543]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844261"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1801877,44.1465732]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844266"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4509763,43.1456663000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844299"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5623093,43.3354110000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844340"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3694938,43.2031372000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844350"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1370517999999,42.8905051]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844439"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5134494,42.766101]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844542"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.20392,42.7903400000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844663"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5477994999999,43.1935888]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844696"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1828204,44.475512]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844712"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3624215,43.2104306000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844822"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.160456,43.8102673000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1844907"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4788463,43.5350134]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845051"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9367655,43.3330186000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845124"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3192832,42.9538527]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845207"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0551477,42.9390164000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845297"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1819354,43.7779425000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845323"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2553909,42.9585273000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845375"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4732958,44.4074194]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845465"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4586566,42.9895915000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845664"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3222062,42.8922539000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845665"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4724315999999,42.7721896]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1845738"}}
@@ -1243,8 +1371,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3186933,42.7173831000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1846823"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3073992,43.6479823000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1846835"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9449509999999,43.03486]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1846890"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6524244999999,43.5228910000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1846969"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9164739,44.2140778]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847088"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5921066,42.7391225000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847122"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2992838,43.4194359000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847145"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0762409,43.3956452]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847158"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3066866,42.8721688000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847170"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4384573999999,42.9804790000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847210"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0646,42.8657091000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847255"}}
@@ -1254,9 +1385,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9487225,43.3220656]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847420"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8841343,43.1778305]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847436"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3291545,42.9813818000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847557"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4466864999999,43.1425581]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847559"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.26332,43.34853]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847577"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9427972999999,43.1659048000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847587"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.99155,42.91587]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847614"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4838877999999,43.1953174000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847714"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9399676,42.7390401000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847736"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9997898999999,42.7502392000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847756"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9447665,42.9286328000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1847781"}}
@@ -1277,6 +1410,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1839894,44.3896716]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848461"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4592213999999,43.0351133]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848485"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3226084,43.0138998]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848575"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2377076,43.15]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848668"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4764479,42.9924086]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848799"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4424996,42.7916163]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848842"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3726578,42.863256]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1848945"}}
@@ -1284,6 +1418,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6626812,42.7057356]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849056"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.50435,43.0125005]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849059"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4645508,42.9923969000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849063"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6132206999999,43.102205]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849089"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4913645,42.8916755000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849128"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5472282,43.1312158000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849146"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9837578,43.3039009]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1849241"}}
@@ -1306,7 +1441,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5373466999999,43.1623053000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850217"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5221369,43.5982479]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850262"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8472260999999,42.8812461000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850274"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5811977,44.4996324000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850292"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5772401999999,42.8243120000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850303"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2648167,43.8386905]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850308"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4587716999999,42.9609743]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850317"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3085713999999,43.6427006000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850340"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5495208999999,43.0277589]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1850551"}}
@@ -1332,6 +1469,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.468744,43.530292]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1851833"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6640269,43.8958496000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1851865"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4711541,42.7631319000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1851937"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0262804,42.8147412000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852004"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1518523,43.8968902]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852014"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9430417999999,43.0290852000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852053"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7029573,43.7650899000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852060"}}
@@ -1340,6 +1478,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8683253999999,43.1648253000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852160"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4186346,42.9649974000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852197"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.28218,42.9487100000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852236"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5437036,43.1891617000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852264"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4649327,42.7528102000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852344"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7126848999999,43.2165925]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852358"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9868496999999,43.4169017]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852403"}}
@@ -1355,12 +1494,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2542455,43.6455280000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852783"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6823934,43.7768148000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852786"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8323579,42.9392523000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1852817"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4755029999999,42.7688257]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853030"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1680064,44.4837254]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853075"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5445165,43.2003753000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853125"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4723602,43.5575974000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853219"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.237218,42.7817403000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853261"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2336465,43.7059384]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853375"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6729404,44.0431048]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853378"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0004704999999,42.8810123000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853385"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4547153,42.9841322]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853485"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3720127999999,42.7702855000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853510"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4431485,42.9981288000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853525"}}
@@ -1369,14 +1510,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9402727,42.9805545]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853644"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4987823,44.8921673]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853653"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8813321,43.2105704000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853663"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9807426,42.9758902]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5168399,44.5993729]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853755"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3146465,42.7263467000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853759"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0848144999999,43.3999898000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853825"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0115187,43.1115661000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853845"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6707486999999,43.1889383000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853852"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6628681,43.4518249000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1853893"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6345618999999,43.8513841000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854005"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4818925,42.7246864000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854065"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1342739,43.4918639000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3285518,43.8324765]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854195"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2948091,42.8059727]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854276"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8511258999999,42.7584553]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854300"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.34097,43.3832336]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1854389"}}
@@ -1390,6 +1534,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6567520999999,42.8358599000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855036"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6578911999999,42.8266534000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855107"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9911104,43.4085682]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855118"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8307693,42.7911885]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855164"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1170137,42.8420331]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855190"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9672419999999,43.3137457]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855191"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.644818,43.4515061000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1855239"}}
@@ -1411,18 +1556,22 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6528107,42.836264]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856222"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8679807,43.2621825000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856256"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4955117,42.7533776000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856268"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2703193,43.7230870000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856279"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5824598999999,43.0128358000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856321"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4808846999999,43.4397257000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0665577,42.9843534]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856684"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.875581,43.1904270000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856718"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3621596,43.2324818000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856736"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7766467,43.0771749]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856762"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8721197,42.9727446000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856808"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4264393999999,43.0789146000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856870"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4635891,42.9739940000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856875"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9383938999999,42.9062561000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856876"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4739676999999,42.8824852000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856913"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3446916999999,42.8694084000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856935"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4989252,42.7819678000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1856972"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.11404,43.17585]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1857010"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2663501,43.7197276000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1857014"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4083638,42.9768227000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1857031"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0256818,44.1441909000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1857081"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4928537,42.8422328]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1857165"}}
@@ -1453,10 +1602,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5880688999999,42.7441488000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858584"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8353208,42.9371855000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858603"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8510962,42.7553213]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858653"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5423069999999,43.2140553]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858689"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9905699999999,43.4102081]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858776"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3305477,43.2220959000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858783"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8025727,42.9815828000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858784"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1933241,43.9602980000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858794"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7178321,43.2270763000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858825"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8298490999999,43.1062557000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858828"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3393902999999,42.8978479]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858940"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9897425999999,43.2931615000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858966"}}
@@ -1478,6 +1629,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3204449,42.8886597000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1859793"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0894598,43.3884447]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1859832"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0381545,42.8657182000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1859853"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5349596999999,43.2520875000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1859856"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0415457999999,43.7938518]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860078"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4410156,43.8061569000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860107"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1561909,43.0034636]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860247"}}
@@ -1496,6 +1648,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8252735,43.1791684]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860600"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3232159999999,42.8873936000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860719"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6121989,42.9397206]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860782"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2134273,42.8970818000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860834"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.24758,42.88921]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1860911"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2861266,43.1305849]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861005"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2768576,42.9353236000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861014"}}
@@ -1511,6 +1664,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3475984,43.3728603000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861466"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2927064,43.2171919]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861606"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2186818,42.7917]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861621"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7531840999999,44.231144]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861814"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3960577,43.7508596000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861848"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4814731,42.9389698000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861865"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4012208,43.7495546000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1861933"}}
@@ -1535,6 +1689,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9701363999999,43.3055476000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862756"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4678551,42.9898994000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862773"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2329455,42.7822545000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862807"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4749609,44.4183771]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862817"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9618366,44.1705194]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862824"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4803019999999,42.9723171000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1862868"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6111640999999,43.3013895]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863016"}}
@@ -1546,6 +1701,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8628111,42.9173155]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863405"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4597949,42.8878007000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863450"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0362321,42.8791249000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863532"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0192125999999,42.8112352000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863558"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.303905,42.8815784000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863599"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.22725,42.82271]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863686"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.31801,43.3067500000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1863714"}}
@@ -1575,6 +1731,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6938248,42.8263262]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865273"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4691362,42.7682436000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865275"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9563797,42.9797222]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865296"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5738785999999,43.197299]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865377"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8058705,43.0058503000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865397"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.12604,42.9213]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865431"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.556788,42.8049763000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865471"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2592475,43.0484148]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865474"}}
@@ -1588,6 +1746,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8271409,42.940414]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865867"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4213535,42.7415859000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865872"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3499198,42.8375339]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865924"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0522465,44.2589888000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865934"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.278601,42.8734952]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1865941"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1309727,42.9854091]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1866027"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1849791,43.3598918000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1866030"}}
@@ -1608,6 +1767,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5906448,43.2722772000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1866902"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2796989999999,44.0774135]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1866945"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2834,45.0865000000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867133"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7190219999999,43.2304686000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867136"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1552879,43.0132519000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867164"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6505511999999,42.8382541]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867215"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.63445,43.69656]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867272"}}
@@ -1620,19 +1780,24 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5424052,43.1884095]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867564"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9092615,43.0255301]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867668"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.137838,42.9900615000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867794"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7437265,44.2654358]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867849"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5691889999999,43.2519859000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867900"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6465077,42.820319]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867965"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8108046999999,42.8272666]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1867981"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3418171,43.3739051000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868034"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1598529999999,42.8715374000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868199"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.699617,43.5228233]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868250"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4988132999999,42.8662570000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868253"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9530679,42.8804797000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868299"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2760213,42.9426317]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868480"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3036145,42.8847681]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868534"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.335675,43.3630893000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868672"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9544715,42.9816308000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868766"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8993123,43.8992023000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868854"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4455548999999,42.9770780000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1868931"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3775881999999,42.7682814]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869098"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9774846,43.3033813000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869255"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4691546999999,43.1579225]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869350"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1460299999999,42.9333100000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869517"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5087932,43.9592229]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869530"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9428144,43.0297630000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1869639"}}
@@ -1669,10 +1834,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9800329999999,43.277612]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871036"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9569873,42.8799798000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871107"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1962037,43.0305681]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871142"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7558226,43.0285992]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871274"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.602473,43.4451097]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871284"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1926889,43.0325098000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871403"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4669110999999,43.0176588]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871583"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4909385999999,42.8896459000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871602"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.379128,43.1626192000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871641"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9336322999999,43.0897035]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871681"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4533202,43.0064536]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871796"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.75251,43.06683]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871802"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.506481,42.9647725]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871807"}}
@@ -1681,6 +1849,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6297400999999,42.8680172000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871829"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9128562,42.9761201000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1871958"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4988825999999,42.8389126000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872067"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7704545,43.0145226000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872105"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5659886999999,43.4667048000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872139"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0370521999999,43.5532776000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872225"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2107908999999,42.7862818]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872242"}}
@@ -1690,6 +1859,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7469,43.0449]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872401"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3316394999999,43.4649459]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872422"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2497999999999,43.64059]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872458"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.680877,44.2812339000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872531"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2001377,43.5816964000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872705"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5607813999999,43.3134630000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872739"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4657779,42.7649798]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872829"}}
@@ -1697,11 +1867,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.18402,44.57338]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1872997"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7687453999999,43.0381058]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873120"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.49358,43.6628600000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873237"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4513613,43.0942802000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873251"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2800789999999,42.930194]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873282"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.75854,43.07322]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873368"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5503411,43.1907664]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873370"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5430721,42.8700086000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873402"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2810585,42.8750815000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873529"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6042442999999,42.8111644000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873537"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0273617,42.8172752]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873606"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1428754999999,44.0713054]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873611"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2627939,43.2950742]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873616"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1253636,42.8943727000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873630"}}
@@ -1713,6 +1886,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7733603,44.3089277]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873937"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8590382,43.2530445]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873976"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4516273,42.9279364000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1873980"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0702077999999,43.3925791]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1874166"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3542975999999,43.1496708000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1874216"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2811909,42.9314455000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1874225"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2443061,43.6442778000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1874253"}}
@@ -1735,15 +1909,102 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3149817999999,42.7775364]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875090"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3186125,42.8768426]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875101"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.31505,42.7767000000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875156"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5341301999999,43.1994475000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875166"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4701335,43.4424773000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875251"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4561098,42.7411149000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875280"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6310978,43.2010661]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875546"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1092777,42.8305924000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875595"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4276148,42.9621057000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875710"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3803147,42.8735469000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875729"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5087973999999,43.2148398000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875739"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1819762,44.475063]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1875769"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4083105,42.8988922]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1876023"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5381917999999,43.2069296000001]},"properties":{"State":"NH","FCode":"83006","Feature":"State Capitol","OSM_ID":"2028792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6152858,42.9774546]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2035146"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6133718,42.9745267000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2035156"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0507764,43.0140482]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2036025"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0506690999999,43.0143698000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2036026"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0520853,43.0124007000001]},"properties":{"State":"NH","FCode":"73006","Feature":"College / University","OSM_ID":"2036027"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9401664,42.9093486]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2036028"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7160286,43.2263695]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2036037"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6780689,43.1961978000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2036038"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7721897,42.9996718]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2036215"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7729128,42.9768434000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2036216"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0575783,43.0464748000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2036217"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7665398999999,42.9744068000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036218"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8132393,43.0093742]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036219"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.6135274,42.9756078]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036220"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7206596,43.0451662]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036221"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7549733,42.9934382000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036222"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.74346,43.0180616000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036223"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7454782,43.0201979]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036224"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7420448999999,43.0226526000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036225"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7426005999999,43.0278583]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036226"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2923767999999,43.1091329000001]},"properties":{"State":"NH","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2036227"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2098404,43.1011028]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2036228"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1977424999999,43.1636452000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3117341999999,43.1189819000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036230"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7683165999999,42.9933252000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036232"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7976609999999,42.9862024]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036233"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7276452,43.0310377000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036234"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.804639,43.0030795000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036235"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9509025,42.8796138000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036236"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8951618999999,42.8736439]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036237"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9352416,42.8908687000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036238"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9778716,42.8886842000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2036239"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9611121,42.8840517]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036243"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7474294,43.0149987]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036244"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7426268999999,43.0123703]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036246"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7355196,43.0349134000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036247"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7683896,43.0168974000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036248"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7497751,43.0335900000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036249"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2953383999999,43.1064200000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036251"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1957447999999,43.1456463000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036252"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.87019,42.9453823000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2036256"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9729116999999,42.9846245000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036257"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8727762,42.9448969000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036258"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8719419999999,42.9515933000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036259"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8160539,42.9469137]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036260"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0609114,43.3834408000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036267"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0738504,43.3946134]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2036268"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8510848,42.8186165000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036269"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8366518999999,42.8147663]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036270"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7913467,42.9962062000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036615"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7492091999999,43.0230412000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036616"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8002758,42.9966438000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036617"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7631433,42.9905581]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036618"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.7658656999999,42.9911681]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2036619"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8978117,43.2406561000001]},"properties":{"State":"NH","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"2037043"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2831451,43.6986859]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2037340"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1253239,43.7995591000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2037341"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1495067,43.8152729]},"properties":{"State":"","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2037342"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.017825,42.8114895000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2037844"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0106152,42.8157709000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2037845"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4766390999999,44.4203356]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2039792"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4367116999999,44.4004358]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2039793"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4421298,44.4015779000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039794"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4747776,44.4168949]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039795"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5180845,44.4377965]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039796"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5317047999999,44.4490142000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039797"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4758257,44.3805812000001]},"properties":{"State":"NH","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039798"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6310827,44.3577338000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039799"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5700356999999,44.4922510000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039800"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5788654999999,44.4873450000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039801"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.567729,44.4868398]},"properties":{"State":"","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"2039802"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6029732,44.4172381000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2039803"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5701751,44.4906897000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2039804"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5401022,44.2747132000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2039805"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6864757,44.280674]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2039806"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6848557,44.2858201000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"2039807"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9075434,44.2143028]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2039808"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7730038,44.310162]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2039809"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3381345,43.3688625]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2039810"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2933927999999,42.8053320000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2043183"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6461871,43.3593995000001]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043286"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1369611,44.5223016]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043329"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.557966,43.2268619000001]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043547"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1448746999999,44.5128704000001]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043551"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5384232,43.0100096]},"properties":{"State":"NH","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043585"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0675487,42.8684824000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2063955"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1824075,44.3902163000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2063972"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2932567,43.3338914]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064112"}}
@@ -1755,6 +2016,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9506497,43.5622389000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064477"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6868911999999,44.0334933]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064565"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9109069,43.8695378]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064606"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6357153,43.6191416]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064624"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.34545,43.0062235]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064628"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0479167999999,43.4936027000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064746"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4794408,42.9636293]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2064758"}}
@@ -1876,6 +2138,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2633701,43.3419931]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2074856"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0375802,44.1518916000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2074874"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2357052,43.4702167]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2074889"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5259475,43.2078072]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2074993"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1223593,42.9182455000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2074997"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1660095,43.0360620000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075065"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4259241999999,43.2363619000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075097"}}
@@ -1885,6 +2148,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9602838,43.4997615]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075208"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8050863,43.7941545]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075232"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6695128,42.750593]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075276"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0443036999999,42.8567134]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075284"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2808793,43.0599452000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075296"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7497994,44.2280256000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075310"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8065119999999,43.6944854000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2075477"}}
@@ -1956,4 +2220,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.0796268999999,43.9115994000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2081736"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4377942,43.8058772000001]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2081947"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8720893999999,42.8767476]},"properties":{"State":"NH","FCode":"78006","Feature":"Post Office","OSM_ID":"2082066"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5390611,43.0092230000001]},"properties":{"State":"NH","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2082719"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4557667,43.1461378000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"2083780"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6140415,43.1019700000001]},"properties":{"State":"","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"2083961"}}
 ]}
