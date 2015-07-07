@@ -168,8 +168,16 @@ $('.filter').click(function() {
   }
 });
 
+// //all features button
+// $(".all").click(function() {
+//   $(".filter").removeClass('active');
+//   $("button").find('span').removeClass('glyphicon glyphicon-ok');
+//   filtered.clearLayers();
+//   all.addTo(map);
+// });
+
 //reset button
-$("#reset").click(function() {
+$("#reset .all").click(function() {
   $(".filter").removeClass('active');
   $("button").find('span').removeClass('glyphicon glyphicon-ok');
   filtered.clearLayers();
