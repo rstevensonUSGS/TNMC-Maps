@@ -169,15 +169,15 @@ $('.filter').click(function() {
 });
 
 // //all features button
-// $(".all").click(function() {
-//   $(".filter").removeClass('active');
-//   $("button").find('span').removeClass('glyphicon glyphicon-ok');
-//   filtered.clearLayers();
-//   all.addTo(map);
-// });
+$(".all").click(function() {
+  $(".filter").removeClass('active');
+  $("button").find('span').removeClass('glyphicon glyphicon-ok');
+  filtered.clearLayers();
+  all.addTo(map);
+});
 
 //reset button
-$("#reset .all").click(function() {
+$("#reset").click(function() {
   $(".filter").removeClass('active');
   $("button").find('span').removeClass('glyphicon glyphicon-ok');
   filtered.clearLayers();
