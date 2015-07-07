@@ -98,6 +98,8 @@ $('#statelayers li').click(function() {
     all.clearLayers();
     //add a header with the state name
     $("#selectedState").html("<p>Unedited Points in " + stateName + "");
+    //remove dissabled class from filters
+    $('.filter').removeClass("disabled");
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
@@ -117,15 +119,6 @@ $('#statelayers li').click(function() {
     console.log(url);
   });
 });
-
-//disable buttons until geoJson is not undefined
-function() {
-  if geoJson == undefined {
-    $('.filter').addClass("disabled");
-  } else {
-    $('.filter').removeClass("disabled");
-  }
-}
 
 //add "all" layer to the map, this layer is the geoJson without any filter
 $('#all').click(function() {
