@@ -118,6 +118,15 @@ $('#statelayers li').click(function() {
   });
 });
 
+//disable buttons until geoJson is not undefined
+function() {
+  if geoJson == undefined {
+    $('.filter').addClass("disabled");
+  } else {
+    $('.filter').removeClass("disabled");
+  }
+}
+
 //add "all" layer to the map, this layer is the geoJson without any filter
 $('#all').click(function() {
   map.addLayer(all);
