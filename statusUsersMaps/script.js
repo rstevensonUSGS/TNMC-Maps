@@ -46,7 +46,7 @@ var suma = 0;
 var o = '';
 for (var i = 0; i < users.length; i++) {
   o += '<li  id="' + users[i].UserName + '">' +
-    '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].Count + '</a>' +
+    '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].PointTotal + '</a>' +
     '</li>';
 };
 $('#userlayers').append(o);
