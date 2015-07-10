@@ -38,7 +38,7 @@ L.control.zoom({
 }).addTo(map);
 
 L.control.layers(basemaps, null, {
-  position: 'topleft'
+  position: 'bottomright'
 }).addTo(map)
 
 //Create list of users automatic
@@ -46,7 +46,7 @@ var suma = 0;
 var o = '';
 for (var i = 0; i < users.length; i++) {
   o += '<li  id="' + users[i].UserName + '">' +
-    '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].PointTotal + '</a>' +
+    '<a class="users" href="#' + users[i].UserName + '"> ' + users[i].UserName + ' - ' + users[i].TotalUniqu + '</a>' +
     '</li>';
 };
 $('#userlayers').append(o);
@@ -126,7 +126,7 @@ $('#userlayers li').click(function() {
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
       pointToLayer: function(feature, latlgn) {
-        return L.circleMarker(latlgn, Style(feature));
+        return L.circleMarker(latlgn, Style(feature)).bindPopup(feature.properties.NAME);
       }
     });
     map.addLayer(geojson);
@@ -156,6 +156,10 @@ $('#searchBoxBtn').click(function() {
   });
 });
 
+$.getJSON("./data/states.geojson", function(data) {
+  states = L.geoJson(data).addTo(map);;
+})
+
 //show #progress div when making ajax loads
 $(document).ajaxStart(function() {
   $("#progress").show();
@@ -169,4 +173,12 @@ $(document).ajaxComplete(function() {
 $("#searchclear").click(function(evt) {
   evt.preventDefault();
   $("#searchinput").val("");
+});
+
+//collapse and show sidebar
+$('#sidebar').slideReveal({
+  trigger: $("#showSidebar"),
+  width: 300,
+  push: false,
+  top: 50,
 });

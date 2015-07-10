@@ -7,7 +7,15 @@ html, body {
 }
 #map {
   height: calc(100% - 50px);
-  width: auto;
+  width: 100%;
+  /*z-index: 1000;*/
+}
+#sidebar {
+  /*height: calc(100% - 50px);
+  width: 20vw;
+  float: left;*/
+  background-color: #b52c2c;
+  z-index: 9999;
 }
 body > nav {
   margin-bottom: 0 !important;
