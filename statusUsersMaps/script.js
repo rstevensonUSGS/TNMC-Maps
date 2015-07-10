@@ -141,7 +141,7 @@ $('#userlayers li').click(function() {
     }
     console.log(gotDate);
     $("#volunteerNameSidebar").html(url);
-    $("#since").html("Volunteer since: " + gotDate);    
+    $("#since").html("Volunteer since: " + gotDate);
   });
 });
 
@@ -163,6 +163,12 @@ $('#searchBoxBtn').click(function() {
     map.addLayer(geojson);
     map.fitBounds(geojson.getBounds())
     $("#volunteerName").html("<p>Points edited by " + url + "<p>");
+    for (var i = 0; i < users.length; i++) {
+      if (users[i].UserName == "fconley") {
+        gotDate = users[i].date;
+      }
+    }
+    $("#since").html("Volunteer since: " + gotDate);
   });
 });
 
