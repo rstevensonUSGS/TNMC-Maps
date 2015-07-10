@@ -116,6 +116,7 @@ function Style(feature) {
   };
 }
 //geojson call from list
+var gotDate;
 var geojson;
 $('#userlayers li').click(function() {
   var url = this.id;
@@ -133,8 +134,17 @@ $('#userlayers li').click(function() {
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
     $("#volunteerName").html("<p>Points edited by " + url + "<p>");
+    for (var i = 0; i < users.length; i++) {
+      if (users[i].UserName == "fconley") {
+        gotDate = users[i].date;
+      }
+    }
+    console.log(gotDate);
+    $("#volunteerNameSidebar").html(url);
+    $("#since").html("Volunteer since: " + gotDate);    
   });
 });
+
 
 //geojson call from search box
 var geojson;
