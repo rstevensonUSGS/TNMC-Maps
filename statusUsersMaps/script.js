@@ -216,7 +216,7 @@ $('#userlayers li').click(function() {
             tier: "2"
           });
             $('#earnedBadges').append("<li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
-        } else if (users[i].TotalUniqu > 25 && users[i].TotalUniqu < 49) {
+        } else if (users[i].TotalUniqu > 24 && users[i].TotalUniqu < 49) {
           $.extend(users[i], {
             tier: "1"
           });
