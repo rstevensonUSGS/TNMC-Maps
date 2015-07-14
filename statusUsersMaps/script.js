@@ -238,6 +238,9 @@ $('#searchBoxBtn').click(function() {
   if ($('#statedEdited li').length) {
     $('#statedEdited').empty();
   }
+  if ($('#earnedBadges li').length) {
+    $('#earnedBadges').empty();
+  }
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
       pointToLayer: function(feature, latlgn) {
