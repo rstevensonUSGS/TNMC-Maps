@@ -2,7 +2,7 @@
 
 <head>
   <title>Volunteer Edited Points</title>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
   <script>
@@ -56,8 +56,9 @@
             <span id="searchclear" class="glyphicon glyphicon-remove-circle"></span>
           </div>
           <button class="btn btn-default" type="button" id="searchBoxBtn">Search</button>
+          <button class="btn btn-default" type="button" id="showSidebar">Volunteer Information</button>
         </form>
-        <button class="btn btn-default" type="button" id="showSidebar">More</button>
+
         <h4 class="navbar-text navbar-right" id="volunteerName"></h4>
       </div>
       <!-- /.navbar-collapse -->
@@ -70,12 +71,12 @@
       <p class="sidebarText" id="since"></p>
 
     </div>
-     <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-globe"></i> States Edited:</h3>
+    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-globe"></i> States Edited:</h3>
     <ul id="statedEdited">
     </ul>
-<h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
-<ul id="earnedBadges">
-</ul>
+    <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
+    <ul id="earnedBadges">
+    </ul>
   </div>
   <div id="map">
     <div id="progress">

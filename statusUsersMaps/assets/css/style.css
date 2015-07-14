@@ -27,6 +27,40 @@ html, body {
 .sidebarText {
   color: #2a1d1d;
 }
+.btn{
+	background: transparent;
+	color: #ffffff;
+  -webkit-border-radius: 0;
+	-moz-border-radius:    0;
+  border-radius: 0;
+  border-width: 2;
+  border-color: #ffffff;
+
+	/* CSS Transition */
+	-webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-o-transition: background .2s ease-in-out, border .2s ease-in-out;
+	transition: background .2s ease-in-out, border .2s ease-in-out;
+
+}
+.btn:hover{
+	background:#d35400;
+	color: #ffffff;
+  -webkit-border-radius: 0;
+	-moz-border-radius:    0;
+  border-radius: 0;
+  border-width: 2;
+  border-color: #ffffff;
+
+	/* CSS Transition */
+	-webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-o-transition: background .2s ease-in-out, border .2s ease-in-out;
+	transition: background .2s ease-in-out, border .2s ease-in-out;
+
+}
 #volunteerNameSidebar {
   text-align: center;
   padding-bottom: 5px;
@@ -38,12 +72,12 @@ html, body {
 }
 #statedEdited {
   font-weight: bold;
-  max-height: 300;
+  max-height: 200;
   overflow-y: auto;
 }
 #earnedBadges{
   font-weight: bold;
-  max-height: 300;
+  max-height: 200;
   overflow-y: auto;
 }
 body > nav {
@@ -64,7 +98,9 @@ body > nav {
 #usermenu:hover{
   background-color: #d35400;
 }
-
+#showSidebar{
+    margin-left: 20;
+}
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
   background-color: #ba2107;
   color: #fff;
