@@ -228,8 +228,6 @@ $('#userlayers li').click(function() {
   });
 });
 
-
-
 //geojson call from search box
 $('#searchBoxBtn').click(function() {
   var url = $('#searchinput').val();
