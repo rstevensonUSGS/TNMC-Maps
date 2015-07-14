@@ -23,7 +23,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.8940309,34.4390042000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1847800","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.869058,34.4166552,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1844858","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1002558,38.9337752000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1843986","TimeStamp":20131026,"NAME":"California"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6930874,34.4273606,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1841547","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.8478407,34.411552,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1837678","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.0664767,38.9016371000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1837118","TimeStamp":20131026,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.0664767,38.9016371000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1837118","TimeStamp":20131026,"NAME":"California"}}
@@ -56,6 +55,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6619315,34.4492646,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809977","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.8464054,34.4162614000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809939","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6948712,34.4370127,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809532","TimeStamp":20131025,"NAME":"California"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6954066,34.4183587000001,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809440","TimeStamp":20131025,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6554097,34.4188855,0]},"properties":{"UserName":"Spencer Zaputil","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784660","TimeStamp":20131025,"NAME":"California"}}
 ]}

@@ -54,7 +54,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8891275,30.6612496000001,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1996472","TimeStamp":20150425,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7044888,30.5318205,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995967","TimeStamp":20150419,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6910341,30.3148722,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1995527","TimeStamp":20150503,"NAME":"Texas"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7843313,30.428412,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994753","TimeStamp":20150412,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6653646,30.3139208000001,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1994278","TimeStamp":20150503,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7933301,30.4979203,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992943","TimeStamp":20150412,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7327139,30.5565089,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1992232","TimeStamp":20150425,"NAME":"Texas"}}
@@ -105,5 +104,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.6692515999999,30.3725109000001,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975195","TimeStamp":20150503,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8321175,30.5412232,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1975173","TimeStamp":20150425,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.8018862,30.4464479000001,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1969291","TimeStamp":20150412,"NAME":"Texas"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.7969748,30.4588788,0]},"properties":{"UserName":"ironingboard77","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1961968","TimeStamp":20150412,"NAME":"Texas"}}
 ]}

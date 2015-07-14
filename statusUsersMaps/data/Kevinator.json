@@ -26,5 +26,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5636466999999,35.9983185,0]},"properties":{"UserName":"Kevinator","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950617","TimeStamp":20140410,"NAME":"North Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5925867999999,35.8739139,0]},"properties":{"UserName":"Kevinator","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1950236","TimeStamp":20140410,"NAME":"North Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5712516,35.891238,0]},"properties":{"UserName":"Kevinator","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1944873","TimeStamp":20140410,"NAME":"North Carolina"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5437699999999,35.91315,0]},"properties":{"UserName":"Kevinator","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1943491","TimeStamp":20140410,"NAME":"North Carolina"}}
 ]}

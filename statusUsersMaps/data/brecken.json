@@ -12,7 +12,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.4177178,43.4908891000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1876616","TimeStamp":20130715,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.42547,43.491518,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1766055","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.346865,46.0608775000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1762121","TimeStamp":20130720,"NAME":"Idaho"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.4141375,43.4842909000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1756917","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.4059028,43.5017676000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1755301","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.4324647,43.4871709000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1753955","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.4229611,43.4937826,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1752604","TimeStamp":20130720,"NAME":"Idaho"}}
@@ -36,5 +35,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3473674,46.0629375,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1670548","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3315111,43.6176651000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1668940","TimeStamp":20130720,"NAME":"Idaho"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3406446,43.6185086,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1668341","TimeStamp":20130720,"NAME":"Idaho"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.3543809,43.6005169000001,0]},"properties":{"UserName":"brecken","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1658948","TimeStamp":20130715,"NAME":"Idaho"}}
 ]}

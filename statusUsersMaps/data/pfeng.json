@@ -2,7 +2,6 @@
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9098567,34.073859,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037640","TimeStamp":20140117,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9098567,34.073859,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037640","TimeStamp":20140117,"NAME":"South Carolina"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9098567,34.073859,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037640","TimeStamp":20140117,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.0387959,34.0068434,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037639","TimeStamp":20140117,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9355952,34.087091,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037638","TimeStamp":20140117,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9355952,34.087091,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037638","TimeStamp":20140117,"NAME":"South Carolina"}}
@@ -31,7 +30,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9301723,34.1636576000001,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1743014","TimeStamp":20130405,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.7903568,34.1832885000001,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1741283","TimeStamp":20130408,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.7815803,34.1885888,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1741215","TimeStamp":20130408,"NAME":"South Carolina"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8892944999999,34.0897472,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1741050","TimeStamp":20140117,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8822807,34.1431288000001,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1733805","TimeStamp":20130405,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.8822807,34.1431288000001,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1733805","TimeStamp":20130405,"NAME":"South Carolina"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.9097359,34.1629633000001,0]},"properties":{"UserName":"pfeng","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1733450","TimeStamp":20130405,"NAME":"South Carolina"}}

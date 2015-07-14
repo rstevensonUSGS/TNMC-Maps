@@ -43,6 +43,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.3788317,39.2813770000001,0]},"properties":{"UserName":"Kaitlyn O'Sullivan","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635586","TimeStamp":20130116,"NAME":"Colorado"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.6050156,39.3034328000001,0]},"properties":{"UserName":"Kaitlyn O'Sullivan","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635544","TimeStamp":20130116,"NAME":"Colorado"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.6050156,39.3034328000001,0]},"properties":{"UserName":"Kaitlyn O'Sullivan","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635544","TimeStamp":20130116,"NAME":"Colorado"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.2868848,39.2744331000001,0]},"properties":{"UserName":"Kaitlyn O'Sullivan","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635048","TimeStamp":20130116,"NAME":"Colorado"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.0386363,39.5608305000001,0]},"properties":{"UserName":"Kaitlyn O'Sullivan","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635044","TimeStamp":20120514,"NAME":"Colorado"}}
 ]}

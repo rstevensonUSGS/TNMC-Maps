@@ -122,7 +122,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.8602766,34.0122757,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074316","TimeStamp":20150501,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.598271,35.1076526000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074218","TimeStamp":20150410,"NAME":"New Mexico"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.4891699,40.1125336000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074067","TimeStamp":20150313,"NAME":"Colorado"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.5360349,34.2033686,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2074026","TimeStamp":20150506,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.4796555,42.7334585,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073977","TimeStamp":20150611,"NAME":"Wisconsin"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.4693394,33.9886472000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073946","TimeStamp":20150410,"NAME":"California"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7584037,34.0598592000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2073861","TimeStamp":20150424,"NAME":"California"}}
@@ -287,7 +286,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.4691592,29.6921625000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1986090","TimeStamp":20150616,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.58455,29.619897,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1985693","TimeStamp":20150616,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6280791999999,29.6298012,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1981468","TimeStamp":20150616,"NAME":"Texas"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.6719712999999,44.0879241000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1980586","TimeStamp":20150619,"NAME":"Wisconsin"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.6041779,29.5745807000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1978511","TimeStamp":20150616,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.5845419999999,29.6197521,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1977902","TimeStamp":20150616,"NAME":"Texas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7840644,42.7161587000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1974440","TimeStamp":20150623,"NAME":"Wisconsin"}}
@@ -543,7 +541,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1446377,40.9018506,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1773287","TimeStamp":20150401,"NAME":"Nebraska"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.8270196,42.2237923000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1758025","TimeStamp":20150615,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.8294718,42.2245413000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1751328","TimeStamp":20150615,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.1721573999999,35.9939625000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1749024","TimeStamp":20150618,"NAME":"Arkansas"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0276227,41.1396269000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718459","TimeStamp":20150611,"NAME":"Utah"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6122536,35.2305513000001,0]},"properties":{"UserName":"Geo5492","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707736","TimeStamp":20150410,"NAME":"New Mexico"}}
 ]}

@@ -16,9 +16,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1593242,38.9889105,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850567","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1612,38.9904300000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850232","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.3773836,38.7562993000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1840301","TimeStamp":20140130,"NAME":"Nevada"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.2790449,38.9554712,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1839894","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1629076,38.9879724,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1836933","TimeStamp":20140130,"NAME":"Nevada"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.3273811,38.8004678,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1833914","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1617061,38.9957399,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1829329","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1672992,38.9842415000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1827577","TimeStamp":20140130,"NAME":"Nevada"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1381562,38.9668082000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1799904","TimeStamp":20140130,"NAME":"Nevada"}}
@@ -30,6 +28,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9224415,33.7328853000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1731273","TimeStamp":20140129,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.0346699999999,33.74152,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717447","TimeStamp":20140129,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.0232391,33.7311588000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1707319","TimeStamp":20140129,"NAME":"Georgia"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.0332784,33.7506623,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1692590","TimeStamp":20140129,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.0332784,33.7501067000001,0]},"properties":{"UserName":"GSkala4","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1674775","TimeStamp":20140129,"NAME":"Georgia"}}
 ]}

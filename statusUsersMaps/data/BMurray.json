@@ -2,7 +2,6 @@
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.1708724,35.8754476,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2020302","TimeStamp":20141007,"NAME":"Tennessee"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.25285,36.0169014000001,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2013238","TimeStamp":20140904,"NAME":"Tennessee"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2505825,36.0265054000001,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2012297","TimeStamp":20140904,"NAME":"Tennessee"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2441229999999,36.0120564000001,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011428","TimeStamp":20140904,"NAME":"Tennessee"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.1285548,35.9168171000001,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2011389","TimeStamp":20140911,"NAME":"Tennessee"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.2140783,36.0490198000001,0]},"properties":{"UserName":"BMurray","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2007853","TimeStamp":20140911,"NAME":"Tennessee"}}

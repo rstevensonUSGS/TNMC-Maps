@@ -1,7 +1,6 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3034852,40.0979282000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038980","TimeStamp":20140405,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3035505999999,40.0945428000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038979","TimeStamp":20140405,"NAME":"Pennsylvania"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3035505999999,40.0945428000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038979","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3486922,40.09396,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038978","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2183818999999,40.1247802,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038977","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3076876,40.0411945000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2038976","TimeStamp":20140405,"NAME":"Pennsylvania"}}
@@ -35,7 +34,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2904700999999,40.0480754000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742320","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1940112999999,40.1845422000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1741514","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3071022,40.058955,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1740214","TimeStamp":20140405,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3035151,40.1006655,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1740118","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.31853,40.02761,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739228","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3188158999999,40.0419690000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1736863","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3145921,40.1555744,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734717","TimeStamp":20140405,"NAME":"Pennsylvania"}}
@@ -53,10 +51,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.311902,40.1322450000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723484","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.311902,40.1322450000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1723484","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2055756,40.154753,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1722725","TimeStamp":20140405,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1755699999999,40.1772100000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1721935","TimeStamp":20140405,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.18423,40.16812,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1720318","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2984122,40.0764989,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719716","TimeStamp":20140405,"NAME":"Pennsylvania"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3048699999999,40.0410600000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1717236","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.3178925,40.0457654000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698579","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.319037,40.0480450000001,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698421","TimeStamp":20140405,"NAME":"Pennsylvania"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2888483999999,40.037858,0]},"properties":{"UserName":"moondog","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698411","TimeStamp":20140405,"NAME":"Pennsylvania"}}

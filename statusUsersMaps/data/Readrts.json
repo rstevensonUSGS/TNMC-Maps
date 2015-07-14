@@ -1,7 +1,6 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1050959,44.6367344000001,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037297","TimeStamp":20140103,"NAME":"Oregon"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1050959,44.6367344000001,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037297","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0920214,44.6342435,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769262","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0920214,44.6342435,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769262","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0952193,44.6014070000001,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1768293","TimeStamp":20140103,"NAME":"Oregon"}}
@@ -31,7 +30,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1161726,44.6316497,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724123","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1161726,44.6316497,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724123","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0972951,44.6296832,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719871","TimeStamp":20140103,"NAME":"Oregon"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.10171,44.63534,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1719227","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0973113,44.6288471,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1718717","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0563621,44.6243715000001,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1716621","TimeStamp":20140103,"NAME":"Oregon"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.1035707,44.6332586,0]},"properties":{"UserName":"Readrts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1712029","TimeStamp":20140103,"NAME":"Oregon"}}

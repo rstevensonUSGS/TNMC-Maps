@@ -40,7 +40,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4444662,41.8094028,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1702176","TimeStamp":20150608,"NAME":"Michigan"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4138077,41.9554542000001,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1700568","TimeStamp":20150429,"NAME":"Michigan"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.779791,41.894073,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1700082","TimeStamp":20150608,"NAME":"Michigan"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4130947,41.8948041,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697648","TimeStamp":20150506,"NAME":"Michigan"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4130947,41.8948041,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697648","TimeStamp":20150429,"NAME":"Michigan"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.4702737,41.9161697000001,0]},"properties":{"UserName":"violey5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697374","TimeStamp":20150429,"NAME":"Michigan"}}
 ]}

@@ -10,7 +10,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2622297,40.7483352,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028946","TimeStamp":20130916,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2584274,40.7474452000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028945","TimeStamp":20130916,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.4648238999999,40.8948065000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028918","TimeStamp":20130907,"NAME":"New Jersey"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.4648238999999,40.8948065000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028918","TimeStamp":20130907,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.4873115999999,40.8984965000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028917","TimeStamp":20130907,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5292077,40.8902809000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028889","TimeStamp":20130901,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5473752999999,40.8896066,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1769972","TimeStamp":20130916,"NAME":"New Jersey"}}
@@ -47,7 +46,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5216662,40.9152151000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1745131","TimeStamp":20130901,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.4562534999999,40.8615438,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1744701","TimeStamp":20141210,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1677165,40.7255039,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1744204","TimeStamp":20130921,"NAME":"New Jersey"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1778651,40.7421025,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1744109","TimeStamp":20130921,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3918543999999,40.8697442000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1743377","TimeStamp":20141210,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3918543999999,40.8697442000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1743377","TimeStamp":20141210,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5025451,40.913166,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1742585","TimeStamp":20141210,"NAME":"New Jersey"}}
@@ -111,5 +109,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3684843999999,40.8175999000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1694880","TimeStamp":20130916,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3745957,40.8167666000001,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1689401","TimeStamp":20130916,"NAME":"New Jersey"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.8209995999999,40.8445435,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1689362","TimeStamp":20141210,"NAME":"New Jersey"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3743178999999,40.8156555,0]},"properties":{"UserName":"bak5","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1668648","TimeStamp":20130916,"NAME":"New Jersey"}}
 ]}

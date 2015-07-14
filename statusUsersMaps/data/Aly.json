@@ -22,7 +22,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1653511,44.0112668,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858877","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2064271,43.9640335,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1853065","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1618429,44.0104257,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850768","TimeStamp":20131028,"NAME":"Vermont"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1618429,44.0104257,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1850768","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1633449999999,44.0065225000001,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1849460","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1040366,44.1578183,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842199","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1679688999999,44.0148163000001,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1833110","TimeStamp":20131028,"NAME":"Vermont"}}
@@ -47,5 +46,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0940078,44.1308910000001,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1773793","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1801239,44.0071696000001,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1773120","TimeStamp":20131028,"NAME":"Vermont"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1805315999999,44.0071542000001,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1773120","TimeStamp":20131028,"NAME":"Vermont"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1670968999999,44.0185785,0]},"properties":{"UserName":"Aly","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770865","TimeStamp":20131028,"NAME":"Vermont"}}
 ]}

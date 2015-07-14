@@ -12,8 +12,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.015528,47.6192341,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043272","TimeStamp":20140720,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1504109,47.6887434000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043271","TimeStamp":20140720,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1062279,47.6641903,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043269","TimeStamp":20140817,"NAME":"Washington"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1831923,47.7667749,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043266","TimeStamp":20140726,"NAME":"Washington"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1833586,47.7667749,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043265","TimeStamp":20140726,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.7739891,47.4880908000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043261","TimeStamp":20141019,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.8936451,47.5680094000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043257","TimeStamp":20141019,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.9133567,47.6469932000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2043256","TimeStamp":20140928,"NAME":"Washington"}}
@@ -175,7 +173,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1014158,47.6373682,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739443","TimeStamp":20140720,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1409962,47.6260225,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1739317","TimeStamp":20140822,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1171516,47.6392210000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738896","TimeStamp":20140817,"NAME":"Washington"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1179308,47.6753458000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738427","TimeStamp":20140720,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2308045,47.7387132000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738380","TimeStamp":20140726,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.0046976,47.5467699000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738064","TimeStamp":20140914,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1016273,47.5688440000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1737564","TimeStamp":20140914,"NAME":"Washington"}}
@@ -243,5 +240,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2315477,47.4695763,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1698176","TimeStamp":20141004,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2463941,47.4683894,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697367","TimeStamp":20141004,"NAME":"Washington"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.2463941,47.4683894,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1697367","TimeStamp":20141004,"NAME":"Washington"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1254878,47.6004095000001,0]},"properties":{"UserName":"Gottabnuts","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1642756","TimeStamp":20140817,"NAME":"Washington"}}
 ]}

@@ -1,10 +1,8 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9717792,35.1312694000001,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063532","TimeStamp":20141230,"NAME":"Tennessee"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9717792,35.1312694000001,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2063532","TimeStamp":20141230,"NAME":"Tennessee"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.9407052999999,42.5241315000001,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062869","TimeStamp":20141030,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8966311,42.5197431,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062868","TimeStamp":20141030,"NAME":"Massachusetts"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8954404,42.5007144,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062867","TimeStamp":20141030,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8954404,42.5007144,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062867","TimeStamp":20141030,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-70.8954404,42.5007144,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2062867","TimeStamp":20141030,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.4871812,36.2645369000001,0]},"properties":{"UserName":"Jwo_rocks","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1973080","TimeStamp":20141230,"NAME":"Tennessee"}}

@@ -21,11 +21,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7483359,42.0183467000001,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1812666","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.614161,42.0259422,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1809305","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6527827,41.9833753,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1808242","TimeStamp":20130821,"NAME":"Connecticut"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.678147,42.0131514,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1806973","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6754725,41.9948874,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1802170","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6314609999999,41.9768082000001,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1785520","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6922939999999,41.9884681,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784799","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.677672,42.0132322000001,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1784476","TimeStamp":20130821,"NAME":"Connecticut"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6549697999999,41.9827326000001,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1771835","TimeStamp":20130821,"NAME":"Connecticut"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1892326999999,41.7483615,0]},"properties":{"UserName":"EllenB","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1770844","TimeStamp":20130821,"NAME":"Connecticut"}}
 ]}

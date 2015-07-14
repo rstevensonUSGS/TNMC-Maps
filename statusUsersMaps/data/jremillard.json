@@ -5,7 +5,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5073442,42.5411054,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028893","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5658485,42.6036652000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2028892","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5657533,42.600582,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873813","TimeStamp":20130903,"NAME":"Massachusetts"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5700475,42.6067685,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871396","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.48637,42.5426600000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1864631","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.45798,42.5307075000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1854235","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4842924,42.5454725000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1852716","TimeStamp":20130903,"NAME":"Massachusetts"}}
@@ -28,7 +27,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5723242999999,42.6074736,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1825161","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5241827999999,42.6044432,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1819279","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5905731,42.5604066000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1817939","TimeStamp":20130903,"NAME":"Massachusetts"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4999,42.5424,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1808822","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5661785999999,42.6220346000001,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1800742","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4981203,42.5417584,0]},"properties":{"UserName":"jremillard","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1793772","TimeStamp":20130903,"NAME":"Massachusetts"}}
 ]}

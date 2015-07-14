@@ -18,7 +18,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9196676999999,32.3962514,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1738271","TimeStamp":20130415,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9486509,32.4173135,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1734597","TimeStamp":20130415,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9324154,32.4020806,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1733216","TimeStamp":20130415,"NAME":"Georgia"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9594509999999,32.3582109000001,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1731864","TimeStamp":20130415,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9663192,32.3662575000001,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1728204","TimeStamp":20130415,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9279597,32.3722297,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724273","TimeStamp":20130415,"NAME":"Georgia"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.9279597,32.3722297,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1724273","TimeStamp":20130415,"NAME":"Georgia"}}
@@ -37,5 +36,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5676237,39.7492691,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1637999","TimeStamp":20130116,"NAME":"Colorado"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.4141273,39.7660955000001,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1637110","TimeStamp":20130116,"NAME":"Colorado"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5196628,39.7858597000001,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1636007","TimeStamp":20130116,"NAME":"Colorado"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.6051663,39.7444973,0]},"properties":{"UserName":"favi87","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1635415","TimeStamp":20130116,"NAME":"Colorado"}}
 ]}

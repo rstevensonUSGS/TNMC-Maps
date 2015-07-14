@@ -1,7 +1,6 @@
 {"name":"NewFeatureType","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9114737,39.7247014000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037146","TimeStamp":20131230,"NAME":"Illinois"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9114737,39.7247014000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037146","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9194348,39.876699,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037115","TimeStamp":20131229,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7972462,39.8291126,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037114","TimeStamp":20131231,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7972387,39.8295126,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/2037114","TimeStamp":20131229,"NAME":"Illinois"}}
@@ -10,7 +9,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7461665,39.5945405000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873693","TimeStamp":20140103,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.745351,39.5946976000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1873693","TimeStamp":20140103,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.676404,39.9394810000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1871912","TimeStamp":20140102,"NAME":"Illinois"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.910203,39.7272563000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1869862","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8099751999999,39.834952,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1862361","TimeStamp":20131229,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0391311,39.7257263000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1858127","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9104947,39.7279957000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1857038","TimeStamp":20131230,"NAME":"Illinois"}}
@@ -26,7 +24,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5489547,39.9498850000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1842301","TimeStamp":20140102,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0396062999999,39.7247597000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1836740","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0396062999999,39.7247597000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1836740","TimeStamp":20131230,"NAME":"Illinois"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0420583,39.8594929000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1835189","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.54903,39.95417,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1832850","TimeStamp":20140102,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9102693999999,39.7247281000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831749","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.9103391,39.7246435000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1831749","TimeStamp":20131230,"NAME":"Illinois"}}
@@ -45,7 +42,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7206535,39.5817196,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1808650","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0420568,39.8202661,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1807297","TimeStamp":20131230,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7808783999999,39.7162877000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805969","TimeStamp":20131229,"NAME":"Illinois"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.7989944,39.829217,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1805219","TimeStamp":20131229,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.8448308,39.9431047,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804085","TimeStamp":20131229,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0337246,39.8550485000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804012","TimeStamp":20140108,"NAME":"Illinois"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.0337246,39.8550485000001,0]},"properties":{"UserName":"bluegliderguy","OSM_LINK":"http://navigator.er.usgs.gov/browse/node/1804012","TimeStamp":20131230,"NAME":"Illinois"}}
