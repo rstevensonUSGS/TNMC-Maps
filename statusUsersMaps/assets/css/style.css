@@ -135,8 +135,17 @@ body > nav {
   color: rgb(236, 240, 241);
   font-weight: bold;
   /*text-shadow: 0px 2px 1px #858383;*/
-  text-shadow: rgb(173, 51, 39) 1px 1px, rgb(173, 51, 39) 2px 2px, rgb(173, 51, 39) 3px 3px, rgb(173, 51, 39) 4px 4px, rgb(176, 52, 39) 5px 5px, rgb(179, 53, 40) 6px 6px, rgb(182, 54, 41) 7px 7px, rgb(185, 55, 41) 8px 8px, rgb(188, 56, 42) 9px 9px, rgb(192, 57, 43) 10px 10px;
-  background-color: rgb(192, 57, 43);
+  text-shadow: rgb(20, 144, 120) 1px 1px,
+    rgb(20, 144, 120) 2px 2px,
+    rgb(20, 144, 120) 3px 3px,
+    rgb(20, 144, 120) 4px 4px,
+    rgb(20, 146, 122) 5px 5px,
+    rgb(20, 149, 124) 6px 6px,
+    rgb(21, 152, 126) 7px 7px,
+    rgb(21, 154, 128) 8px 8px,
+    rgb(21, 157, 130) 9px 9px,
+    rgb(22, 160, 133) 10px 10px;
+  background-color: #16a085;
 }
 .tt-menu {
   background-color: #ccc;
@@ -165,7 +174,7 @@ body > nav {
 }
 #progress-bar {
   height: 100%;
-  background-color: #da3232;
+  background-color: #16a085;
   border-radius: 4px;
   color: #ffffff;
 }
