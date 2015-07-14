@@ -6,11 +6,19 @@ html, body {
   overflow: hidden;
 }
 #map {
-  height: calc(100% - 50px);
+  height: calc(100% - 52px);
   width: 100%;
 }
 .navbar-inverse {
   background-color: #c0392b
+}
+#closePanel {
+  float: right;
+  padding-right: 5;
+  color: #c0392b;
+}
+#closePanel:hover {
+  color: #a87e7a;
 }
 #sidebar {
   background-color: rgb(231, 76, 60);
@@ -27,39 +35,37 @@ html, body {
 .sidebarText {
   color: #2a1d1d;
 }
-.btn{
-	background: transparent;
-	color: #ffffff;
+.btn {
+  background: transparent;
+  color: #ffffff;
   -webkit-border-radius: 0;
-	-moz-border-radius:    0;
+  -moz-border-radius: 0;
   border-radius: 0;
   border-width: 2;
   border-color: #ffffff;
-
-	/* CSS Transition */
-	-webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-moz-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-ms-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-o-transition: background .2s ease-in-out, border .2s ease-in-out;
-	transition: background .2s ease-in-out, border .2s ease-in-out;
-
+font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  /* CSS Transition */
+  -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+  transition: background .2s ease-in-out, border .2s ease-in-out;
 }
-.btn:hover{
-	background:#d35400;
-	color: #ffffff;
+.btn:hover {
+  background: #d35400;
+  color: #ffffff;
   -webkit-border-radius: 0;
-	-moz-border-radius:    0;
+  -moz-border-radius: 0;
   border-radius: 0;
   border-width: 2;
   border-color: #ffffff;
-
-	/* CSS Transition */
-	-webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-moz-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-ms-transition: background .2s ease-in-out, border .2s ease-in-out;
-	-o-transition: background .2s ease-in-out, border .2s ease-in-out;
-	transition: background .2s ease-in-out, border .2s ease-in-out;
-
+  /* CSS Transition */
+  -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+  -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+  transition: background .2s ease-in-out, border .2s ease-in-out;
 }
 #volunteerNameSidebar {
   text-align: center;
@@ -75,7 +81,7 @@ html, body {
   max-height: 200;
   overflow-y: auto;
 }
-#earnedBadges{
+#earnedBadges {
   font-weight: bold;
   max-height: 200;
   overflow-y: auto;
@@ -94,12 +100,11 @@ body > nav {
   color: #fff !important;
   font-weight: bold;
 }
-
-#usermenu:hover{
+#usermenu:hover {
   background-color: #d35400;
 }
-#showSidebar{
-    margin-left: 20;
+#showSidebar {
+  margin-left: 20;
 }
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
   background-color: #ba2107;
@@ -162,6 +167,7 @@ body > nav {
 }
 #progress-bar {
   height: 100%;
-  background-color: #76A6FC;
+  background-color: #da3232;
   border-radius: 4px;
+  color: #ffffff;
 }
