@@ -250,7 +250,7 @@ $('#searchBoxBtn').click(function() {
     map.addLayer(geojson);
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
-    $("#volunteerName").html("<p>Points edited by " + url + "<p>");
+    $("#volunteerName").html("<p>" + url + "<p>");
     for (var i = 0; i < users.length; i++) {
       if (users[i].UserName == url) {
         gotDate = users[i].date;
