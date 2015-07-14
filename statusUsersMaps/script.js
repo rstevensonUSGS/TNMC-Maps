@@ -115,6 +115,7 @@ function Style(feature) {
     radius: 5
   };
 }
+
 //geojson call from list
 var gotDate;
 var geojson;
@@ -123,6 +124,12 @@ $('#userlayers li').click(function() {
   console.log(url);
   if (geojson !== undefined) {
     map.removeLayer(geojson);
+  }
+  if ($('#statedEdited li').length) {
+    $('#statedEdited').empty();
+  }
+  if ($('#earnedBadges li').length) {
+    $('#earnedBadges').empty();
   }
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
@@ -135,40 +142,138 @@ $('#userlayers li').click(function() {
     $("#searchinput").val(""); //this clears the search box
     $("#volunteerName").html("<p>Points edited by " + url + "<p>");
     for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == "fconley") {
+      if (users[i].UserName == url) {
         gotDate = users[i].date;
       }
     }
-    console.log(gotDate);
     $("#volunteerNameSidebar").html(url);
     $("#since").html("Volunteer since: " + gotDate);
+    //testing nesting using d3
+    d3.json("./data/" + url + ".json", function(json) {
+      var stateName = d3.nest()
+        .key(function(d, i) {
+          return d.properties.NAME;
+        })
+        .entries(json.features);
+      for (key in stateName) {
+        if (stateName.hasOwnProperty(key)) {
+          var value = stateName[key];
+          var states = "<li id='states'>" + value.key + " - " + value.values.length + "</li>"
+          $('#statedEdited').append(states);
+          console.log(value.key + " - " + value.values.length);
+        }
+      }
+    });
+    for (var i = 0; i < users.length; i++) {
+      if (users[i].UserName == url) {
+        var edits = users[i].TotalUniqu;
+        if (users[i].TotalUniqu > 6000) {
+          $.extend(users[i], {
+            tier: "11"
+          });
+          $('#earnedBadges').append("<li>Squadron of Biplane Spectators</li><li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 5000 && users[i].TotalUniqu < 5999) {
+          $.extend(users[i], {
+            tier: "10"
+          });
+            $('#earnedBadges').append("<li>Ring of Reconnaissance Rocketeers</li><li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 4000 && users[i].TotalUniqu < 4999) {
+          $.extend(users[i], {
+            tier: "9"
+          });
+            $('#earnedBadges').append("<li>Flock of Winged Witnesses</li><li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 3000 && users[i].TotalUniqu < 3999) {
+          $.extend(users[i], {
+            tier: "8"
+          });
+            $('#earnedBadges').append("<li>Family of Floating Photogrammetrists</li><li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 2000 && users[i].TotalUniqu < 2999) {
+          $.extend(users[i], {
+            tier: "7"
+          });
+            $('#earnedBadges').append("<li>Theodolite Assemblage</li><li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 1000 && users[i].TotalUniqu < 1999) {
+          $.extend(users[i], {
+            tier: "6"
+          });
+            $('#earnedBadges').append("<li>Alidade Alliance</li><li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 500 && users[i].TotalUniqu < 999) {
+          $.extend(users[i], {
+            tier: "5"
+          });
+            $('#earnedBadges').append("<li>Stadia Board Society</li><li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 200 && users[i].TotalUniqu < 499) {
+          $.extend(users[i], {
+            tier: "4"
+          });
+            $('#earnedBadges').append("<li>Circle of the Surveyor's Compass</li><li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 100 && users[i].TotalUniqu < 199) {
+          $.extend(users[i], {
+            tier: "3"
+          });
+              $('#earnedBadges').append("<li>Pedometer Posse</li><li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 50 && users[i].TotalUniqu < 99) {
+          $.extend(users[i], {
+            tier: "2"
+          });
+            $('#earnedBadges').append("<li>Society of the Steel Tape</li><li>Order of the Surveyor's Chain</li>")
+        } else if (users[i].TotalUniqu > 25 && users[i].TotalUniqu < 49) {
+          $.extend(users[i], {
+            tier: "1"
+          });
+            $('#earnedBadges').append("<li>Order of the Surveyor's Chain</li>")
+        }
+      }
+    }
   });
 });
 
 
+
 //geojson call from search box
-var geojson;
 $('#searchBoxBtn').click(function() {
   var url = $('#searchinput').val();
+  console.log(url);
   console.log(url);
   if (geojson !== undefined) {
     map.removeLayer(geojson);
   }
+  if ($('#statedEdited li').length) {
+    $('#statedEdited').empty();
+  }
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
       pointToLayer: function(feature, latlgn) {
-        return L.circleMarker(latlgn, Style(feature));
+        return L.circleMarker(latlgn, Style(feature)).bindPopup(feature.properties.NAME);
       }
     });
     map.addLayer(geojson);
-    map.fitBounds(geojson.getBounds())
+    map.fitBounds(geojson.getBounds());
+    $("#searchinput").val(""); //this clears the search box
     $("#volunteerName").html("<p>Points edited by " + url + "<p>");
     for (var i = 0; i < users.length; i++) {
-      if (users[i].UserName == "fconley") {
+      if (users[i].UserName == url) {
         gotDate = users[i].date;
       }
     }
+    $("#volunteerNameSidebar").html(url);
     $("#since").html("Volunteer since: " + gotDate);
+    //testing nesting using d3
+    d3.json("./data/" + url + ".json", function(json) {
+      var stateName = d3.nest()
+        .key(function(d, i) {
+          return d.properties.NAME;
+        })
+        .entries(json.features);
+      console.log(stateName);
+      for (key in stateName) {
+        if (stateName.hasOwnProperty(key)) {
+          var value = stateName[key];
+          var states = "<li>" + value.key + " - " + value.values.length + "</li>"
+          $('#statedEdited').append(states);
+        }
+      }
+    });
   });
 });
 

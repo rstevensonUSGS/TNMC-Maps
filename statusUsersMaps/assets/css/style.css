@@ -9,19 +9,42 @@ html, body {
   height: calc(100% - 50px);
   width: 100%;
 }
+.navbar-inverse {
+  background-color: #c0392b
+}
 #sidebar {
-  background-color: #222;
+  background-color: rgb(231, 76, 60);
   z-index: 9999;
 }
-.sidebarText{
-  color: #fff;
+#sidebar > hr {
+  border-color: #991b1b -moz-use-text-color -moz-use-text-color;
+  border-width: 2px 0 0;
 }
-#volunteerNameSidebar{
+#sidebarHeader {
+  padding-bottom: 5;
+  box-shadow: 0px 6px 10px -5px rgba(198, 54, 40, 0.90);
+}
+.sidebarText {
+  color: #2a1d1d;
+}
+#volunteerNameSidebar {
   text-align: center;
+  padding-bottom: 5px;
+  font-weight: bold;
 }
-#since{
-  padding-left: 18;
-    font-weight: bold;
+#since {
+  text-align: center;
+  font-weight: bold;
+}
+#statedEdited {
+  font-weight: bold;
+  max-height: 300;
+  overflow-y: auto;
+}
+#earnedBadges{
+  font-weight: bold;
+  max-height: 300;
+  overflow-y: auto;
 }
 body > nav {
   margin-bottom: 0 !important;
@@ -33,51 +56,58 @@ body > nav {
   padding-right: 10px;
   padding-left: 10px;
 }
-.dropdown-toggle{
+.dropdown-toggle {
   color: #fff !important;
+  font-weight: bold;
 }
+
 #usermenu:hover{
-  background-color: rgb(115, 115, 115) !important;
+  background-color: #d35400;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+  background-color: #ba2107;
+  color: #fff;
 }
 #userlayers {
   height: auto;
   max-height: 400px;
   overflow-x: hidden;
-  background-color: #ccc;
+  background-color: #e74c3c;
 }
 #userlayers > li > a:hover {
-  background-color: #333 !important;
+  background-color: #fe786b !important;
   color: #fff !important;
+  font-weight: bold;
 }
 #searchclear {
-    position: absolute;
-    right: 5px;
-    top: 0;
-    bottom: 0;
-    height: 14px;
-    margin: auto;
-    font-size: 14px;
-    cursor: pointer;
-    color: #ccc;
+  position: absolute;
+  right: 5px;
+  top: 0;
+  bottom: 0;
+  height: 14px;
+  margin: auto;
+  font-size: 14px;
+  cursor: pointer;
+  color: #ccc;
 }
-#volunteerName{
+#volunteerName {
   margin-bottom: 0;
-  color: #fff;
+  color: rgb(236, 240, 241);
   font-weight: bold;
-  text-shadow: 0px 2px 1px #858383;
+  /*text-shadow: 0px 2px 1px #858383;*/
+  text-shadow: rgb(173, 51, 39) 1px 1px, rgb(173, 51, 39) 2px 2px, rgb(173, 51, 39) 3px 3px, rgb(173, 51, 39) 4px 4px, rgb(176, 52, 39) 5px 5px, rgb(179, 53, 40) 6px 6px, rgb(182, 54, 41) 7px 7px, rgb(185, 55, 41) 8px 8px, rgb(188, 56, 42) 9px 9px, rgb(192, 57, 43) 10px 10px;
+  background-color: rgb(192, 57, 43);
 }
-
 .tt-menu {
   background-color: #ccc;
   border: 1px solid #000;
   padding: 5px;
 }
-
 .tt-suggestion.tt-cursor {
   background-color: #fff;
-
 }
-.tt-suggestion:hover{
+.tt-suggestion:hover {
   background-color: #333;
   color: #fff;
 }

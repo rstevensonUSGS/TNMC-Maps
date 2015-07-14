@@ -23,6 +23,9 @@
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
 
   <link rel="stylesheet" href="./assets/css/style.css">
 </head>
@@ -62,10 +65,17 @@
     <!-- /.container-fluid -->
   </nav>
   <div id="sidebar">
-    <h2 class="sidebarText" id="volunteerNameSidebar"></h2>
-    <hr>
-    <p class="sidebarText" id="since"></p>
+    <div id="sidebarHeader">
+      <h2 class="sidebarText" id="volunteerNameSidebar"></h2>
+      <p class="sidebarText" id="since"></p>
 
+    </div>
+     <h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-globe"></i> States Edited:</h3>
+    <ul id="statedEdited">
+    </ul>
+<h3 style="padding-left: 18; font-weight: bold"><i class="fa fa-trophy"></i> Earned Badges:</h3>
+<ul id="earnedBadges">
+</ul>
   </div>
   <div id="map">
     <div id="progress">
@@ -74,7 +84,7 @@
         <h3>Loading...</h3>
       </div>
       <script src="./data/users.json"></script>
-      <script src="./script.js"></script>
+      <script type="application/javascript" src="./script.js"></script>
     </div>
   </div>
 </body>
