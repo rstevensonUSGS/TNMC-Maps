@@ -109,7 +109,7 @@ function Style(feature) {
     fillColor: "#d17700",
     stroke: 1,
     opacity: 1,
-    color: "#000000",
+    color: "#831212",
     fillOpacity: 1,
     weight: 1,
     radius: 5
@@ -140,7 +140,7 @@ $('#userlayers li').click(function() {
     map.addLayer(geojson);
     map.fitBounds(geojson.getBounds());
     $("#searchinput").val(""); //this clears the search box
-    $("#volunteerName").html("<p>Points edited by " + url + "<p>");
+    $("#volunteerName").html("<p>" + url + "<p>");
     for (var i = 0; i < users.length; i++) {
       if (users[i].UserName == url) {
         gotDate = users[i].date;
@@ -160,7 +160,6 @@ $('#userlayers li').click(function() {
           var value = stateName[key];
           var states = "<li id='states'>" + value.key + " - " + value.values.length + "</li>"
           $('#statedEdited').append(states);
-          console.log(value.key + " - " + value.values.length);
         }
       }
     });
@@ -354,7 +353,7 @@ $("#searchclear").click(function(evt) {
 //collapse and show sidebar
 $('#sidebar').slideReveal({
   trigger: $("#showSidebar, #closePanel"),
-  width: 300,
+  width: 320,
   push: false,
   top: 50,
 });
