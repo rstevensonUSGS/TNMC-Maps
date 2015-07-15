@@ -176,6 +176,22 @@ body > nav {
   border-radius: 4px;
   color: #ffffff;
 }
+.leaflet-popup-content-wrapper {
+    border-radius: 0px;
+    background: #61a4ab;
+    opacity: 0.9;
+}
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: none repeat scroll 0 0 #61a4ab;
+  opacity: 0.9;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+}
+html body div#map.leaflet-container.leaflet-fade-anim div.leaflet-map-pane div.leaflet-objects-pane div.leaflet-popup-pane div.leaflet-popup.leaflet-zoom-animated div.leaflet-popup-content-wrapper div.leaflet-popup-content a {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15;
+}
 ::-webkit-scrollbar {
   width: 12px;
 }

@@ -134,7 +134,7 @@ $('#userlayers li').click(function() {
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
       pointToLayer: function(feature, latlgn) {
-        return L.circleMarker(latlgn, Style(feature)).bindPopup(feature.properties.NAME);
+        return L.circleMarker(latlgn, Style(feature)).bindPopup("<a href='" + feature.properties.OSM_LINK + "' target='_blank'>Point Information</a>" );
       }
     });
     map.addLayer(geojson);
@@ -244,7 +244,7 @@ $('#searchBoxBtn').click(function() {
   $.getJSON("./data/" + url + ".json", function(data) {
     geojson = L.geoJson(data, {
       pointToLayer: function(feature, latlgn) {
-        return L.circleMarker(latlgn, Style(feature)).bindPopup(feature.properties.NAME);
+        return L.circleMarker(latlgn, Style(feature)).bindPopup("<a href='" + feature.properties.OSM_LINK + "' target='_blank'>Point Information</a>" );
       }
     });
     map.addLayer(geojson);
