@@ -71,18 +71,23 @@ html, body {
   padding-bottom: 5px;
   font-weight: bold;
 }
-#since, #totalEdits {
+#since {
   text-align: center;
   font-weight: bold;
 }
+#totalEdits {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0
+}
 #statedEdited {
   font-weight: bold;
-  max-height: 200;
+  max-height: 160;
   overflow-y: auto;
 }
 #earnedBadges {
   font-weight: bold;
-  max-height: 200;
+  max-height: 160;
   overflow-y: auto;
 }
 body > nav {
