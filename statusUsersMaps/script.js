@@ -29,17 +29,17 @@ var map = L.map('map', {
   layers: [imageryTopo],
   'zoomControl': false,
   'minZoom': 4,
-  'maxBounds': bounds
+  'maxBounds': bounds,
+
 }).setView([34.8138, -96.06445], 4);
 50.970844, -179.515997
 //zoom custom position
 L.control.zoom({
   position: 'topright'
 }).addTo(map);
-
 L.control.layers(basemaps, null, {
   position: 'bottomright'
-}).addTo(map)
+}).addTo(map);
 
 //Create list of users automatic
 var suma = 0;
