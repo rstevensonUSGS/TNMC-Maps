@@ -145,8 +145,14 @@ $('#userlayers li').click(function() {
       if (users[i].UserName == url) {
         gotDate = users[i].date;
       }
+    };
+    for (var i = 0; i < users.length; i++) {
+      if (users[i].UserName == url) {
+        gotTotalEdits = users[i].TotalUniqu;
+      }
     }
     $("#volunteerNameSidebar").html(url);
+    $("#totalEdits").html("Total Edits: " + gotTotalEdits);
     $("#since").html("Volunteer since: " + gotDate);
     //testing nesting using d3
     d3.json("./data/" + url + ".json", function(json) {

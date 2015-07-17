@@ -29,6 +29,7 @@ html, body {
 #sidebarHeader {
   padding-bottom: 5;
   box-shadow: 0px 6px 10px -5px rgba(2, 101, 80, 0.9);
+  margin-top: 35;
 }
 .sidebarText {
   color: #2a1d1d;
@@ -70,7 +71,7 @@ html, body {
   padding-bottom: 5px;
   font-weight: bold;
 }
-#since {
+#since, #totalEdits {
   text-align: center;
   font-weight: bold;
 }
