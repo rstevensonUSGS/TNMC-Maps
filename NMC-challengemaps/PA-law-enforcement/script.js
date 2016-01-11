@@ -175,3 +175,13 @@ $("#tobepeerreviwed").click(function(){
       $(this).find('i').attr('class', 'fa fa-times');
     }
 });
+
+$(".markers-legend").hover(function(){
+  $(this).css('cursor', 'pointer');
+  original = $(this).find("i").attr('class');
+  $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
+  $(this).find("i").attr('class', 'fa fa-eye-slash');
+}, function(){
+  $(this).removeAttr('style');
+  $(this).find('i').attr('class', original);
+})
