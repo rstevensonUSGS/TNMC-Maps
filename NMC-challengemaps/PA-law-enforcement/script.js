@@ -14,8 +14,8 @@ var imagery = L.tileLayer.wms("http://basemap.nationalmap.gov/arcgis/services/US
   attribution: 'Map tiles by <a href="http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer"<USGS</a<'
 });
 
-var southWest = L.latLng(39.50, -81.01),
-  northEast = L.latLng(42.39, -74.26),
+var southWest = L.latLng(39.50, -82.51),
+  northEast = L.latLng(43.39, -72.26),
   bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.map('map', {
