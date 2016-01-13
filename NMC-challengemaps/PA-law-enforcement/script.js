@@ -47,9 +47,10 @@ $.getJSON("./data/finished.geojson", function(data) {
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
-        icon: L.AwesomeMarkers.icon({
+        icon: L.ExtraMarkers.icon({
           icon: 'fa-check fa-2x',
-          markerColor: 'green',
+          shape: 'square',
+          markerColor: 'green-light',
           prefix: 'fa'
         }),
       });
@@ -65,9 +66,10 @@ $.getJSON("./data/tobechecked.geojson", function(data) {
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
-        icon: L.AwesomeMarkers.icon({
+        icon: L.ExtraMarkers.icon({
           icon: 'fa-exclamation fa-2x',
-          markerColor: 'orange',
+          shape: 'square',
+          markerColor: 'yellow',
           prefix: 'fa'
         }),
       });
@@ -83,9 +85,10 @@ $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
     },
     pointToLayer: function(feature, latlng) {
       return L.marker(latlng, {
-        icon: L.AwesomeMarkers.icon({
+        icon: L.ExtraMarkers.icon({
           icon: 'fa-times fa-2x',
-          markerColor: 'pink',
+          markerColor: 'cyan',
+          shape: 'square',
           prefix: 'fa'
         }),
       });
@@ -97,7 +100,7 @@ $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
 $("#finished").click(function(){
     if(map.hasLayer(finished)){
       map.removeLayer(finished)
-      $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
       $.getJSON("./data/finished.geojson", function(data) {
@@ -107,9 +110,10 @@ $("#finished").click(function(){
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
-              icon: L.AwesomeMarkers.icon({
+              icon: L.ExtraMarkers.icon({
                 icon: 'fa-check fa-2x',
-                markerColor: 'green',
+                shape: 'square',
+                markerColor: 'green-light',
                 prefix: 'fa'
               }),
             });
@@ -124,7 +128,7 @@ $("#finished").click(function(){
 $("#tobechecked").click(function(){
     if(map.hasLayer(tobechecked)){
       map.removeLayer(tobechecked)
-      $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
       $.getJSON("./data/tobechecked.geojson", function(data) {
@@ -134,9 +138,10 @@ $("#tobechecked").click(function(){
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
-              icon: L.AwesomeMarkers.icon({
+              icon: L.ExtraMarkers.icon({
                 icon: 'fa-exclamation fa-2x',
-                markerColor: 'orange',
+                shape: 'square',
+                markerColor: 'yellow',
                 prefix: 'fa'
               }),
             });
@@ -151,7 +156,7 @@ $("#tobechecked").click(function(){
 $("#tobepeerreviwed").click(function(){
     if(map.hasLayer(tobepeerreviwed)){
       map.removeLayer(tobepeerreviwed)
-      $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
+      $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
       $(this).find("i").attr('class', 'fa fa-eye-slash');
     } else {
       $.getJSON("./data/tobepeerreviwed.geojson", function(data) {
@@ -161,9 +166,10 @@ $("#tobepeerreviwed").click(function(){
           },
           pointToLayer: function(feature, latlng) {
             return L.marker(latlng, {
-              icon: L.AwesomeMarkers.icon({
+              icon: L.ExtraMarkers.icon({
                 icon: 'fa-times fa-2x',
-                markerColor: 'pink',
+                markerColor: 'cyan',
+                shape: 'square',
                 prefix: 'fa'
               }),
             });
@@ -179,7 +185,7 @@ $("#tobepeerreviwed").click(function(){
 $(".markers-legend").hover(function(){
   $(this).css('cursor', 'pointer');
   original = $(this).find("i").attr('class');
-  $(this).css("background-position", "-612px 0").css("padding-top", "8px").css("padding-left", "8px");
+  $(this).css("background-position", "-144px -46px").css("padding-top", "8px").css("padding-left", "8px");
   $(this).find("i").attr('class', 'fa fa-eye-slash');
 }, function(){
   $(this).removeAttr('style');

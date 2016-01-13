@@ -75,26 +75,30 @@ h2:after {
   font-size: 25
 }
 .markers-legend {
-  background: url('../plugins/leaflet-awesome-markers/images/markers-soft.png') no-repeat 0 0;
+  background: url('../plugins/leaflet-extra-markers/css/images/markers_default.png') no-repeat 0 0;
   width: 35px;
   height: 46px;
   color: #ffffff;
     display: inline-block;
 }
 #finished {
-  background-position: -72px 0;
+  background-position: -432px -46px;
   padding-top: 8px;
   padding-left: 8px
 }
 #tobechecked {
-  background-position: -36px 0;
+  background-position: -108px -46px;
   padding-top: 11px;
   padding-left: 14px
 }
 #tobepeerreviwed {
-  background-position: -504px 0;
+  background-position: -216px -46px;
   padding-top: 8px;
   padding-left: 10px
+}
+.markers-legend:hover{
+  background-position: -108px -46px;
+  cursor: pointer;
 }
 .markers-descri{
   display: inline-block;
