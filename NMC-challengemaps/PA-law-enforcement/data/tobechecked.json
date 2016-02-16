@@ -1,12 +1,13 @@
 {"name":"NeedsChecked","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.38766,39.93049]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720078/history","name":"Upper Providence Police Department","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5583571,40.1438126]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717599/history","name":"Mount Joy Police Dept","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.67158,40.45007]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719624/history","name":"Murrysville Police Dept","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.4162522,41.078065]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720785/history","name":"Orangeville Borough Police","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6080872,39.9584507]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720859/history","name":"Chester County Sheriff's Office","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.30453,41.606]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721957/history","name":"Conneaut Lake Regional Police Dept","version":"2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3088437,41.1870839]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722322/history","name":"Pine Creek Twp Police Adm","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.77441,40.16445]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722640/history","name":"Rostraver Township Police Department","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5583571,40.1438126]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717599/history","name":"Mount Joy Police Dept","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.49819,40.65448]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717188/history","name":"Whitehall Township Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.19478,40.98669]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717213/history","name":"Monroe County Sheriff","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.38625,40.60795]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717263/history","name":"Bethlehem Police Dept","version":"1"}}
@@ -51,7 +52,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.89133,41.28188]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717869/history","name":"Luzerne Boro Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.98432,40.55589]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717871/history","name":"Police Department","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.90526,40.81689]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717886/history","name":"Penn Twp Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.40539,40.42094]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717888/history","name":"Blair Twp Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.15742,40.55303]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717894/history","name":"Millerstown Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.07327,40.33524]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717901/history","name":"Upper St Clair Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.34579,41.00034]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717911/history","name":"Wampum Police Dept","version":"1"}}
@@ -152,7 +152,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.54973,40.48118]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719161/history","name":"Gallitzin Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.47148,40.79476]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719165/history","name":"Kulpmont Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4435,41.02154]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719186/history","name":"Lawrence Twp Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.39289,40.42973]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719190/history","name":"Blair County Sheriff's Office","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.47034,40.60724]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719196/history","name":"Allentown Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.58459,40.46625]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719198/history","name":"Washington Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8778,41.25161]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719207/history","name":"Luzerne County Sheriff's Ofc","version":"1"}}
@@ -261,7 +260,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.18162,40.36308]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720370/history","name":"Marion Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.31972,40.75596]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720371/history","name":"Beaver Falls Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.33394,41.04992]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720376/history","name":"Neshannock Township Police","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.73167,41.42687]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720386/history","name":"Elk County Sheriff's Office","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4742,40.65376]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720394/history","name":"Catasauqua Police Office","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.41309,40.79542]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720407/history","name":"Mount Carmel Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.05448,41.06681]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720409/history","name":"Slippery Rock Chief Of Police","version":"1"}}
@@ -290,7 +288,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.72332,40.70554]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720653/history","name":"Buffalo Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.27141,40.71389]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720658/history","name":"New Sewickley Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.31358,40.9733]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720665/history","name":"Shenango Twp Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.39203,40.4278]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720698/history","name":"Hollidaysburg Boro Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.99045,40.41181]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720721/history","name":"Pittsburgh Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.13832,41.28696]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720753/history","name":"Ross Township Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.73636,41.36971]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720763/history","name":"Old Forge Boro Police","version":"1"}}
@@ -391,7 +388,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.73427,41.53362]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721920/history","name":"Dalton Borough Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.99265,40.15458]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721969/history","name":"Lower Southampton Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.51655,40.81673]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721981/history","name":"Armstrong County Sheriff","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.70435,40.33443]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721985/history","name":"Adams Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.7536,40.49732]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721988/history","name":"Plum Boro Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5469,40.27719]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721992/history","name":"South Greensburg Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.34074,40.57925]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721999/history","name":"Hellertown Police Admin","version":"1"}}
@@ -426,7 +422,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.34256,39.94207]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722303/history","name":"Conestoga Township Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.30115,40.37699]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722310/history","name":"Myerstown Borough Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.06624,40.43483]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722317/history","name":"Crafton Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.31866,41.18457]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722322/history","name":"Pine Creek Twp Police Adm","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.40873,40.79007]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722356/history","name":"Chippewa Township Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.28549,40.79841]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722394/history","name":"Plainfield Twp Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9684,40.94421]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722398/history","name":"Punxsutawney Police Dept","version":"1"}}
