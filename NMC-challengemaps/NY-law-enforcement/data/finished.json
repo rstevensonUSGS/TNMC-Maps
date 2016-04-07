@@ -1,0 +1,11 @@
+{"name":"finished","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.34895,43.05111]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944099/history","name":"Gloversville Police Department","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.00515,40.73403]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945663/history","name":"New York City Police Dept","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.1123695,43.0688011]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946066/history","name":"Syracuse Community Police Ctr","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1320567,44.3242471]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946223/history","name":"Saranac Lake Police Dept","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6433198,40.6586325]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946607/history","name":"Rockville Centre Police Department","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.6987885,41.2399159]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947278/history","name":"Bedford Police Department","version":"3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.33201,42.62311]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947853/history","name":"New Berlin Town Police Department","version":"2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1323199,42.403032]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948838/history","name":"Durham Police Department","version":"2"}}
+]}
