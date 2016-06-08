@@ -2,13 +2,5 @@
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.24139,40.68425]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719235/history","name":"Wilson Borough Police Department","version":"4"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8802185,41.8264675]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1718411/history","name":"Montrose Borough Police Department","version":"3"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0080475,40.4853184]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717421/history","name":"Huntingdon County Sheriffs Ofc","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0364655,40.3896878]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1717463/history","name":"Penn Twp Police Dept","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0123817,40.4855754]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719935/history","name":"Huntingdon Boro Police Dept","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.6552404,40.2310346]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720669/history","name":"North Coventry Township Police","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.6134779,40.9851867]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721525/history","name":"East Brady Borough Police Dept","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.9960683,40.3047676]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1721862/history","name":"Allegheny County Police","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.3971743,40.5703535]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1722935/history","name":"Juniata County Sheriff Dept","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9147097,40.1505963]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2092371/history","name":"Hooversville Borough PD","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8030065,40.1214943]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2092372/history","name":"Shade Township PD","version":"1"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4766863,40.6594552]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093683/history","name":"North Catasauqua Police Department","version":"1"}}
 ]}

@@ -1,10 +1,8 @@
 {"name":"NeedsChecked","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9159,40.82066]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943675/history","name":"New York Police Department Housing Bureau Police Service Area 7","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3182173,44.8694655]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944716/history","name":"Franklin County Sheriff's Dept","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.98042,40.87397]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944900/history","name":"Suffolk County Police Department","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.2807024,41.9544396]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945664/history","name":"Hancock Police","version":"2"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0017711,40.7122479]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946927/history","name":"New York Police Department Heaquarters","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.6863242,42.9045628]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947029/history","name":"Depew Police Dept","version":"2"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.74386,42.76686]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943097/history","name":"Orchard Park Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.32397,42.47342]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943104/history","name":"Butternuts Police Dept","version":"1"}}
@@ -31,7 +29,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0394298,40.699924]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943420/history","name":"United States Park Police - Ellis Island","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.75126,42.90312]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943433/history","name":"Ny State Park Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.17155,44.59557]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943435/history","name":"Canton Police Station","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.80419,43.22275]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943456/history","name":"State Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.99459,41.14756]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943476/history","name":"Rockland County Sheriff's Ofc","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.94097,42.59586]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943478/history","name":"North Collins Village Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.22102,41.98356]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943505/history","name":"Olive Town Police Dept","version":"1"}}
@@ -58,7 +55,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.69816,41.65794]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943742/history","name":"Sullivan County Patrol","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.14325,41.42817]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943745/history","name":"Washingtonville Village Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.84059,41.53882]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943760/history","name":"East Fishkill Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.63189,40.86416]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943763/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.88813,40.84082]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943782/history","name":"Suffolk County Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.80419,40.70202]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943802/history","name":"Queens Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.37125,40.84291]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1943806/history","name":"Suffolk County Police Dept","version":"1"}}
@@ -89,7 +85,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.98835,41.14646]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944188/history","name":"Clarkstown Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.35642,41.33031]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944189/history","name":"Florida Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4963,43.78635]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944201/history","name":"Lowville Village Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.8206,42.16661]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944204/history","name":"Horseheads Police Station","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.69175,41.65774]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944243/history","name":"Sullivan Sheriff's Dept Civil","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.90049,40.85356]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944252/history","name":"Bronx 46th Precinct Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.27857,43.11162]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944266/history","name":"Yorkville Village Police Dept","version":"1"}}
@@ -99,9 +94,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.38656,43.02783]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944306/history","name":"Cambridge Village Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.06897,43.03933]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944330/history","name":"Frankfort Police Headquarters","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.46783,42.49244]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944337/history","name":"Tompkins County Sheriff","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.18691,41.32554]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944360/history","name":"Village Of Monroe Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.84743,41.49554]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944375/history","name":"Lumberland Constable","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.89379,40.70442]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944377/history","name":"Ridgewood Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.94107,40.80088]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944379/history","name":"New York City Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.8346,42.96932]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944391/history","name":"Tonawanda Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.87359,42.88807]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944428/history","name":"Buffalo Police Dept","version":"1"}}
@@ -110,7 +103,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.69238,42.74216]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944459/history","name":"Green Island Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.005,43.00918]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944469/history","name":"Mohawk Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.8314,40.93604]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944470/history","name":"Bronxville Police Headquarters","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.82722,40.76236]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944498/history","name":"Flushing Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.0609,41.8649]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944499/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.39158,42.11922]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944502/history","name":"Ulster County Sheriff's Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.18429,41.52235]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944513/history","name":"Montgomery Police Dept","version":"1"}}
@@ -134,7 +126,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.36978,40.71166]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944665/history","name":"Suffolk County Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.76005,42.25595]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944682/history","name":"Greenport Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.95621,40.74315]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944701/history","name":"Long Island Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91531,40.76942]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944711/history","name":"New York City Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.74712,41.80199]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944720/history","name":"Liberty Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.07038,43.03878]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944724/history","name":"Frankfort Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.13647,42.20684]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1944747/history","name":"Police Dept","version":"1"}}
@@ -214,14 +205,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.68951,42.59273]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945835/history","name":"East Greenbush Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.11929,42.04099]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945840/history","name":"Woodstock Town Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.52887,41.47782]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945852/history","name":"Mt Hope Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.69436,40.83546]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945861/history","name":"Sands Point Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.74319,42.64276]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945878/history","name":"Rensselaer Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.15661,40.6491]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945902/history","name":"Ocena Beach Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.38689,43.21911]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945908/history","name":"Medina Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3505,42.90088]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945914/history","name":"Hoosick Falls Police Station","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.9525,42.0778]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945935/history","name":"Saugerties Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.2185,42.29337]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945940/history","name":"Windham Town Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.95761,40.67092]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945952/history","name":"New York City Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.83108,42.86578]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1945992/history","name":"Buffalo Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.70754,42.15691]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946002/history","name":"Salamanca Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.36813,42.59077]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946009/history","name":"Groton Police Dept","version":"1"}}
@@ -235,7 +224,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.0379,43.01471]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946098/history","name":"Ilion Police Station","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.29764,42.48873]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946102/history","name":"Dryden Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.75152,43.07693]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946103/history","name":"Canastota Village Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.86443,42.90468]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946108/history","name":"Waterloo Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.87878,42.96255]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946148/history","name":"Kenmore Police Chief","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.27804,43.05527]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946160/history","name":"New Hartford Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.73223,42.83091]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946187/history","name":"West Seneca Auxiliary Police","version":"1"}}
@@ -249,7 +237,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.88645,42.81676]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946244/history","name":"Niskayuna Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.94853,40.66423]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946252/history","name":"Brooklyn 71st Precinct Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.93903,42.11802]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946266/history","name":"Independence Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.54709,42.97439]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946268/history","name":"Cayuga County Sheriff-911 Adm","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.56268,41.70561]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946280/history","name":"Woodridge Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.03018,42.22529]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946282/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91963,40.83783]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946285/history","name":"Bronx 44th Precinct Police","version":"1"}}
@@ -257,7 +244,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.86916,43.14308]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946304/history","name":"Niagara County Sheriff Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.31839,42.33579]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946331/history","name":"Bath Village Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.60247,42.27114]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946332/history","name":"Canisteo Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.80601,40.6653]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946336/history","name":"Port Authority Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.68542,42.66673]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946344/history","name":"North Greenbush Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.83141,40.69939]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946348/history","name":"Jamaica Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.92204,41.52396]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946358/history","name":"Fishkill Police Dept","version":"1"}}
@@ -268,9 +254,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.53589,42.00131]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946420/history","name":"Waverly Chief Of Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.84406,42.07785]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946429/history","name":"West Elmira Police Hdqrtrs","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.74308,41.79713]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946454/history","name":"State Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.84015,40.76954]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946475/history","name":"Queens Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.82681,40.9501]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946481/history","name":"Tuckahoe Police Headquarters","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.61127,40.83586]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946502/history","name":"Old Brookville Police Justice","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.78004,40.90105]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946538/history","name":"New Rochelle Harbor Patrol","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.85272,42.70179]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946556/history","name":"Albany Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.62926,41.70789]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946571/history","name":"Fallsburg Police Dept","version":"1"}}
@@ -281,11 +265,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.42497,42.53433]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946605/history","name":"Arcade Village Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.80952,40.91126]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946641/history","name":"Pelham Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.99707,42.34544]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946645/history","name":"Angelica Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.0006,42.71965]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946672/history","name":"Perry Village Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.31683,43.17701]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946676/history","name":"Washington County Sheriff Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.81092,40.95629]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946687/history","name":"Eastchester Police Headquarter","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.41971,43.02734]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946699/history","name":"Gloversville Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.46795,40.90187]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946703/history","name":"Lloyd Harbor Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.12483,40.96514]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946723/history","name":"Old Field Village Constables","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.74773,43.33608]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946726/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.23235,43.06351]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946731/history","name":"Palmyra Police Dept","version":"1"}}
@@ -296,7 +278,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.62901,43.14341]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946806/history","name":"Genesee Police Sub-Station","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.67702,42.63414]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946811/history","name":"Sheriff Substation","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.58308,43.15534]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946828/history","name":"Police Dept-Patrol Section Ofc","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.58803,42.92569]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946840/history","name":"Auburn Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.13102,42.48387]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946841/history","name":"State Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.87293,42.72359]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946869/history","name":"Village Of Mt Morris Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.29255,43.10332]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946911/history","name":"New York Mill Police Dept","version":"1"}}
@@ -306,7 +287,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.17193,42.54536]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946968/history","name":"Silver Creek Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.11024,41.1118]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946972/history","name":"Ramapo Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.77282,42.3307]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1946978/history","name":"Greene Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.48724,40.85131]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947000/history","name":"Oyster Bay Cove Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.37724,42.931]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947004/history","name":"Oneida County Sheriff's Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.87894,42.88407]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947008/history","name":"Erie County Sheriff's Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.81719,41.7395]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947036/history","name":"Dutchess County Sheriff","version":"1"}}
@@ -330,7 +310,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.66223,44.97545]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947314/history","name":"St Regis Mohawk Tribal Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.05721,42.95767]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947319/history","name":"Phelps Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.41603,43.32055]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947323/history","name":"Fulton Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.13121,41.31756]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947325/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.87096,43.0841]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947327/history","name":"Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.4766,43.20509]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947328/history","name":"Middleport Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.82721,40.83082]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947329/history","name":"Bronx 45th Precinct Police","version":"1"}}
@@ -363,7 +342,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.18499,41.19502]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947822/history","name":"Police Headquarters","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.79038,41.04112]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947834/history","name":"Greenburgh Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.90053,40.84408]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947851/history","name":"Bronx 48th Precinct Police","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.1221,41.32872]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947873/history","name":"Woodbury Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.33899,41.26957]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947879/history","name":"Warwick Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.16956,44.59855]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947892/history","name":"St Lawrence Sheriff Civil Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.77068,42.69892]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1947910/history","name":"Albany County Sheriff","version":"1"}}
@@ -378,7 +356,6 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.3671,42.30927]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948080/history","name":"Prattsville Sheriff's Office","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.9291,42.45753]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948116/history","name":"Cattaraugus County Sheriff","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.62924,41.71103]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948133/history","name":"Hurleyville Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.87012,40.74523]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948163/history","name":"110 Precinct","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.96555,41.71916]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948176/history","name":"Lloyd Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.825,42.8258]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948229/history","name":"Lackawanna Police Traffic Div","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.96935,43.0608]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948243/history","name":"Wayne County Sheriff's Dept","version":"1"}}
@@ -395,16 +372,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.70163,43.36086]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948422/history","name":"Warren County Sheriff Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.81415,42.89096]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948436/history","name":"Buffalo Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.30468,43.06713]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948446/history","name":"Macedon Village Police Clerk","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.85119,40.7223]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948448/history","name":"Queens Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.2237,42.40813]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948452/history","name":"Hammondsport Village Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.86957,42.88887]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948467/history","name":"Erie County Police Training","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.61417,43.15413]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948470/history","name":"Sheriff's Office-Civil Bureau","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.80077,42.09035]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948482/history","name":"Sheriff's Dept-Civil Div","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.63261,42.04266]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948489/history","name":"Carrollton Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.17877,40.73087]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948511/history","name":"Harbor Police Departments","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.75928,40.80236]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948518/history","name":"Red White & Blue Police & Fire","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.52424,42.5317]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948537/history","name":"Sheriff-Civil Office","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.41144,40.89482]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948543/history","name":"Huntington Bay Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.01198,41.19451]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948546/history","name":"Town Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.54331,42.82683]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948559/history","name":"Hamilton Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.13255,42.74453]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948560/history","name":"Wyoming County Sheriff","version":"1"}}
@@ -414,19 +388,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.92057,40.82641]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948579/history","name":"Bronx Police Central Booking","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.36145,41.44688]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948604/history","name":"State Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.70001,42.72571]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948607/history","name":"Watervliet Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.73509,40.72627]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948632/history","name":"105 Precinct Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.91734,43.73282]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948652/history","name":"Webb Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.26754,42.14296]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948661/history","name":"Tioga County Sheriff","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.40101,43.32897]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948662/history","name":"New York State Police","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.63143,40.86411]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948665/history","name":"Glen Cove Harbor Patrol","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.57595,40.82837]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948667/history","name":"Matinecock Village Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.57502,42.90667]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948669/history","name":"Canajoharie Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.23662,42.48688]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948672/history","name":"Sheridan Police Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.64901,42.2508]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948682/history","name":"Philmont Village Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.91159,40.82228]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948705/history","name":"Bronx 42nd Precinct Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3898763,40.8848029]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948717/history","name":"Southampton Village Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.89323,42.65239]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948727/history","name":"Eden Police Dept","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.18574,41.33198]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948734/history","name":"State Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.18202,41.60106]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948739/history","name":"Ulster County Sheriffs Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.02338,41.93686]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948759/history","name":"Ulster County Sheriff Dept","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.31922,42.33253]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948782/history","name":"Sheriff Civil Office","version":"1"}}
@@ -446,5 +416,4 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.01197,41.2354]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1948943/history","name":"Stony Point PBA","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.53589,42.00131]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1720793/history","name":"Waverly Chief Of Police","version":"1"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3828717,42.4714511]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2087646/history","name":"NYS Police Barracks","version":"1"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5281358,40.9144973]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093519/history","name":"Centre Island Police Department","version":"1"}}
 ]}
