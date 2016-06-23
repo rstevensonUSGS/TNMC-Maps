@@ -1,6 +1,4 @@
 {"name":"NeedsPeerReview_Advanced","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.24139,40.68425]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1719235/history","name":"Wilson Borough Police Department","version":"4"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8802185,41.8264675]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/1718411/history","name":"Montrose Borough Police Department","version":"3"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.4766863,40.6594552]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2093683/history","name":"North Catasauqua Police Department","version":"1"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.8769019,41.8346578]},"properties":{"link":"https://navigator.er.usgs.gov/browse/node/2094103/history","name":"Susquehanna County Sheriff's Office","version":"1"}}
 ]}
