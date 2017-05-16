@@ -2,6 +2,7 @@
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.668394,43.0476696000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770801"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8042154999999,43.2298231]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770806"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1949945,44.9517072]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770815"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.821647,44.1923871000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770816"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2051185,44.8095253000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770889"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2251219,44.7288887]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1770895"}}
@@ -10,6 +11,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1891492,44.7506061]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771002"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1036142,45.0011389000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771003"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4468803,43.9915720000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771060"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0066126999999,44.4451217000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771063"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6913584,44.4624937]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771088"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0455899,43.1888083000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771094"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3057281,44.6452282000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771112"}}
@@ -48,6 +50,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0863985,44.1474942]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771896"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0667746999999,43.7863075000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771909"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5909998,44.5543925000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1771961"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5661812,42.8375768000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772007"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9975061,44.4058658000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772029"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0251674,44.5374718]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772037"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8228564,42.7982458000001]},"properties":{"State":"VT","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"1772038"}}
@@ -104,6 +107,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2245384999999,44.0589542000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773006"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6040053999999,44.6650503000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773086"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0142628,44.5406108000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773114"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1801239,44.0071696000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773120"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5484437,44.3764455]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773131"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0551321,43.0244292]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773147"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7341365,42.9947721]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773159"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2212322999999,44.1381115]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773184"}}
@@ -145,6 +150,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2467698,44.9703240000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773704"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7337634,42.9951451000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773748"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6409278,43.3828504000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773769"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0940078,44.1308910000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773793"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5922171,43.5558771]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773802"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1106546999999,44.5961643000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773809"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6045326,44.9717133]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773849"}}
@@ -216,7 +222,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9859296,44.6764408000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775448"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1767680999999,44.6967172000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775450"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9764933,43.4659039000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775499"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1406479,43.9648782]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775507"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0524164,44.4424758000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775510"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1348389999999,43.9983934000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775515"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8212109999999,43.4175717000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775517"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1903713999999,44.1020088000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775548"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0548274,43.0247338]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1775603"}}
@@ -324,6 +332,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8439794,44.3658931000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777766"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9118008,44.6825496000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777778"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7338185,42.9950901]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777819"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5484865999999,44.3773590000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777844"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5925769999999,43.5555172000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777853"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.584823,43.8714554000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777869"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3467692,44.3520023]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1777892"}}
@@ -344,12 +353,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2298309999999,43.5214576000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778213"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1259683,44.6861581000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778238"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0775313999999,44.0287270000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778251"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3863234999999,44.9934651]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778263"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2042944,44.4883823000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778286"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3326129,43.6331210000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778291"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3931531,43.974233]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778310"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6865088,44.6064401]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778324"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9573220999999,42.7550823]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778334"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7338966,42.995012]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778335"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3487081,44.0092327]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778375"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1778503,44.0063517]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778379"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2315169,44.4928264000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778395"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4717595,43.5970144]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778401"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9587374,44.5125509000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778402"}}
@@ -455,6 +467,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.723154,43.5311809]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780452"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5923928,43.5557014]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780468"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8545584999999,44.1133939000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780482"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5537485,42.8406164]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780515"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8187244,44.1086721]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780517"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5981475999999,43.2650749000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780531"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0306639999999,43.657567]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1780542"}}
@@ -494,6 +507,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9939967,43.6617339000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781316"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1412433,44.6272697000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781325"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8079034,44.6092174]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781342"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0199866999999,44.4300618]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781355"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7338837999999,42.9950247]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781361"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.124273,43.3770169000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781374"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9629106,44.9200446]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1781381"}}
@@ -596,6 +610,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1901243,44.3136637000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783381"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5925511999999,43.5555430000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783382"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0156509,44.4556129000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783400"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1756652999999,43.6128446000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783445"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5925991999999,43.5554950000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783450"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4217702999999,44.2786706000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783469"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4545453,44.0592310000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1783503"}}
@@ -650,6 +665,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8909328,43.0309119]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784454"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.212052,42.7953572000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784501"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8342579,44.4395025000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784502"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1031791999999,44.3411641000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784520"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4181619,44.4122784]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784547"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4405488,43.9960090000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784551"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0987279,44.0270044000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784555"}}
@@ -667,12 +683,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6470472,43.8753438000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784778"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6809306,43.5339588000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784793"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6148082,44.2597989000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784797"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7105989999999,42.9245544]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784798"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0526326999999,44.4422594000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784801"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7106651,44.074507]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784804"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8092738999999,43.8756206]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784839"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9570505999999,43.6145125]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784845"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3309517,43.8853375]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784860"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4839772999999,42.7539717000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784878"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4837841999999,42.7538772]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784878"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7425939,42.7834159000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784880"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5392613,43.6203473]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784891"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4184417,44.5989408]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1784896"}}
@@ -686,6 +703,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5620299,44.6042206000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785016"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0887461,44.8467115]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785020"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2587336999999,44.1717215]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785055"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1265137,44.3850519000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785084"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5445429,43.8189563]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785105"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3520669,44.0511673]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785131"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1354666,44.441266]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785153"}}
@@ -696,7 +714,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7081616999999,43.9453426000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785222"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1862082,44.3200594]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785232"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5223165,43.6272917000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785236"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1451221,44.2392214000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785248"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1948164999999,44.1361747]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785256"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5553498,45.0059344000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785276"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7064831,43.0834116]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785289"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8798553,44.9875440000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785356"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4978728999999,43.7253465000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1785358"}}
@@ -772,10 +792,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3692617999999,43.8800678000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787213"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8738964,44.8249371000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787215"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9484267999999,44.4233915]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787229"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1500518,44.0250851000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787288"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2459244999999,43.8320137000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787311"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6750933,43.0470236]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787322"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2264984999999,43.5672897000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787343"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2098396,43.9625597]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787345"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1515131,44.3422747000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787351"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5934242,42.8631373000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787371"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2212051,44.0620096000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787421"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2081449,43.7728482000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787454"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0640142,44.4369958]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1787483"}}
@@ -844,6 +867,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8320429,43.2300753000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788629"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6034443999999,44.2995026]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788708"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6642641,43.5722917000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788717"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1059491999999,43.9775608]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788721"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9648381,44.0961711]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788727"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5703682,42.9545253000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788730"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.316503,43.7072857000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788741"}}
@@ -854,6 +878,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9481853,44.9928207]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788884"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2965138,44.2369973]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788888"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5120462,44.0147872000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788899"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5559234,42.846193]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788908"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6292696,43.9103435000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788935"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0551249,43.0244363]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788967"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8859543,44.3736656]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1788978"}}
@@ -959,6 +984,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2051021,44.9508798000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791005"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4864946,44.2686707]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791034"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2412201,42.9367449000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791053"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0116682,44.433136]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791081"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7337477999999,42.9951607]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791102"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5537116,43.8981219]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791131"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0928756,44.4820005]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791146"}}
@@ -984,6 +1010,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.4015107,43.9689463]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791541"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6146448,44.2599623]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791609"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4381645,44.6006075000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791611"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5368829,44.9973146]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791612"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2795611,43.8628383000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791655"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5089897999999,43.9828434]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791711"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2051139,43.7992291]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791715"}}
@@ -1008,6 +1035,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6146386999999,44.2599684]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792144"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0527395,44.4421526]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792237"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1606831,44.4950492]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792244"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1862386,44.4836603000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792245"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3742597,43.7647916000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792261"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8123315,43.9647861]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792263"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6612322999999,44.7625485]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792287"}}
@@ -1083,6 +1111,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4917773,44.6014407000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793706"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.450927,43.6789584000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793725"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5767815,44.6342176000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793729"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5645347,42.8581374]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793730"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0770563,43.8042307000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793734"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1595641,44.1161683]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793753"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8448231,43.4567376000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793759"}}
@@ -1103,6 +1132,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.214283,43.9117271000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794092"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0467724,43.4642372000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794093"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6150522,44.2595549000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794096"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2917128,44.9228041000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794097"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4253833,44.3631130000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794144"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5064892,43.9600659000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794148"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5750904,42.8150822000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794169"}}
@@ -1134,6 +1164,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5037126,44.0117318000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794735"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9431499999999,44.5247781]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794760"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8103755,43.2061869]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794769"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2134158,44.0406276000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794789"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4987161999999,44.2114497000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794802"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2056628999999,43.2122984000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794856"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1206612999999,43.112577]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794867"}}
@@ -1220,6 +1251,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6209295,43.5664586]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796436"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0826286,44.9825418]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796449"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2776225,44.1436662]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796453"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1981817,44.4108839]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796477"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2948380999999,43.8086725000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796485"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0548223,43.0247390000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796486"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0214946999999,43.5147918000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796515"}}
@@ -1231,6 +1263,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5284271,43.5800699000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796611"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4670429999999,43.9242332000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796626"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5870383,43.4742377000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796644"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2045722,44.4864379000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796646"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8420546999999,43.9767302000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796653"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5967861,44.8492140000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796666"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4831555,43.9717325]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1796672"}}
@@ -1329,6 +1362,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7341742,42.9947343000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798722"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5287081,43.7728458]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798731"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7341881999999,42.9947204000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798817"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1597722,44.0179872000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798829"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0181645,43.7050663000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798857"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9812243,43.9564516]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798867"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0381864999999,44.9380989000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798872"}}
@@ -1418,6 +1452,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5253734,43.7050687]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800840"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5003842,44.2767260000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800881"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7864883999999,43.4906259000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800887"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1859433,43.6134000000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800904"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0139935,43.3939609]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800943"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7341215,42.994787]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800955"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.592345,43.5557492]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801013"}}
@@ -1484,6 +1519,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0253822,43.3478508000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802494"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6595376,43.1206333000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802506"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9737446,44.9058782000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802634"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0773458,44.3503309000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802641"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1801216,44.1878332000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802649"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2478806999999,44.5553310000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802661"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.490104,44.1683951000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1802665"}}
@@ -1515,6 +1551,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2589842,44.0967311000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803189"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9470496,43.5728466]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803196"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9176323999999,44.6425499000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803237"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2037389,44.4875490000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803254"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5095464,44.0289536000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803284"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4364891,44.0539534000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803292"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0009502999999,44.1100594000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803299"}}
@@ -1628,6 +1665,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8553763,43.0967443000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805555"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.32568,44.1797760000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805573"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0906916,44.8219897000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805665"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8014130999999,42.9479574000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805691"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4789777,43.2350757]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805727"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3309517,43.8861708000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805747"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6478693999999,42.7350831000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1805758"}}
@@ -1680,6 +1718,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.313458,44.2031091000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806679"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0550982999999,44.8978255000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806688"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0009507999999,44.1342255000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806692"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6384829,42.7532370000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806719"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5162086999999,43.8184008000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806734"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7339013,42.9950073000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806735"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9842734,43.6081237000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1806761"}}
@@ -1702,6 +1741,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6862044,42.9756359]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807224"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.90068,44.5067181000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807226"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2623149999999,43.9028459]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807282"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.55907,42.8429452]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807288"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5959485,44.5542191000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807294"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9864954999999,43.5972905]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807295"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3195358,43.6886815]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1807325"}}
@@ -1756,6 +1796,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7338549,42.9950537]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808190"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7337716,42.9951370000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808214"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3740132,44.1164435000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808244"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7434744999999,42.7914242000001]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808251"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6970497,43.9200652000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808253"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2092812,43.8267286000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808274"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5922765999999,43.5558176000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808275"}}
@@ -1763,6 +1804,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6745385,43.2289644000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808286"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4348231,44.0961747000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808310"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1890131,44.3172748000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808311"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6517587,42.8259154]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808333"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6573466,44.8547695]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808334"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0037159,43.4150716]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808341"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5600901999999,42.8831372000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1808367"}}
@@ -1799,21 +1841,31 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1121709,44.4884426]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809091"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1029248999999,44.4480494000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809106"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0245634,44.5343304]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809129"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5125336999999,42.9772036000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809272"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2353772,44.4962364]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809361"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.605179,43.9393210000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809390"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6711543,44.6417363]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809537"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7345994,42.8388430000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809591"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2411069999999,43.5171340000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809663"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5741465,44.2808455000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809830"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0070334,43.5997768]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809831"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5563600999999,42.8503232]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809856"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.660129,44.1394021]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1809927"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5593704999999,44.2612023]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810019"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5676167999999,44.2552014]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810043"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2374983,42.9200402000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810062"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2213025,44.4823564000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810230"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4372524,44.2791205]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810285"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.756166,44.338044]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.382372,44.65225]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810426"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1981282,44.4792616]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810795"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2100651,44.4337537000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810796"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5220699,43.8217974]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810804"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.163136,44.4942120000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810844"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.181486,43.6079816000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810928"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2043535999999,44.4729497000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810943"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.56738,42.891035]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1810980"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.176068,44.0091170000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1811093"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2186599999999,42.8670306000001]},"properties":{"State":"VT","FCode":"73006","Feature":"College / University","OSM_ID":"1811131"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8728844999999,42.9486196]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811156"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2028842999999,42.8998838000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1811214"}}
@@ -1832,15 +1884,18 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7186329,44.4124669]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812202"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4728272,43.2925278000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812297"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6655961,43.9276967000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812319"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0724175999999,44.4380786]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812340"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4876566999999,43.7198902000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812358"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2917083,43.8037855000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812402"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4159291999999,43.4013544000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812533"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2348251,43.9446283]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812603"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9930793,43.4102841000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812615"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2329812,43.5210521000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812633"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5727454999999,42.9366876]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812639"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1182481,44.0639424]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812715"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0165446999999,44.6698099000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812783"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8832704,44.8156433]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812813"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1772341,43.6112680000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812829"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0588527,44.0797285]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812832"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8807879999999,43.4926697000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812865"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4342326999999,44.1073744]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1812881"}}
@@ -1867,6 +1922,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7066857,43.4017663000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814296"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7620664,44.2492516]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2905297,44.8168102000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814497"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5500862,44.3722964]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814545"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7186338,44.4124679000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814600"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1896738,43.0105962000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814698"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2218268999999,43.7198019000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814708"}}
@@ -1880,6 +1936,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3924539,43.4766764]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815091"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8064323999999,43.2277157]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815121"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8913807,44.6590845000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815132"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2428669999999,44.2165977000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815206"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2291655,42.8814347000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815326"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0785104999999,44.1352641]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815445"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2623292,44.8634549000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815448"}}
@@ -1894,6 +1951,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5211083,44.3157506000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815744"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0578274,44.2411872000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815747"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5430282999999,43.7435159]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815781"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4053421,44.9975471000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815841"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5325465,43.5583846000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815859"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5230387,42.9665299000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815861"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6197248999999,43.7293537]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1815878"}}
@@ -1918,8 +1976,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0877040999999,44.8072205]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817083"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6839505,44.6361642000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817128"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1131617,44.8118988000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817129"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2284749999999,44.3792961]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817169"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8891280999999,43.1059736]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817183"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2534959,43.8869247000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817198"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2129609,44.0452812]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817331"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1191071,44.7275864000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817368"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7902247,43.0412273000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817488"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.509856,43.1382496000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817583"}}
@@ -1936,6 +1996,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6118789,42.930057]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818022"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8252429,43.4460893]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818040"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5404434,44.1216233000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818060"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5768892999999,42.8168583]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818073"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1118059,44.49114]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818085"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8872527,43.1435967]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818098"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8140443,43.1924229000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818119"}}
@@ -1949,13 +2010,19 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1105534,43.9233735]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818438"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6727817,44.9958387]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818525"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1060337,45.0024957000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818562"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2167783,44.4541959000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818621"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2505343,44.3110625]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818714"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1607216,44.5487848000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818750"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1115551999999,44.2554351000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818844"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0470025,44.1533426]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818859"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1051543,43.9735631]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818914"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2415632,42.9287994000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818924"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1794834999999,44.454389]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819027"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4698337999999,43.4674392000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819031"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6670352,43.0490447]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819091"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9688131,44.4758918000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819135"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4287092,44.2775663]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819137"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1980948999999,44.9393389000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819146"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1372099,44.3100218000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819163"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0706341,42.7557263]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819212"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.315064,43.9842853000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819225"}}
@@ -1969,6 +2036,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.575437,44.2596177]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819823"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.304923,44.6458769000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819830"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6503005,42.9929998000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819919"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1984694,44.4813095000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819950"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0033857,44.3957337000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820050"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8849613,44.3734495]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820053"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1047981999999,44.2081341000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820068"}}
@@ -1976,7 +2044,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6089737,44.5952515000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820123"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0456091,43.1888953000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820148"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3005003,44.9771336000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820372"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5029924,42.7611616]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820454"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.502917,42.7611834000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820454"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5383251,43.6655384000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820549"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5192645,43.8183029]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820554"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0205233,43.7047660000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820610"}}
@@ -1989,7 +2057,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8076968999999,43.8760779]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820894"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8582820999999,44.7848961]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820902"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2029156999999,42.8997927]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1820975"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2514507,44.1668439000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821008"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1210363,43.9893393]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821213"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1870077999999,44.4931821000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821329"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9790985,44.6419262000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821373"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1995727999999,42.8823482000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821481"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0140471,43.5211883000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821492"}}
@@ -2027,6 +2097,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.18854,44.7070737000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822810"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7217729,43.2161748]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822908"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7884784999999,43.6450043]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822942"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2070164,43.9708240000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822946"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2507373999999,44.5383847000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822959"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9491250999999,44.6911633]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823010"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1168049,44.6000704000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823014"}}
@@ -2038,20 +2109,25 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.252421,44.5121007000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823213"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6069705,43.3823004000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823282"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2227553,44.4855766000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823343"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7558076999999,44.3366704000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823374"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9872543,44.4020677]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823413"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2077136,42.9456608]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823420"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2339345,43.8210720000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823445"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6793597,44.2921734000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823453"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9480859,44.5853401000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823460"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6051550999999,43.9426487000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823496"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2105306999999,44.4766223]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823520"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3137419,43.8927994000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823524"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6587603,44.1488017]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823538"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1121315999999,44.4421599]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823573"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5071677,43.2016284000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823586"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1133425,44.9207044]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823637"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.156315,44.5473126000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823646"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4566727,43.0671848000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823748"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5607596999999,42.8516637000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823754"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5535515999999,43.9381445000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823786"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9678668999999,43.5642172]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823925"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1121519,44.3332370000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823977"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2218136,44.0658984]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1823985"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2375959999999,42.7648895]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824001"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0212405999999,44.4186746]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824152"}}
@@ -2064,6 +2140,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2123725,44.4334777]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824431"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3136021,43.9664351000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824448"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9798570999999,43.4722371]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824551"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1683273,44.0153898]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824569"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9489134999999,43.7063635000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824612"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1663779,44.4926325000001]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824641"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1306824,43.7087837]},"properties":{"State":"VT","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824723"}}
@@ -2080,22 +2157,32 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5606534999999,44.2202657]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825811"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2076547,42.873994]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825835"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4029912999999,43.4875489]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825873"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1951928999999,44.4798594000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825941"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0094573,44.4457253]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826284"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5648585,42.8434657000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826417"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2006903,44.9558047]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826467"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6654707,43.9168774]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826584"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0724130999999,44.8077108000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826684"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.044526,43.1875635000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826882"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5907587,44.5538854000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827153"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.168172,44.0004246]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827199"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6678229,43.0489771000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827413"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1580824,44.4963721]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827444"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9555027,43.5981479000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827519"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4944126999999,43.2981477000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827567"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3431171,43.6483167000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1827893"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5606367,42.8552826000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1827985"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.22274,44.2382000000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1827991"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.61718,44.5461900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828025"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1651899999999,43.6669800000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828308"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1635808999999,44.0114366]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828427"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2003,42.8836900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828592"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.01823,44.41265]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828594"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5026999999999,44.1983500000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828609"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.97739,43.6058100000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828631"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1972499999999,42.8761700000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828733"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1873899999999,44.4913700000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828854"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8707803,42.8683818000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1828962"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.84908,42.9339600000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829079"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4492,43.07433]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829145"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.08654,43.8041900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829188"}}
@@ -2107,7 +2194,9 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1095799999999,44.32653]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829325"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.34617,43.6534100000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829355"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0070899999999,44.4207500000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829402"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.22043,44.4819900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829634"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.08021,44.8115900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829686"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1736124,44.0081725000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829695"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.388,43.4763]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829867"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.11742,44.32813]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829970"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6655699999999,43.92751]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1829979"}}
@@ -2123,6 +2212,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5786199999999,44.2118600000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830558"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.61771,44.59351]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830734"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.36306,44.5046400000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830762"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2535,44.1672100000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830777"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6202938,42.8669531]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830788"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.09477,44.8091700000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830914"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9960399999999,44.4022900000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1830963"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.26595,43.5948700000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831058"}}
@@ -2149,6 +2240,27 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2304099999999,44.37289]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832934"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.20849,44.9360600000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832986"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.20662,44.5253000000001]},"properties":{"State":"VT","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832989"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1679688999999,44.0148163000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1833110"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.109568,44.3325531]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1833652"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5076225999999,45.0082860000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1834236"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5595281,42.8545106]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1834804"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2251257999999,44.3739400000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1835108"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7736092,42.7862920000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1835719"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.212072,44.4756048]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1835756"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8663867,42.9461118]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1837349"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7686792,42.9510142]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1837417"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6017224,42.8560377000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1837429"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1770542,43.612289]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1837659"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2526224,44.1681105000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1837803"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2534583999999,44.3089409]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"1839107"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2053969,44.4464189]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840478"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4382679999999,43.2690579000001]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840490"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1908313,44.9064202000001]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840491"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1323409,44.8502298000001]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840510"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0279343,44.394818]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840514"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4254638,43.5008167]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840516"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9906177999999,43.6093265000001]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840522"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0273835,44.3960243000001]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840543"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7510123,44.3319375]},"properties":{"State":"VT","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"1840547"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1368979,42.8941369]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1840647"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3201817999999,43.6563861000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1840841"}}
@@ -2156,6 +2268,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7751886,43.104252]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1840944"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8043549,44.9049516000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841318"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5853279,44.5637225]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841361"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1768101,44.4671536000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841363"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8398541999999,42.7878864]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841585"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4749303,43.0654929]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841679"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2078107,44.5385900000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1841765"}}
@@ -2164,6 +2277,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4520419999999,44.3196053]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842077"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6309174,44.6018540000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842078"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8029652,44.7838738]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842098"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1040366,44.1578183]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842199"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0771486,44.1380606000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842389"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0388288,43.6613152]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842490"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1807532999999,44.5002302]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1842569"}}
@@ -2176,6 +2290,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8481697,43.2370540000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843608"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7873400999999,43.0482939]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843671"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.143208,44.4108961000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843675"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0985982999999,44.486813]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843841"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2635154,44.8507547]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843861"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7252907,43.1657739]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1843953"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9713609999999,43.603775]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844015"}}
@@ -2184,11 +2299,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9839191999999,43.6190975000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844139"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4831885999999,43.7894019]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844265"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5455717999999,43.613296]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844336"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5629054,42.8591995]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844391"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5756115999999,42.8532939]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844414"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6491584999999,42.9937961000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844475"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6134727,44.5919379000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844490"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1391121999999,44.8117970000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844498"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5631564,42.8538588000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844583"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.44877,44.80497]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844759"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2014584,43.8582153]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1844796"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2265606,44.3151432000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1845013"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5197045,43.6219171000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1845296"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4969060999999,43.3043907000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1845366"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1918957,44.9448861000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1845562"}}
@@ -2227,11 +2346,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5093873,43.1404914]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1848866"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0911909,44.8201275000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1848990"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4880788,43.2955722]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849020"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4054621,44.9958689000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849186"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1776758,42.946104]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849197"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1311537999999,44.949194]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849312"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1145165999999,44.7354013]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849363"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9599148,44.6246046000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849385"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1633449999999,44.0065225000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849460"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9852152999999,44.5463996]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849694"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2083301,44.4754582]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849728"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3768049,44.7382477]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1849933"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2286999999999,43.4019000000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1850313"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4563469999999,43.7849600000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1850460"}}
@@ -2239,6 +2361,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1976222,44.8106911]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1850727"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0380117999999,43.9850343000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1850816"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.766317,44.9723482000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1850942"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0553161999999,44.5130524]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1851056"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.188887,44.7062914000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1851117"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9797197,43.6131808000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1851243"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1112649999999,44.9160066000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1851327"}}
@@ -2250,9 +2373,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9861114,44.0975574]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1852590"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8828599999999,44.17961]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1852749"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9742042,43.6127725000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1852905"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3051265,44.0879322000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1852975"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8088991,43.8713266]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853028"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2064271,43.9640335]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853065"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5718362,44.2145324000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853077"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2024183,42.8983463000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853239"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5611074999999,42.8356506000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853381"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2493286,44.5133702000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853530"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5109169999999,43.1347270000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853585"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2963645999999,44.7156473000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1853758"}}
@@ -2263,6 +2389,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6377358,43.3840265000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854581"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1540314,43.0662]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854592"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9557947,43.6069321000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854629"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0736206999999,44.4402927]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854696"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5956280999999,43.2645307000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854763"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0467556,44.4984521000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1854947"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3816709,44.6543215]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855099"}}
@@ -2271,6 +2398,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4504206,43.1319722000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855327"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1278205,44.4889518000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855496"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.96309,43.6380600000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855554"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5878089999999,42.8361600000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855611"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1916671,42.8863058000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855679"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.786352,44.2534991000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855724"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2081143,42.9449084]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1855979"}}
@@ -2290,13 +2418,17 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2033756,44.9463063000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1857917"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5218977,44.5416672000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1857988"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5377026,44.9953812000001]},"properties":{"State":"NH","FCode":"73002","Feature":"School","OSM_ID":"1858081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2075177999999,44.4754896000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858173"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5394173,43.0012826]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858339"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6163632,44.8866225]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858353"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2602972999999,44.5170825000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858393"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3063789,44.9515020000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858519"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.9507387,44.6848140000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858583"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5479744,44.3732014]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858715"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0126225,44.9729964000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858810"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9662284999999,44.2946813]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858823"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.321705,44.4995897000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858848"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1653511,44.0112668]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858877"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1547118999999,44.4641689000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1858919"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5901992999999,44.562781]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1859203"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3194925,43.6575637]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1859560"}}
@@ -2313,6 +2445,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2311113,43.8192241]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860300"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8041645,44.9055703000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860310"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7531944,44.339057]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860378"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1101773999999,44.4982511000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860390"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.890293,44.4262259000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860517"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7184680999999,44.4119021000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860626"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6603936,43.9340053000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1860720"}}
@@ -2329,6 +2462,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.446254,43.1333235000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861576"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2457861,42.9313425]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861582"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4937712999999,44.1889677]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861701"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5579473,42.8401714]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861794"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1532620999999,44.1254262]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861837"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5710124999999,44.2596056]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861862"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.30236,44.6357600000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861871"}}
@@ -2336,6 +2470,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5466699999999,44.1264993]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1861963"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4848117,43.2989819000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862090"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2619999999999,44.0791100000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862279"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1614572,44.0108632000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862304"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6613518,44.1571222000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862344"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6784378999999,44.9836093000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862528"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0434013999999,43.1905654]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862531"}}
@@ -2343,6 +2478,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6194,43.7286]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862592"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9959061,43.6020735000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862631"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.02028,44.84297]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862662"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1096229,44.4678284]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862867"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.10894,43.86675]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862925"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4277021999999,43.643759]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1862971"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3093014,44.4034027000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1863217"}}
@@ -2354,12 +2490,15 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2376763999999,43.5244372000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1863745"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8198669,44.1965588]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1863878"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9441846,44.5272732]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1863892"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1388077999999,44.2442518]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864116"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.318095,43.6530726]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864177"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0600825,44.0790416]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864253"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2106345,42.8849706]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864324"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1179369,43.919767]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864497"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3942746,43.4805832000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864651"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0575272999999,44.2233926000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864699"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8940209,44.8214422]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864789"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1776950999999,44.4566918]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864830"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6885156,43.3972206]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864862"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5185724,42.7760284]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1864918"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8011188,44.904095]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865251"}}
@@ -2367,13 +2506,16 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3199465,43.6881671]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865393"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1191669999999,44.4503086]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865399"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1228202999999,44.0028576]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865551"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2116443,43.6200791000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865570"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7748372999999,44.6878927000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865723"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2359165,42.9203188000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865852"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2249896,44.3901015000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1865955"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1941282,42.8823377000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866029"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1281092,44.4477682]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866135"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5624872,42.8360890000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866261"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0244359,44.4164931]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866371"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6591769999999,43.9317328000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866482"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1634162999999,44.0365751000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866525"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0235238,44.3919642000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866531"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1885689,44.4966246000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866643"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0423762,44.5448721000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866672"}}
@@ -2382,12 +2524,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.683869,44.4627790000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1866940"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9808421,43.626512]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867162"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2382734999999,44.5010082000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867248"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5582431999999,42.8565269000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867265"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9621865,43.6177393]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867493"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1603423999999,44.5489697]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867512"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6502124,42.95986]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867569"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.416816,43.649324]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867593"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1983820999999,42.8953201]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867615"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0674625999999,42.7547644000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867761"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0583331,44.4992590000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1867938"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0831322,44.8084152000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868163"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.53721,43.45361]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868241"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2413625999999,44.3826349]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868251"}}
@@ -2397,8 +2541,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8504819999999,44.1855550000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868538"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.30321,43.70687]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868577"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5173586,43.8192513000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868626"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.2646257,44.8626725]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868759"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2479683999999,44.2067367000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868760"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.212303,44.0386842]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868803"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1936489,42.8806843]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868855"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7195971,42.8687256000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868883"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2481268,44.1669656]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1868937"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.7264603,44.465225]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869027"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1177933,43.4860968]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869085"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8423999999999,43.9799]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869133"}}
@@ -2409,6 +2557,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.39487,44.2979726]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869365"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9951455,43.3499572000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869384"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2140638,44.4880565]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869444"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5979923,42.8511093000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869467"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.905945,44.5928190000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869657"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5456363,44.1236803]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869708"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8232371,43.44586]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869713"}}
@@ -2416,17 +2565,22 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5696999,44.2630984]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869826"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0176911999999,44.4203771000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1869835"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0279667,44.6335971]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870018"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5650206,42.8517590000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870081"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1625273,44.0057915]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870141"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6303684,44.6013996]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870220"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2096274,44.5401405000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870260"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9913468999999,43.6137094000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870330"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6073219,43.0145113]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870393"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.6686435,43.0478784000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870447"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4024694999999,44.2628984]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870480"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1747283,44.0118685]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870554"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4953093999999,44.2869309000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870737"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2093699,44.4776087000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870853"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.73313,44.0923100000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1870944"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1720951999999,44.4684698]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871040"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9997964999999,44.5049835]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871145"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.79295,42.9467000000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871154"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1462514,43.9081272000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871384"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1183662999999,45.0014456000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871410"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0415864999999,44.5021557000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871484"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2992685,43.8044785000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1871517"}}
@@ -2448,9 +2602,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2557295999999,44.5412757]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1872757"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9440589,44.5191172]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1872873"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8953033,44.5082455]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1872970"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2351586999999,44.380593]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873042"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1072453,44.3262447000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873068"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1194452999999,44.6029105000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873079"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.9737148,43.600489]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873104"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4839474999999,43.305911]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873255"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2093740999999,44.4637746000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873295"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0559259999999,43.1690515000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873392"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8624869,42.8895004]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873429"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1798234,44.7489121]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1873828"}}
@@ -2462,6 +2619,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.0808299999999,44.3059700000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874170"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4854635999999,44.1681090000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874182"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8878162999999,43.1058600000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874207"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1515548,44.0204323]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874254"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.3942279999999,43.5381413000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874355"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3165377999999,43.8916648000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874361"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1137032999999,44.4933476000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1874535"}}
@@ -2472,12 +2630,26 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.3819529,44.0663910000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875427"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1511460999999,43.0659296000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875618"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.243183,44.5131557]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875652"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.573817,42.8421941]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875679"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.1799104999999,44.748882]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875690"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.4185606999999,43.6468495]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875724"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2152693,44.4839991000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875817"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.2074921999999,44.4398305]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875889"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5685865999999,44.2558023]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1875992"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1275674,43.0845783]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1876040"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.402032,44.9959794000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"1876601"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1100417,44.3447486000001]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"1876820"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5803341,44.2625735]},"properties":{"State":"VT","FCode":"83006","Feature":"State Capitol","OSM_ID":"2028793"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.550362,44.3713278000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"2036033"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1065649,43.9735514000001]},"properties":{"State":"","FCode":"78006","Feature":"Post Office","OSM_ID":"2036102"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1523822999999,43.9984193000001]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2036104"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1685507,44.0016839]},"properties":{"State":"","FCode":"74001","Feature":"Ambulance Services","OSM_ID":"2036105"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1606221,44.0172017]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2036106"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.1020784,43.9733963]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2036113"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.093903,44.1354613]},"properties":{"State":"","FCode":"73002","Feature":"School","OSM_ID":"2036114"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5608564999999,42.8365259]},"properties":{"State":"VT","FCode":"73002","Feature":"School","OSM_ID":"2062441"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5543766,42.8413953]},"properties":{"State":"VT","FCode":"82010","Feature":"Cemetery","OSM_ID":"2062442"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5634036,42.8592102000001]},"properties":{"State":"VT","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2062457"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.0568443,43.7103422000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"2063911"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8405913999999,43.9215224000001]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"2063912"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.8582435,44.7842566]},"properties":{"State":"VT","FCode":"78006","Feature":"Post Office","OSM_ID":"2063926"}}

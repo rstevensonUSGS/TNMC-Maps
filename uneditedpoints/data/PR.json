@@ -302,6 +302,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.96405,18.0782800000001]},"properties":{"State":"PR","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2040730"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1027698,18.2557548]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040731"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.4786549999999,18.4340720000001]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2040732"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5840294,18.2121874000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040733"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1159896,18.4340104]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040734"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.731349,18.463045]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040735"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.6460066,18.0405195000001]},"properties":{"State":"PR","FCode":"82010","Feature":"Cemetery","OSM_ID":"2040736"}}
@@ -510,6 +511,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.15581,18.1129]},"properties":{"State":"PR","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2040944"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.2656064,18.1327936000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040945"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.2403704,18.2983307000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040946"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.9494228999999,18.0742563000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040947"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1747556999999,18.3844402]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040948"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.2257231999999,18.4465021]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040949"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0630393,17.9633414]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2040950"}}
@@ -544,6 +546,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.8978170999999,17.9913829000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040981"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.9855699999999,18.18098]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040982"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.4225746,18.2042657000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040983"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0555998,18.4225075000001]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2040984"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.4133141,18.0507071000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040985"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.870264,18.1801084000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040986"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.7432373999999,18.4651159000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2040987"}}
@@ -866,6 +869,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.6929048,18.4385952000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041311"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0573879999999,18.2407882000001]},"properties":{"State":"PR","FCode":"82010","Feature":"Cemetery","OSM_ID":"2041312"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.041004,18.447845]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041313"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0647208999999,18.4417614000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041314"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-67.18411,18.378655]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2041316"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.159747,18.390544]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2041317"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.02964,18.2346700000001]},"properties":{"State":"PR","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2041319"}}
@@ -1081,6 +1085,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.4994212,18.0521623000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041536"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1014165999999,18.2526241]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041537"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.77133,18.37015]},"properties":{"State":"PR","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2041538"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.9445038,18.0729151]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041539"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.043378,18.4097600000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041540"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.7240035,18.0536965000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041541"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.7083064999999,18.2683935000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041542"}}
@@ -1134,6 +1139,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.06697,18.45082]},"properties":{"State":"PR","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2041591"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0047625,18.0187576000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041592"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.8926862,18.0732138000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041593"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0983416,17.9757112]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041594"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.8682917,18.0307081]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041595"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.9730731,18.4289994000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041596"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5696599999999,18.4840100000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041597"}}
@@ -1321,6 +1327,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.3257839,18.0740473000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041786"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.8731109999999,18.4722620000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041787"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.7536865,18.0604036]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041788"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1098219,17.9657922000001]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2041789"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0284531999999,18.2350916]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041790"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.847032,18.4869600000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041791"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.8381987,18.3616734]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2041792"}}
@@ -1550,6 +1557,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.169665,18.0321710000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042023"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-67.145047,18.14863]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042024"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.390576,18.4427410000001]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2042025"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.6218449,18.1982527000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042026"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0364099999999,18.3454600000001]},"properties":{"State":"PR","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2042027"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1099608,18.1262684000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042028"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.0815699999999,18.4484]},"properties":{"State":"PR","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2042029"}}
@@ -1979,6 +1987,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.08158,18.4483900000001]},"properties":{"State":"PR","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"2042469"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.39939,18.479841]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042470"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-67.139639,18.1997170000001]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2042471"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5790315,18.202003]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042472"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.9765106999999,18.3328062000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042473"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.9856369,18.3697623]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042474"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.050604,18.4358530000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042476"}}
@@ -2003,6 +2012,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.989694,18.391471]},"properties":{"State":"PR","FCode":"73006","Feature":"College / University","OSM_ID":"2042495"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.883323,18.292245]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042496"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.1716565999999,18.3630475000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042497"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.9495732,18.0739659000001]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042498"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.848,18.4852500000001]},"properties":{"State":"PR","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2042499"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.572371,18.454051]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042500"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-66.813172,17.99431]},"properties":{"State":"PR","FCode":"73002","Feature":"School","OSM_ID":"2042501"}}

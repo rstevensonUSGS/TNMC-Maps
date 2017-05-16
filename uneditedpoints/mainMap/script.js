@@ -84,7 +84,7 @@ var filtered = new L.markerClusterGroup({
 var url;
 var geoJson;
 var filtered;
-
+console.log(geoJson);
 //load state data
 $('#statelayers li').click(function() {
   url = this.id;
@@ -98,6 +98,8 @@ $('#statelayers li').click(function() {
     all.clearLayers();
     //add a header with the state name
     $("#selectedState").html("<p>Unedited Points in " + stateName + "");
+    //remove dissabled class from filters
+    $('.filter, #all, #reset').removeClass("disabled");
     geoJson = L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         var popupContent = '<a href="http://navigator.er.usgs.gov/edit?node=' + feature.properties.OSM_ID + '" target="_blank">Edit this point</a>';
@@ -168,8 +170,8 @@ $('.filter').click(function() {
   }
 });
 
-//reset button
-$("#reset").click(function() {
+//reset button and add all features button
+$("#reset, #all").click(function() {
   $(".filter").removeClass('active');
   $("button").find('span').removeClass('glyphicon glyphicon-ok');
   filtered.clearLayers();

@@ -34,6 +34,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6364535,41.5914890000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773198"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5889515,41.5378783]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773232"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7786796,41.4498217]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773455"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2681042,41.6814908000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773493"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4711695,41.6156566000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773682"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4422792999999,41.6412122]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773743"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4481129,41.6417678]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1773795"}}
@@ -81,6 +82,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6047856,41.5551004000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778010"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7522896999999,41.4378775000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778124"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4775584,41.5314902000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778170"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4939492,41.8387108000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778177"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4395011,41.5359348000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778279"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4781139,41.5192681]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778367"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.38561,41.6989901000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1778396"}}
@@ -223,6 +225,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6033967,41.5776003]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789338"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.524783,41.6437117]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789517"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4525579,41.7201007]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789654"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2699628,41.6701269000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789668"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.459502,41.5178793000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789674"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5303387,41.6442673000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789681"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7661803,41.5770436]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1789782"}}
@@ -240,6 +243,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3983906999999,41.9731545000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790683"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7100670999999,41.5137107]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790759"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4670027,41.6334343]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790886"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4070009,41.8487111000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790940"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4950593,41.5595455000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1790999"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4989484,41.5859343000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791025"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4528352,41.5959345000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791145"}}
@@ -255,6 +259,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4356119999999,41.5301016000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791661"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5528391,41.5428786000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791707"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7592356,41.564266]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1791771"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3925561999999,41.8759331000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792106"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4439457999999,41.5492682]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792180"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4964484,41.605101]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792189"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4617243,41.5217682000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1792198"}}
@@ -278,6 +283,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4658918,41.7131563]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793655"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4836703,41.6628786000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793721"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7159014,41.8037102000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1793995"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2779773,41.7236438]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794212"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4631142,41.7926002]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794240"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7436777999999,41.4084332]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794326"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6039522,41.5814892000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1794360"}}
@@ -294,6 +300,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3986685,41.9742656000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795099"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4333900999999,41.6928787000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795149"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6381201999999,41.5812112]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795151"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3828331999999,41.8528779000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795224"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4403348,41.6509344]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795291"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3964439,41.7217677]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795292"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7870128,41.4259329000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1795324"}}
@@ -327,6 +334,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5200604999999,41.5976008000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798189"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4489460999999,41.5731569000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798196"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5239496,41.6412118000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798221"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2724608,41.6857321000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798396"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6797884,41.5912109000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798397"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6179314,41.4195251]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798438"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6070078,41.5409337]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1798558"}}
@@ -344,6 +352,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7531245,41.6384326]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799535"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3661658999999,41.8562112000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799594"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4383903999999,41.6912120000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799687"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4990233,41.4425381]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799744"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6042303999999,41.6684334]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799765"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5031149,41.5012124]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799871"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4225559,41.5326016000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1799994"}}
@@ -362,6 +371,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5189496,41.6867672000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800900"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7675692,41.5870436000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800964"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4389465,41.8103780000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800965"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2819102999999,41.6886274]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1800982"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6756215999999,41.589822]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801001"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6003418999999,41.8889879000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801060"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7306229,41.474544]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1801064"}}
@@ -395,6 +405,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4139446999999,41.6934343]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803765"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7592349999999,41.4775994]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803830"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7575684999999,41.4831550000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803865"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5001237,41.8298859000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"1803967"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4250565999999,41.7451008]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804107"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4281116,41.5064906000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804285"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7689568,41.4345440000001]},"properties":{"State":"","FCode":"82010","Feature":"Cemetery","OSM_ID":"1804416"}}
@@ -467,6 +478,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3818459999999,41.8757440000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809582"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4133219999999,41.8205580000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809643"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.261836,41.6473140000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809664"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5337828999999,41.9246318]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809732"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4721380999999,41.7860963000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809749"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4932636,41.7036754000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809764"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4432116,41.8001283]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809838"}}
@@ -474,6 +486,8 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4815088,41.712817]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1809964"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4451961999999,41.7150960000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810034"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3147241999999,41.4809480000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810519"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4076919999999,41.8259348]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810556"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4041344,41.826134]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810559"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2619779999999,41.6509742000001]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810696"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4594279999999,41.8560957]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1810797"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.384833,41.877306]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"1811059"}}
@@ -499,6 +513,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.8484879,41.3173455]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813845"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4182327999999,41.8006973]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813847"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5917052999999,41.833086]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813870"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4932453,41.8628735]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1813919"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3616377,41.7684707000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814037"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4261033,41.8680743]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814088"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2734205,41.5212833000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1814361"}}
@@ -528,10 +543,12 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6701942999999,41.9134752000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816297"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5341347999999,41.722565]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816413"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1470097,41.6243019]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816583"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5373825,41.8298155000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816652"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2735881999999,41.6690219000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816747"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4598159,41.4317922000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816823"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5017847999999,41.4495230000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816851"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4307853,41.8462009]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816879"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2845225,41.7309864000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816907"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4314444,41.9387568000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816913"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5515705,41.3872062]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1816929"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5603814,41.4268243000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1817013"}}
@@ -552,12 +569,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5086271,41.625007]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818068"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7426607,41.7317314000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818260"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1766185,41.57142]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818392"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2804849999999,41.7216581000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818495"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6530976,41.5024656000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818576"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3699299,41.8161719]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818578"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4137545,41.7545348]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818773"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3079559,41.6032275000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818830"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4078903,41.8944076000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818890"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4163478,41.5962584000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1818944"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4903558,41.8057908000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819028"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4092749,41.8287795000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819051"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6542446,41.5772222000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819214"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5265663,41.7205439000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819245"}}
@@ -565,6 +584,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3276716,41.7480880000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819311"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6637794,41.4722611]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819316"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4916939,41.7190578]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819320"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2811184999999,41.7291751000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819484"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4600722,41.8189994000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819565"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6461998,41.9599822000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819615"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2358944,41.7075912]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1819625"}}
@@ -596,6 +616,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3983724,41.8228037000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1821997"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4326659,41.930752]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822028"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2789892,41.6916699000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822067"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3821023,41.8792627]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822181"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6890175999999,41.6407274000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822289"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2778547,41.6694673000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822363"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7048172999999,41.3561639000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1822397"}}
@@ -621,6 +642,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5228345,41.7065315]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824218"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2944793999999,41.7458737000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824246"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4350387,41.8099419000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824443"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5003950999999,41.8272314000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824524"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7588102999999,41.9973329000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824739"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6789984,41.9686201000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824753"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4556916,41.9511339000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1824769"}}
@@ -635,10 +657,14 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.59563,41.8874192000001]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825452"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5588261999999,41.7349455]},"properties":{"State":"RI","FCode":"74026","Feature":"Fire Station / EMS Station","OSM_ID":"1825596"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4957919999999,42.0045904]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825984"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4098772999999,41.8113276]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1825990"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4670996,41.7462896000001]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826157"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4120919,41.8107851]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826179"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4351217,41.8348902000001]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826233"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4775179,41.7052139]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826259"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3673909,41.7923853]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826278"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4099419,41.8115314]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826486"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4335023,41.8321554]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826506"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4967601,41.4309339000001]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826557"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7625662,41.9972335000001]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826588"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3064535999999,41.4970843]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"1826698"}}
@@ -678,6 +704,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4260199999999,41.8053200000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831121"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.57133,41.1769]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831122"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.43132,41.8116400000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831151"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5004268,41.8306058000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831226"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5058,42.01063]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831288"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.67009,41.9004600000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831501"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.72048,41.7325200000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1831563"}}
@@ -693,6 +720,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.33034,41.7482900000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832412"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4230899999999,41.8627700000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832520"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.36686,41.4930000000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832537"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2607786999999,41.6792625000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832567"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.49024,41.86618]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832582"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7711199999999,41.4601000000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832635"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.42294,41.8246800000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832679"}}
@@ -701,6 +729,10 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6708599999999,41.5229900000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1832983"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.54775,41.7327900000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1833024"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.46098,41.5759600000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1833057"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.382278,41.8792665]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1834470"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2771079,41.6710124000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"1836421"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5010617,41.8287701]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"1836961"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2811318999999,41.7300799000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"1837381"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4013998,41.8894892000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1840688"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3546559,41.8816097000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1840759"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3316892999999,41.7569546]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1840848"}}
@@ -749,9 +781,11 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4722876,41.6152841000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844385"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4338633,41.8232501000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844468"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3314748,41.4636445]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844509"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5015127999999,41.8298416000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844531"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.386604,41.8849155]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844618"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.1647576999999,41.6281505000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844782"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5115953,42.0047595]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844799"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2592726999999,41.7290512000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844837"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5002479999999,41.9953806]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1844894"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.6065776,41.7213159]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1845085"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3693315,41.7979626000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1845126"}}
@@ -812,6 +846,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3866687999999,41.8352356]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1849737"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.50255,42.0107]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850254"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4501313,41.7521653000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850318"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4932856,41.8635594]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850377"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3944489,41.9086381000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850436"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3478636,41.8924306000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850544"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4679419999999,41.9630914000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1850562"}}
@@ -1002,6 +1037,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4777482,41.4425785]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1863968"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.392125,41.8427563000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1863998"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7092021999999,41.5875638000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1864113"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4744681999999,41.8313876]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1864234"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5311521,41.775109]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1864247"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3963835,41.7748489000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1864492"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5054109,41.7244451]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1864581"}}
@@ -1027,6 +1063,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3993618,41.841016]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866277"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4163009,41.9085284000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866325"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4680658999999,41.9631963000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866351"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4792169999999,41.7980878000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866353"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4122247999999,41.8678929000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866379"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5206797,41.6959896000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866582"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2777129,41.6949078000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1866659"}}
@@ -1058,6 +1095,7 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4289697999999,41.8025281000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1869470"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4016551,41.8765438]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1869568"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5025615,41.8297881]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1869644"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2809061,41.7224430000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1869672"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4771402,41.7751763000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1869723"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5428918,41.8837988000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1870112"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4223454,41.7757071]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1870131"}}
@@ -1119,10 +1157,22 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4460349999999,41.7223504]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1875773"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3893694,41.896753]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1875792"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3425305,41.8600459]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1875807"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4838991999999,41.7973264]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"1875973"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5183449,41.9833567000001]},"properties":{"State":"RI","FCode":"74034","Feature":"Law Enforcement","OSM_ID":"1876708"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4145913,41.8308441]},"properties":{"State":"RI","FCode":"83006","Feature":"State Capitol","OSM_ID":"2028794"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3848637,41.879403]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2039959"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.3806150999999,41.8799422000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"2039960"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5008371,41.8321754]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"2039963"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5019313999999,41.8279065]},"properties":{"State":"RI","FCode":"80012","Feature":"Hospital / Medical Center","OSM_ID":"2039964"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4529287999999,41.8997014]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"2040085"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4564478999999,41.9027039000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"2040086"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4564948999999,41.7468528000001]},"properties":{"State":"RI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043397"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4641182999999,41.7489679]},"properties":{"State":"RI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043431"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4616458,41.7497084]},"properties":{"State":"RI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043456"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4681997,41.7423634]},"properties":{"State":"RI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043473"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4613780999999,41.7462773]},"properties":{"State":"RI","FCode":"74036","Feature":"Prison / Correctional Facility","OSM_ID":"2043604"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2841708999999,41.7355192000001]},"properties":{"State":"RI","FCode":"82010","Feature":"Cemetery","OSM_ID":"2043884"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.2696011,41.6877529000001]},"properties":{"State":"RI","FCode":"73002","Feature":"School","OSM_ID":"2043885"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4787929,42.0158507]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2064056"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5562947,41.1723045000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2064126"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4854938,41.8581441000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2064234"}}
@@ -1188,4 +1238,5 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.7620072,41.5182257000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2080994"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5902935999999,41.8325462]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081307"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4874586999999,41.4400397000001]},"properties":{"State":"RI","FCode":"78006","Feature":"Post Office","OSM_ID":"2081907"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.4231827,41.492019]},"properties":{"State":"RI","FCode":"73006","Feature":"College / University","OSM_ID":"2084484"}}
 ]}
