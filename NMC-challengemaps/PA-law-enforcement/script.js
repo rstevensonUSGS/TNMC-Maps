@@ -23,7 +23,7 @@ var map = L.map('map', {
   'zoomControl': false,
   'minZoom': 4,
   'maxBounds': bounds
-}).setView([40.63, -77.84], 7);
+}).setView([36.9621176, -91.5246844, 7);
 //zoom custom position
 L.control.zoom({
   position: 'topright'
